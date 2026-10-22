@@ -1,0 +1,5402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar-ortodox//RO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar ortodox: detaliat
+X-WR-TIMEZONE:Europe/Bucharest
+X-WR-CALDESC:Calendar ortodox (stil nou\, Biserica Ortodoxă Română). Sur
+ sa datelor: crestinortodox.ro.
+BEGIN:VEVENT
+UID:20261001-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:✝ Acoperământul Maicii Domnului
+DESCRIPTION:Acoperământul Maicii Domnului\n\nSe pomenește vedenia Sfânt
+ ului Andrei cel Nebun pentru Hristos\, care a văzut în biserica din Vlah
+ erne (Constantinopol) pe Maica Domnului ocrotind credincioșii cu vălul e
+ i.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Sfântul Ciprian
+DESCRIPTION:Sfântul Ciprian\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261003-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Sfântul Dionisie Areopagitul
+DESCRIPTION:Sfântul Dionisie Areopagitul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261004-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:† Sfântul Preot Mărturisitor Dumitru Staniloae\; Sfântul Mucen
+ ic Ierotei
+DESCRIPTION:Sfântul Preot Mărturisitor Dumitru Staniloae\; Sfântul Mucen
+ ic Ierotei\nCitiri: Ap. II Corinteni XI\, 31-33\; XII\, 1-9\; Ev. Luca VI\
+ , 31-36\nGlasul 1\, voscresna 7
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261005-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sfânta Haritina\; Sfinții Daniil și Misail de la Mănăstirea Tu
+ rnu
+DESCRIPTION:Sfânta Haritina\; Sfinții Daniil și Misail de la Mănăstire
+ a Turnu
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Sfântul Apostol Toma
+DESCRIPTION:Sfântul Apostol Toma
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:† Sfinții Mucenici Serghie și Vah
+DESCRIPTION:Sfinții Mucenici Serghie și Vah\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Sfânta Pelaghia
+DESCRIPTION:Sfânta Pelaghia
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Sfântul Apostol Iacob al lui Alfeu
+DESCRIPTION:Sfântul Apostol Iacob al lui Alfeu\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Sfinții Mucenici Evlampie și Evlampia\; Sfântul Ambrozie de la O
+ ptina
+DESCRIPTION:Sfinții Mucenici Evlampie și Evlampia\; Sfântul Ambrozie de 
+ la Optina
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261011-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Duminica Părinților de la Sinodul VII Ecumenic
+DESCRIPTION:Duminica Părinților de la Sinodul VII Ecumenic\nSfântul Apos
+ tol Filip\, unul din cei șapte diaconi\nCitiri: Ap. Galateni I\, 11-19\; 
+ Ev. Luca VII\, 11-16\nGlasul 2\, voscresna 8
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Sfinții Mucenici Tarah\, Prov și Andronic
+DESCRIPTION:Sfinții Mucenici Tarah\, Prov și Andronic
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:† Aducerea moaștelor Sfântului Apostol Andrei la Iași
+DESCRIPTION:Aducerea moaștelor Sfântului Apostol Andrei la Iași\; Sfinț
+ ii Mucenici Carp\, Papil\, Agatodor și Agatonica
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:✝ Sfânta Cuvioasă Parascheva
+DESCRIPTION:Sfânta Cuvioasa Parascheva\nRânduială: Post\n\nCuvioasa Para
+ scheva (secolul al XI-lea)\, născută în Epivata\, în Tracia\, este ocr
+ otitoarea Moldovei. Moaștele ei se păstrează la Catedrala Mitropolitan
+ ă din Iași.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Sfântul Mucenic Luchian
+DESCRIPTION:Sfântul Mucenic Luchian
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Sfântul Mucenic Longhin Sutașul
+DESCRIPTION:Sfântul Mucenic Longhin Sutașul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261017-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Sfântul Proroc Osea
+DESCRIPTION:Sfântul Proroc Osea
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261018-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:† Duminica învierii fiului văduvei din Nain\; Sfântul Apostol 
+ și Evanghelist Luca
+DESCRIPTION:Duminica învierii fiului văduvei din Nain\nSfântul Apostol 
+ și Evanghelist Luca\nCitiri: Ap. Galateni II\, 16-20\; Tit III\, 8-15\; E
+ v. Luca VIII\, 5-15\; Ioan XVII\, 1-13\nGlasul 3\, voscresna 9
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Sfântul Proroc Ioil
+DESCRIPTION:Sfântul Proroc Ioil
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Sfântul Gherasim din Kefalonia\; Sfântul Mucenic Artemie
+DESCRIPTION:Sfântul Gherasim din Kefalonia\; Sfântul Mucenic Artemie
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:† Sfinții Mărturisitori Ardeleni
+DESCRIPTION:Sfinții Mărturisitori Ardeleni\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261022-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Sfinții șapte tineri din Efes\; Sfântul Averchie\, Episcopul Ier
+ apolei
+DESCRIPTION:Sfinții șapte tineri din Efes\; Sfântul Averchie\, Episcopul
+  Ierapolei
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261023-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:† Sfântul Preot Mucenic Constantin Sârbu\; Sfântul Iacob\, rud
+ a Domnului
+DESCRIPTION:Sfântul Preot Mucenic Constantin Sârbu\; Sfântul Iacob\, rud
+ a Domnului\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261024-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Sfântul Mare Mucenic Areta
+DESCRIPTION:Sfântul Mare Mucenic Areta
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261025-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Vindecarea demonizatului din ținutul ghergheșenilor\; Sfinții Mu
+ cenici Marcian și Martirie
+DESCRIPTION:Vindecarea demonizatului din ținutul ghergheșenilor\nSfinții
+  Mucenici Marcian și Martirie\nCitiri: Ap. Efeseni II\, 4-10\; Ev. Luca V
+ III\, 26-39\nGlasul 4\, voscresna 10
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:✝ Sfântul Mare Mucenic Dimitrie\, Izvorâtorul de Mir
+DESCRIPTION:Sfântul Mucenic Dimitrie\, Izvorâtorul de Mir\n\nMare mucenic
+  din Tesalonic\, ostaș roman martirizat în jurul anului 306. I se spune 
+ Izvorâtorul de Mir pentru mirul care a curs din moaștele sale.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:✝ Sfântul Cuvios Dimitrie cel Nou (Basarabov)\; Sfântul Dimitri
+ e Basarabov
+DESCRIPTION:Sfântul Dimitrie Basarabov\n\nOcrotitorul Bucureștiului. S-a 
+ născut în satul Basarabov\, pe valea râului Lom (în Bulgaria de azi). 
+ Moaștele lui se află la Catedrala Patriarhală din București din 1774.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261028-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:† Sfântul Iachint de Vicina
+DESCRIPTION:Sfântul Iachint de Vicina\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Sfânta Mucenița Anastasia Romana
+DESCRIPTION:Sfânta Mucenița Anastasia Romana
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Sfinții Mucenici Zenovie episcopul și Zenovia\, sora sa
+DESCRIPTION:Sfinții Mucenici Zenovie episcopul și Zenovia\, sora sa\nRân
+ duială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261031-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Sfinții Apostoli Apelie\, Stahie\, Amplie\, Urban\, Aristobul și 
+ Narcis
+DESCRIPTION:Sfinții Apostoli Apelie\, Stahie\, Amplie\, Urban\, Aristobul 
+ și Narcis
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261101-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Bogatul nemilostiv și săracul Lazar\; Sfinții doctori fără de 
+ arginti Cosma și Damian
+DESCRIPTION:Bogatul nemilostiv și săracul Lazar\nSfinții doctori fără 
+ de arginti Cosma și Damian\nCitiri: Ap. Galateni VI\, 11-18\; Ev. Luca XV
+ I\, 19-31\nGlasul 5\, voscresna 11
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sfântul Gavriil cel nebun pentru Hristos
+DESCRIPTION:Sfântul Gavriil cel nebun pentru Hristos\; Sfinții Mucenici A
+ chindin\, Pigasie\, Aftonie\, Elpidifor și Agapie
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Sfinții Mucenici Achepsima\, Iosif și Aitala
+DESCRIPTION:Sfinții Mucenici Achepsima\, Iosif și Aitala
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261104-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Sfântul Cuvios Ioanichie cel Mare
+DESCRIPTION:Sfântul Cuvios Ioanichie cel Mare\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Sfinții Mucenici Galaction și Epistimi
+DESCRIPTION:Sfinții Mucenici Galaction și Epistimi
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Sfântul Pavel Mărturisitorul\, patriarhul Constantinopolului
+DESCRIPTION:Sfântul Pavel Mărturisitorul\, patriarhul Constantinopolului\
+ nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261107-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Sfinții 33 de Mucenici din Melitina
+DESCRIPTION:Sfinții 33 de Mucenici din Melitina
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261108-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:✝ Soborul Sfinților Arhangheli Mihail și Gavriil\; Învierea fi
+ icei lui Iair
+DESCRIPTION:Învierea fiicei lui Iair\nSoborul Sfinților Mihail și Gavrii
+ l\nCitiri: Ap. Evrei II\, 2-10\; Efeseni II\, 14-22\; Ev. Luca X\, 16-21\;
+  Luca VIII\, 41-56\nGlasul 6\, voscresna 1\n\nSe cinstesc Sfinții Voievoz
+ i\, Arhanghelii Mihail și Gavriil\, și toate puterile cerești.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Sfântul Nectarie Taumaturgul\, vindecătorul de cancer
+DESCRIPTION:Sfântul Nectarie Taumaturgul\, vindecătorul de cancer
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Sfântul Cuvios Mucenic Visarion de la Lainici
+DESCRIPTION:Sfântul Cuvios Mucenic Visarion de la Lainici\; Sfinții Apost
+ oli Rodion\, Olimp\, Erast\, Sosipatru și Cuart
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:† Sfântul Mina
+DESCRIPTION:Sfântul Mina\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:† Sfântul Atanasie Todoran
+DESCRIPTION:Sfântul Atanasie Todoran
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:† Sfântul Ioan Gură de Aur
+DESCRIPTION:Sfântul Ioan Gură de Aur\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261114-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Lăsatul secului pentru Postul Crăciunului\; Sfântul Apostol Fili
+ p\; Sfântul Grigorie Palama
+DESCRIPTION:Lăsatul secului pentru Postul Crăciunului\nSfântul Apostol F
+ ilip\; Sfântul Grigorie Palama
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261115-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:† Pilda samarineanului milostiv\; Începe Postul Crăciunului\; S
+ fântul Paisie de la Neamț
+DESCRIPTION:Pilda samarineanului milostiv\nÎncepe Postul Crăciunului\nSf
+ ântul Paisie de la Neamț\nCitiri: Ap. Efeseni IV\, 1-7\; Ev. Luca X\, 25
+ -37\nGlasul 7\, voscresna 2\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Sfântul Apostol și Evanghelist Matei
+DESCRIPTION:Sfântul Apostol și Evanghelist Matei\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261117-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Sfântul Grigorie Taumaturgul\, Sfântul Cuvios Lazar Zugravul și 
+ Zaharia
+DESCRIPTION:Sfântul Grigorie Taumaturgul\, Sfântul Cuvios Lazar Zugravul 
+ și Zaharia\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sfântul Mucenic Platon
+DESCRIPTION:Sfântul Mucenic Platon\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Sfântul Proroc Avdie
+DESCRIPTION:Sfântul Proroc Avdie\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:† Sfântul Cuvios Grigorie Decapolitul
+DESCRIPTION:Sfântul Cuvios Grigorie Decapolitul\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261121-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:✝ Intrarea în Biserică a Maicii Domnului (Vovidenia)
+DESCRIPTION:Intrarea în Biserica a Maicii Domnului\nRânduială: Dezlegare
+  la pește\n\nPotrivit Tradiției\, la vârsta de trei ani Fecioara Maria 
+ a fost adusă la Templul din Ierusalim\, unde a crescut până la logodnă
+ .
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261122-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Bogatul căruia i-a rodit țarina\; Sfinții Apostoli Filimon\, Oni
+ sim și Arhip
+DESCRIPTION:Bogatul căruia i-a rodit țarina\nSfinții Apostoli Filimon\, 
+ Onisim și Arhip\nCitiri: Ap. Efeseni V\, 9-19\; Ev. Luca XII\, 16-21\nGla
+ sul 8\, voscresna 3\nRânduială: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261123-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:† Sfântul Cuvios Antonie de la Iezeru Vâlcea
+DESCRIPTION:Sfântul Cuvios Antonie de la Iezeru Vâlcea\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261124-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Sfântul Mucenic Clement\, episcopul Romei
+DESCRIPTION:Sfântul Mucenic Clement\, episcopul Romei\nRânduială: Dezleg
+ are la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:† Sfânta Mucenița Ecaterina
+DESCRIPTION:Sfânta Mucenița Ecaterina\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261126-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Sfântul Stelian
+DESCRIPTION:Sfântul Stelian\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Sfântul Mucenic Iacob Persul
+DESCRIPTION:Sfântul Mucenic Iacob Persul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Sfântul Cuvios Mărturisitor Arsenie de la Prislop\; Sfântul Ște
+ fan cel Nou
+DESCRIPTION:Sfântul Cuvios Mărturisitor Arsenie de la Prislop\; Sfântul 
+ Ștefan cel Nou\; Sfântul Mucenic Irinarh\nRânduială: Dezlegare la peș
+ te
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Dregătorul bogat - păzirea poruncilor\; Sfinții Mucenici Paramon
+ \, Filumen și Valerian
+DESCRIPTION:Dregătorul bogat - păzirea poruncilor\nSfinții Mucenici Para
+ mon\, Filumen și Valerian\nCitiri: Ap. Coloseni III\, 12-16\; Ev. Luca XV
+ III\, 18-27\nGlasul 1\, voscresna 4\nRânduială: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:✝ Sfântul Apostol Andrei\, ocrotitorul României
+DESCRIPTION:Sfântul Apostol Andrei\; Sfântul Andrei Șaguna\, Mitropolitu
+ l Transilvaniei\nRânduială: Dezlegare la pește\n\nCel dintâi chemat di
+ ntre apostoli. Tradiția îl socotește apostolul românilor\, pentru prop
+ ovăduirea în Scythia Minor (Dobrogea de azi). Se pomenește și Sfântul
+  Andrei Șaguna\, mitropolitul Transilvaniei.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261201-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Sfântul Proroc Naum\, Cuviosul Filaret Milostivul
+DESCRIPTION:Sfântul Proroc Naum\, Cuviosul Filaret Milostivul\nRânduială
+ : Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261202-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:† Sfântul Cuvios Paisie de la Sihastria\; Sfântul Cuvios Cleopa
+  de la Sihastria
+DESCRIPTION:Sfântul Cuvios Paisie de la Sihastria\; Sfântul Cuvios Cleopa
+  de la Sihastria\; Sfântul Proroc Avacum\; Sfântul Porfirie Kafsokalivit
+ ul\; Sfânta Mucenița Miropia\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:† Sfântul Cuvios Gheorghe de la Cernica
+DESCRIPTION:Sfântul Cuvios Gheorghe de la Cernica\nRânduială: Dezlegare 
+ la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:† Sfânta Mucenița Varvara
+DESCRIPTION:Sfânta Mucenița Varvara\nRânduială: Dezlegare la ulei și v
+ in
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:† Sfântul Sava cel Sfințit\; Sfântul Mucenic Anastasie\; Sfân
+ tul Cuvios Nectarie
+DESCRIPTION:Sfântul Sava cel Sfințit\; Sfântul Mucenic Anastasie\; Sfân
+ tul Cuvios Nectarie\nRânduială: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261206-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:✝ Sfântul Ierarh Nicolae\; Tămăduirea femeii gârbove
+DESCRIPTION:Tămăduirea femeii gârbove\nSfântul Ierarh Nicolae\nCitiri: 
+ Ap. Evrei XIII\, 17-21\; Efeseni VI\, 10-17\; Ev. Luca VI\, 17-23\; Luca X
+ III\, 10-17\nGlasul 2\, voscresna 5\nRânduială: Dezlegare la pește\n\nA
+ rhiepiscopul Mirelor Lichiei (secolul al IV-lea)\, cunoscut pentru miloste
+ nie și ocrotitor al marinarilor și al copiilor.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261207-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:† Sfânta Mucenița Filofteia
+DESCRIPTION:Sfânta Mucenița Filofteia\nRânduială: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Sfântul Cuvios Patapie
+DESCRIPTION:Sfântul Cuvios Patapie\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Zămislirea Sfintei Fecioare Maria
+DESCRIPTION:Zămislirea Sfintei Fecioare Maria\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Sfinții Mucenici Mina\, Ermoghen și Eugraf
+DESCRIPTION:Sfinții Mucenici Mina\, Ermoghen și Eugraf\nRânduială: Dezl
+ egare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Sfântul Daniil Stâlpnicul\; Sfântul Luca cel Nou Stâlpnicul
+DESCRIPTION:Sfântul Daniil Stâlpnicul\; Sfântul Luca cel Nou Stâlpnicul
+ \nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:† Sfântul Spiridon al Trimitundei
+DESCRIPTION:Sfântul Spiridon al Trimitundei\nRânduială: Dezlegare la pe
+ ște
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261213-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:† Pilda celor poftiți la cina\; Sfântul Ierarh Dosoftei
+DESCRIPTION:Pilda celor poftiți la cina\nSfântul Ierarh Dosoftei\nCitiri:
+  Ap. Coloseni I\, 12-18\; Coloseni III\, 4-11\; Ev. Luca XIV\, 16-24\nGlas
+ ul 3\, voscresna 6\nRânduială: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Sfinții Mucenici Tirs\, Calinic\, Filimon și Apolonie
+DESCRIPTION:Sfinții Mucenici Tirs\, Calinic\, Filimon și Apolonie\nRându
+ ială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261215-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Sfântul Mucenic Elefterie\; Sfintele Mucenițe Antia și Suzana
+DESCRIPTION:Sfântul Mucenic Elefterie\; Sfintele Mucenițe Antia și Suzan
+ a\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261216-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Sfântul Proroc Agheu
+DESCRIPTION:Sfântul Proroc Agheu\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Sfântul Proroc Daniel
+DESCRIPTION:Sfântul Proroc Daniel\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261218-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:† Cuviosul Daniil Sihastru
+DESCRIPTION:Cuviosul Daniil Sihastru\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261219-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Sfântul Mucenic Bonifatie\; Cuviosul Grichentie\; Sfântul Trifon 
+ și Cuvioasa Aglaia
+DESCRIPTION:Sfântul Mucenic Bonifatie\; Cuviosul Grichentie\; Sfântul Tri
+ fon și Cuvioasa Aglaia\nRânduială: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261220-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:† Sfântul Cuvios Serafim cel Răbdător de la Sâmbăta de Sus\;
+  Sfântul Mucenic Ignatie Teoforul
+DESCRIPTION:Sfântul Cuvios Serafim cel Răbdător de la Sâmbăta de Sus\;
+  Sfântul Mucenic Ignatie Teoforul\nCitiri: Ap. Evrei XI\, 9-1032-40\; Ev.
+  Matei I\, 1-25\nGlasul 4\, voscresna 7\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261221-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Sfânta Iuliana\; Sfântul Temistocle
+DESCRIPTION:Sfânta Iuliana\; Sfântul Temistocle\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261222-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:† Sfântul Ierarh Petru Movila
+DESCRIPTION:Sfântul Ierarh Petru Movila\nRânduială: Dezlegare la ulei ș
+ i vin
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261223-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Sfinții 10 mucenici din Creta
+DESCRIPTION:Sfinții 10 mucenici din Creta\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261224-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Se încheie Postul Crăciunului\; Sfânta Mucenița Eugenia\; (Ajun
+ ul Crăciunului)
+DESCRIPTION:Se încheie Postul Crăciunului\nSfânta Mucenița Eugenia\; (A
+ junul Crăciunului)
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261225-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:✝ Nașterea Domnului (Crăciunul)\; Crăciunul - Nașterea Domnul
+ ui
+DESCRIPTION:Crăciunul - Nașterea Domnului\nRânduială: Harti\n\nNaștere
+ a Domnului Iisus Hristos în Betleem.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261226-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:✝ Soborul Maicii Domnului
+DESCRIPTION:Soborul Maicii Domnului\; Sfântul Nicodim de la Tismana\; Sfâ
+ ntul Cuvios Mucenic Gherasim de la Tismana\n\nA doua zi de Crăciun se cin
+ stește Maica Domnului\, care L-a născut pe Hristos. Se pomenesc și Sfâ
+ ntul Nicodim de la Tismana și Sfântul Gherasim.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261227-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:✝ Sfântul Arhidiacon Ștefan\; Fuga în Egipt - Duminica după N
+ așterea Domnului
+DESCRIPTION:Fuga în Egipt - Duminica după Nașterea Domnului\nSfântul Ar
+ hidiacon Ștefan\nCitiri: Ap. Fapte VI\, 8-15\; VII\, 1-547-60\; Galateni 
+ I\, 11-19\; Ev. Matei XXI\, 33-44\; Matei II\, 13-23\nGlasul 5\, voscresna
+  8\n\nPrimul martir creștin\, ucis cu pietre la Ierusalim. A treia zi de 
+ Crăciun.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261228-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Sfinții 20.000 de Mucenici arși în Nicomidia
+DESCRIPTION:Sfinții 20.000 de Mucenici arși în Nicomidia
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261229-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Sfinții 14.000 de prunci uciși din porunca lui Irod
+DESCRIPTION:Sfinții 14.000 de prunci uciși din porunca lui Irod
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261230-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Sfânta Mucenița Anisia
+DESCRIPTION:Sfânta Mucenița Anisia\nRânduială: Harti
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261231-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Sfânta Cuvioasa Melania Romana
+DESCRIPTION:Sfânta Cuvioasa Melania Romana
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270101-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:✝ Anul Nou\, Sfântul Vasile cel Mare\; Tăierea Împrejur cea du
+ pă trup a Domnului
+DESCRIPTION:Tăierea Împrejur cea după trup a Domnului\; Sfântul Vasile 
+ cel Mare (Anul Nou. Tedeum)\nRânduială: Harti\n\nTăierea împrejur cea 
+ după trup a Domnului și pomenirea Sfântului Ierarh Vasile cel Mare\, ar
+ hiepiscop al Cezareei Capadociei (secolul al IV-lea).
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270102-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Sfântul Serafim de Sarov\; Sfântul Silvestru\, episcopul Romei
+DESCRIPTION:Sfântul Serafim de Sarov\; Sfântul Silvestru\, episcopul Rome
+ i
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270103-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Sfântul Proroc Maleahi\; Sfântul Mucenic Gordie
+DESCRIPTION:Sfântul Proroc Maleahi\; Sfântul Mucenic Gordie\nCitiri: Ap. 
+ II Timotei IV\, 5-8\; Ev. Marcu I\, 1-8\nGlasul 6\, voscresna 9
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270104-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Soborul Sfinților 70 de Apostoli\; Cuviosul Teoctist
+DESCRIPTION:Soborul Sfinților 70 de Apostoli\; Cuviosul Teoctist
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270105-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Ajunul Bobotezei\; Sfântul Mucenic Teotempt și Sfânta Mucenița 
+ Teona\; Cuvioasa Sinclitichia
+DESCRIPTION:Ajunul Bobotezei\; Sfântul Mucenic Teotempt și Sfânta Muceni
+ ța Teona\; Cuvioasa Sinclitichia\nRânduială: Post negru
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270106-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:✝ Botezul Domnului (Boboteaza)\; Boboteaza - Botezul Domnului
+DESCRIPTION:Boboteaza - Botezul Domnului\nRânduială: Harti\n\nBotezul Dom
+ nului în Iordan de către Sfântul Ioan Botezătorul\, când s-a arătat 
+ Sfânta Treime.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270107-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:✝ Soborul Sfântului Ioan Botezătorul
+DESCRIPTION:Soborul Sfântului Ioan Botezătorul\n\nSe cinstește Sfântul 
+ Ioan Botezătorul\, Înaintemergătorul Domnului\, care L-a botezat pe Hri
+ stos.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270108-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Sfântul Cuvios Gheorghe Hozevitul\; Cuvioasa Domnica
+DESCRIPTION:Sfântul Cuvios Gheorghe Hozevitul\; Cuvioasa Domnica\nRânduia
+ lă: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270109-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Sfântul Mucenic Polieuct
+DESCRIPTION:Sfântul Mucenic Polieuct
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270110-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:† Cuviosul Antipa de la Călăpodești\; Sfântul Grigorie al Nis
+ ei
+DESCRIPTION:Cuviosul Antipa de la Călăpodești\; Sfântul Grigorie al Nis
+ ei\nCitiri: Ap. Efeseni IV\, 7-13\; Ev. Matei IV\, 12-17\nGlasul 7\, voscr
+ esna 10
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270111-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:† Cuviosul Teodosie cel Mare\, începătorul vieții de obste
+DESCRIPTION:Cuviosul Teodosie cel Mare\, începătorul vieții de obste
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270112-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Sfânta Mucenița Tatiana
+DESCRIPTION:Sfânta Mucenița Tatiana
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270113-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:† Sfinții Mucenici Ermil și Stratonic
+DESCRIPTION:Sfinții Mucenici Ermil și Stratonic\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270114-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Sfânta Nina\; Sfinții Părinți uciși în Sinai și Rait
+DESCRIPTION:Sfânta Nina\; Sfinții Părinți uciși în Sinai și Rait\; O
+ dovania Praznicului Botezului Domnului
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270115-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Sfântul Cuvios Pavel Tebeul
+DESCRIPTION:Sfântul Cuvios Pavel Tebeul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270116-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Închinarea cinstitului lanț al Sfântului Apostol Petru
+DESCRIPTION:Închinarea cinstitului lanț al Sfântului Apostol Petru
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270117-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:† Duminica celor zece leproși\; Sfântul Antonie cel Mare
+DESCRIPTION:Duminica celor zece leproși\nSfântul Antonie cel Mare\nCitiri
+ : Ap. Coloseni III\, 4-11\; Ev. Luca XVII\, 12-19\nGlasul 8\, voscresna 11
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270118-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:† Sfinții Atanasie și Chiril
+DESCRIPTION:Sfinții Atanasie și Chiril
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270119-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Sfântul Macarie Egipteanul
+DESCRIPTION:Sfântul Macarie Egipteanul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270120-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:† Sfântul Eftimie cel Mare
+DESCRIPTION:Sfântul Eftimie cel Mare\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270121-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Sfântul Maxim Mărturisitorul
+DESCRIPTION:Sfântul Maxim Mărturisitorul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270122-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Sfântul Apostol Timotei\; Sfântul Anastasie Persul
+DESCRIPTION:Sfântul Apostol Timotei\; Sfântul Anastasie Persul\nRânduial
+ ă: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270123-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Sfântul Clement de Ancira\; Sfântul Paulin de Nolla
+DESCRIPTION:Sfântul Clement de Ancira\; Sfântul Paulin de Nolla
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270124-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Duminica lui Zaheu\; Sfânta Xenia
+DESCRIPTION:Duminica lui Zaheu\nSfânta Xenia\nCitiri: Ap. I Timotei I\, 15
+ -17\; Ev. Luca XVIII\, 35-43\nGlasul 1\, voscresna 1
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270125-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:† Sfântul Grigorie de Nazianz\; Sfântul Bretanion
+DESCRIPTION:Sfântul Grigorie de Nazianz\; Sfântul Bretanion
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270126-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:† Sfântul Xenofont\, soția sa\, Maria\, și fiii lor Arcadie ș
+ i Ioan
+DESCRIPTION:Sfântul Xenofont\, soția sa\, Maria\, și fiii lor Arcadie ș
+ i Ioan\; Sfântul Ierarh Iosif cel Milostiv
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270127-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:† Aducerea moaștelor Sfântului Ioan Gură de Aur
+DESCRIPTION:Aducerea moaștelor Sfântului Ioan Gură de Aur\nRânduială: 
+ Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270128-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Sfântul Efrem Sirul\, Paladie și Iacob
+DESCRIPTION:Sfântul Efrem Sirul\, Paladie și Iacob
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270129-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Aducerea moaștelor Sfântului Ignatie Teoforul
+DESCRIPTION:Aducerea moaștelor Sfântului Ignatie Teoforul\nRânduială: P
+ ost
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270130-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:✝ Sfinții Trei Ierarhi
+DESCRIPTION:Sfinții Trei Ierarhi\n\nVasile cel Mare\, Grigorie Teologul ș
+ i Ioan Gură de Aur\, ocrotitorii învățământului și ai școlilor.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270131-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Sfinții Chir și Ioan
+DESCRIPTION:Sfinții Chir și Ioan\nCitiri: Ap. I Timotei IV\, 9-15\; Ev. L
+ uca XIX\, 1-10\nGlasul 2\, voscresna 2
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270201-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Sfântul Mucenic Trifon
+DESCRIPTION:Sfântul Mucenic Trifon
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270202-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:✝ Întâmpinarea Domnului (Stretenia)
+DESCRIPTION:Întâmpinarea Domnului\n\nLa 40 de zile de la naștere\, Prunc
+ ul Iisus este adus la Templu\, unde îl primește dreptul Simeon.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270203-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Sfântul și Dreptul Simeon și Sfânta Prorocița Ana
+DESCRIPTION:Sfântul și Dreptul Simeon și Sfânta Prorocița Ana\nRândui
+ ală: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270204-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Sfântul Isidor Pelusiotul
+DESCRIPTION:Sfântul Isidor Pelusiotul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270205-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Sfânta Mucenița Agata
+DESCRIPTION:Sfânta Mucenița Agata\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270206-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Sfinții Varsanufie cel Mare\; Ioan Profetul\, Vucol și Fotie
+DESCRIPTION:Sfinții Varsanufie cel Mare\; Ioan Profetul\, Vucol și Fotie
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270207-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Duminica a 16-a după Rusalii (Pilda talanților)\; Sfântul Parten
+ ie\, episcopul Lampsacului
+DESCRIPTION:Duminica a 16-a după Rusalii (Pilda talanților)\nSfântul Par
+ tenie\, episcopul Lampsacului\nCitiri: Ap. II Corinteni VI\, 1-10\; Ev. Ma
+ tei XXV\, 14-30\nGlasul 3\, voscresna 3
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270208-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Sfântul Teodor Stratilat\; Sfântul Proroc Zaharia
+DESCRIPTION:Sfântul Teodor Stratilat\; Sfântul Proroc Zaharia
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270209-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Sfântul Mucenic Nichifor
+DESCRIPTION:Sfântul Mucenic Nichifor
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270210-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:† Sfântul Haralambie
+DESCRIPTION:Sfântul Haralambie\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270211-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Sfântul Mucenic Vlasie\; Sfânta Teodora împărăteasa
+DESCRIPTION:Sfântul Mucenic Vlasie\; Sfânta Teodora împărăteasa
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270212-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Sfântul Meletie\, Arhiepiscopul Antiohiei
+DESCRIPTION:Sfântul Meletie\, Arhiepiscopul Antiohiei\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270213-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Sfântul Cuvios Martinian\; Sfinții Apostoli Acvila și Priscila\;
+  Sfântul Ierarh Evloghie
+DESCRIPTION:Sfântul Cuvios Martinian\; Sfinții Apostoli Acvila și Prisci
+ la\; Sfântul Ierarh Evloghie
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270214-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Duminica femeii cananeence\; Sfinții Cuviosi Auxentiu\, Maron și 
+ Avraam
+DESCRIPTION:Duminica femeii cananeence\nSfinții Cuviosi Auxentiu\, Maron 
+ și Avraam\nCitiri: Ap. II Corinteni VI\, 16-18\; VII\, 1\; Ev. Matei XV\,
+  21-28\nGlasul 4\, voscresna 4
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270215-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Sfântul Apostol Onisim
+DESCRIPTION:Sfântul Apostol Onisim
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270216-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Sfinții Mucenici Pamfil și Valentin
+DESCRIPTION:Sfinții Mucenici Pamfil și Valentin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270217-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Sfântul Mucenic Teodor Tiron
+DESCRIPTION:Sfântul Mucenic Teodor Tiron\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270218-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Sfântul Leon\, Papa al Romei
+DESCRIPTION:Sfântul Leon\, Papa al Romei
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270219-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Sfinții Apostoli Arhip\, Filimon și soția sa\, Apfia
+DESCRIPTION:Sfinții Apostoli Arhip\, Filimon și soția sa\, Apfia\nRându
+ ială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270220-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Sfântul Leon\, episcopul Cataniei
+DESCRIPTION:Sfântul Leon\, episcopul Cataniei
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270221-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Duminica Vameșului și a Fariseului\; Sfântul Eustatie și Sfânt
+ ul Timotei
+DESCRIPTION:Duminica Vameșului și a Fariseului\nSfântul Eustatie și Sf
+ ântul Timotei\nCitiri: Ap. II Timotei III\, 10-15\; Ev. Luca XVIII\, 10-1
+ 4\nGlasul 5\, voscresna 5
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270222-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Aflarea moaștelor sfinților mucenici din Evghenia
+DESCRIPTION:Aflarea moaștelor sfinților mucenici din Evghenia
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270223-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Policarp\, sfântul născut în temnița
+DESCRIPTION:Policarp\, sfântul născut în temnița
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270224-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:† Întâia și a două aflare a capului Sfântului Proroc Ioan Bo
+ tezătorul
+DESCRIPTION:Întâia și a două aflare a capului Sfântului Proroc Ioan Bo
+ tezătorul\; Sfântul Cuvios Petroniu de la Prodromu\nRânduială: Harti
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270225-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Sfântul Tarasie
+DESCRIPTION:Sfântul Tarasie
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270226-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Sfântul Porfirie
+DESCRIPTION:Sfântul Porfirie\nRânduială: Harti
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270227-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Sfântul Procopie Decapolitul\; Sfântul Talaleu
+DESCRIPTION:Sfântul Procopie Decapolitul\; Sfântul Talaleu
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270228-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Pilda Fiului Risipitor\; Sfinții Cuviosi Ioan Casian și Gherman
+DESCRIPTION:Pilda Fiului Risipitor\nSfinții Cuviosi Ioan Casian și Gherma
+ n \; Sfântul Cuvios Vasile Mărturisitorul\nCitiri: Ap. I Corinteni VI\, 
+ 12-20\; Ev. Luca XV\, 11-32glas 6\, voscr. 6 \; Sfantul Cuvios Vasile Mart
+ urisitorul\nGlasul 6\, voscresna 6
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270301-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Sfânta Mucenița Evdochia
+DESCRIPTION:Sfânta Mucenița Evdochia
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270302-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Sfântul Teodot\, Sfântul Nicolae Planas
+DESCRIPTION:Sfântul Teodot\, Sfântul Nicolae Planas
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270303-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Sfinții Mucenici Eutropiu\, Cleonic și Vasilisc
+DESCRIPTION:Sfinții Mucenici Eutropiu\, Cleonic și Vasilisc\nRânduială:
+  Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270304-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Sfântul Gherasim de la Iordan
+DESCRIPTION:Sfântul Gherasim de la Iordan
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270305-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Sfântul Mucenic Conon din Isauria
+DESCRIPTION:Sfântul Mucenic Conon din Isauria\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270306-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Sâmbăta morților - Moșii de iarnă\; Sfinții 42 de Mucenici di
+ n Amoreea
+DESCRIPTION:Sâmbăta morților - Moșii de iarnă\nSfinții 42 de Mucenici
+  din Amoreea\; Aflarea Sfintei Cruci
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270307-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Duminica Înfricoșătoarei Judecăți\; Lăsatul secului pentru Po
+ stul Mare (carne)
+DESCRIPTION:Duminica Înfricoșătoarei Judecăți\nLăsatul secului pentru
+  Postul Mare (carne)\nSfinții Mucenici Episcopi din Cherson\; Sfântul Mu
+ cenic Efrem\, episcopul Tomisului\nCitiri: Ap. I Corinteni VIII\, 8-13\; I
+ X\, 1-2\; Ev. Matei XXV\, 31-46\nGlasul 7\, voscresna 7
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270308-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:† Sfântul Preot Mucenic Liviu-Galaction de la Cluj
+DESCRIPTION:Sfântul Preot Mucenic Liviu-Galaction de la Cluj\; Sfântul Te
+ ofilact Mărturisitorul\, episcopul Nicomidiei\nRânduială: Dezlegare la 
+ ouă\, lapte\, brânză
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270309-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:✝ Sfinții 40 de Mucenici din Sevastia
+DESCRIPTION:40 de mucenici\, în Sevastia Armeniei\nRânduială: Dezlegare 
+ la ouă\, lapte\, brânză\n\nPatruzeci de ostași creștini martirizați 
+ în anul 320\, în Sevastia Armeniei\, prin înghețare într-un lac.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270310-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Sfinții Mucenici Codrat\, Ciprian\, Dionisie\, Pavel\, Anecton și
+  Crescent
+DESCRIPTION:Sfinții Mucenici Codrat\, Ciprian\, Dionisie\, Pavel\, Anecton
+  și Crescent\nRânduială: Dezlegare la ouă\, lapte\, brânză
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270311-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Sfântul Sofronie\, patriarhul Ierusalimului
+DESCRIPTION:Sfântul Sofronie\, patriarhul Ierusalimului\nRânduială: Dezl
+ egare la ouă\, lapte\, brânză
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270312-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Sfântul Teofan Mărturisitorul\; Sfântul Simeon Noul Teolog
+DESCRIPTION:Sfântul Teofan Mărturisitorul\; Sfântul Simeon Noul Teolog\n
+ Rânduială: Dezlegare la ouă\, lapte\, brânză
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270313-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Aducerea moaștelor Sfântului Nichifor\, patriarhul Constantinopol
+ ului\; Sfânta Ipomoni
+DESCRIPTION:Aducerea moaștelor Sfântului Nichifor\, patriarhul Constantin
+ opolului\; Sfânta Ipomoni\nRânduială: Dezlegare la ouă\, lapte\, brân
+ ză
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270314-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Duminica Lăsatului sec de brânză\; Lăsatul secului pentru Postu
+ l Mare (brânză)
+DESCRIPTION:Duminica Lăsatului sec de brânză\nLăsatul secului pentru Po
+ stul Mare (brânză)\nSfântul Benedict din Nursia\nCitiri: Ap. Romani XII
+ I\, 11-14\; XIV\, 1-4\; Ev. Matei VI\, 14-21\nGlasul 8\, voscresna 8\nRân
+ duială: Dezlegare la ouă\, lapte\, brânză
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270315-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Începe Postul Mare (Postul Paștelui)\; Sfântul Mucenic Agapie ș
+ i cei șapte mucenici
+DESCRIPTION:Începe Postul Mare (Postul Paștelui)\nSfântul Mucenic Agapie
+  și cei șapte mucenici
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270316-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Sfântul Mucenic Sabin Egipteanul
+DESCRIPTION:Sfântul Mucenic Sabin Egipteanul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270317-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Sfântul Alexie
+DESCRIPTION:Sfântul Alexie\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270318-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Sfântul Chiril al Ierusalimului
+DESCRIPTION:Sfântul Chiril al Ierusalimului\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270319-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Sfinții Mucenici Hrisant și Daria
+DESCRIPTION:Sfinții Mucenici Hrisant și Daria\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270320-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Sfinții mucenici uciși în Mănăstirea Sfântul Sava cel Sfinți
+ t
+DESCRIPTION:Sfinții mucenici uciși în Mănăstirea Sfântul Sava cel Sfi
+ nțit\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270321-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Duminica Ortodoxiei - prima Duminica din Postul Mare\; Sfântul Ier
+ arh Iacob Mărturisitorul
+DESCRIPTION:Duminica Ortodoxiei - prima Duminica din Postul Mare\nSfântul 
+ Ierarh Iacob Mărturisitorul\nCitiri: Ap. Evrei XI\, 24-2632-40\; Ev. Ioan
+  I\, 43-51\nGlasul 1\, voscresna 9\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270322-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Sfântul Vasile de Ancira\, Sfânta Drosida
+DESCRIPTION:Sfântul Vasile de Ancira\, Sfânta Drosida\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270323-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Sfântul Mucenic Nicon
+DESCRIPTION:Sfântul Mucenic Nicon\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270324-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Sfântul Cuvios Zaharia
+DESCRIPTION:Sfântul Cuvios Zaharia\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270325-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:✝ Buna Vestire
+DESCRIPTION:Buna Vestire - dezlegare la pește\nRânduială: Dezlegare la p
+ ește\n\nArhanghelul Gavriil îi vestește Fecioarei Maria că va naște p
+ e Fiul lui Dumnezeu.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270326-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Soborul Sfântului Arhanghel Gavriil
+DESCRIPTION:Soborul Sfântului Arhanghel Gavriil\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270327-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Sfânta Mucenița Matrona din Tesalonic
+DESCRIPTION:Sfânta Mucenița Matrona din Tesalonic\nRânduială: Dezlegare
+  la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270328-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Duminica Sfântului Grigorie Palama\; Sfântul Cuvios Ilarion cel N
+ ou
+DESCRIPTION:Duminica Sfântului Grigorie Palama\nSfântul Cuvios Ilarion ce
+ l Nou\nCitiri: Ap. Evrei I\, 10-14\; II\, 1-3\; VII\, 26-28\; VIII\, 1-2\;
+  Ev. Marcu II\, 1-12\; Ioan X\, 9-16\nGlasul 2\, voscresna 10\nRânduială
+ : Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270329-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Sfântul Mucenic Marcu\, episcopul Aretuselor
+DESCRIPTION:Sfântul Mucenic Marcu\, episcopul Aretuselor\nRânduială: Pos
+ t
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270330-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Sfântul Cuvios Ioan Scărarul
+DESCRIPTION:Sfântul Cuvios Ioan Scărarul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270331-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Sfântul Mucenic Ipatie\, episcopul Gangrei
+DESCRIPTION:Sfântul Mucenic Ipatie\, episcopul Gangrei\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270401-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Sfânta Cuvioasa Maria Egipteanca
+DESCRIPTION:Sfânta Cuvioasa Maria Egipteanca\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270402-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Sfântul Cuvios Tit\, făcătorul de minuni
+DESCRIPTION:Sfântul Cuvios Tit\, făcătorul de minuni\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270403-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Sfântul Nichita Mărturisitorul
+DESCRIPTION:Sfântul Nichita Mărturisitorul\nRânduială: Dezlegare la ule
+ i și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270404-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Duminica Sfintei Cruci\; Sfântul Iosif\, scriitorul de cântări
+DESCRIPTION:Duminica Sfintei Cruci\nSfântul Iosif\, scriitorul de cântăr
+ i\nCitiri: Ap. Evrei IV\, 14-16\; V\, 1-6\; Ev. Marcu VIII\, 34-38\; IX\, 
+ 1\nGlasul 3\, voscresna 11\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270405-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Sfinții Mucenici Agatopod și Teodul
+DESCRIPTION:Sfinții Mucenici Agatopod și Teodul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270406-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:† Sfântul Eutihie\, patriarhul Constantinopolului
+DESCRIPTION:Sfântul Eutihie\, patriarhul Constantinopolului\nRânduială: 
+ Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270407-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Sfântul Mucenic Caliopie
+DESCRIPTION:Sfântul Mucenic Caliopie\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270408-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:Pomenirea Sfinților Apostoli Irodion\, Agav și Ruf
+DESCRIPTION:Pomenirea Sfinților Apostoli Irodion\, Agav și Ruf\nRânduial
+ ă: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270409-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Sfântul Mucenic Eupsihie
+DESCRIPTION:Sfântul Mucenic Eupsihie\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270410-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Sfinții Mucenici Terentie\, African\, Maxim și Pompie
+DESCRIPTION:Sfinții Mucenici Terentie\, African\, Maxim și Pompie\nRându
+ ială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270411-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:† Sfântul Ierarh Calinic de la Cernica\, Sfântul Mucenic Antipa
+ \; Sfântul Farmutie
+DESCRIPTION:Sfântul Ierarh Calinic de la Cernica\, Sfântul Mucenic Antipa
+ \; Sfântul Farmutie\nCitiri: Ap. Evrei VI\, 13-20\; Efeseni V\, 8-19\; Ev
+ . Marcu IX\, 17-32\; Matei IV\, 25\; V\, 1-12\nGlasul 4\, voscresna 1\nRâ
+ nduială: Dezlegare la ulei și vin
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270412-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:† Sfântul Mucenic Sava de la Buzău
+DESCRIPTION:Sfântul Mucenic Sava de la Buzău\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270413-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:† Sfântul Mucenic Artemon
+DESCRIPTION:Sfântul Mucenic Artemon\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270414-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Sfântul Cuvios Ierarh Pahomie de la Gledin
+DESCRIPTION:Sfântul Cuvios Ierarh Pahomie de la Gledin\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270415-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Sfinții Apostoli Aristarh\, Pud și Trofim
+DESCRIPTION:Sfinții Apostoli Aristarh\, Pud și Trofim\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270416-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:† Sfintele Mucenițe Agapi\, Hionia și Irina
+DESCRIPTION:Sfintele Mucenițe Agapi\, Hionia și Irina\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270417-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Sfântul Simeon\, episcopul Persiei
+DESCRIPTION:Sfântul Simeon\, episcopul Persiei\nRânduială: Dezlegare la 
+ ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270418-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Sfântul Cuvios Ioan\, ucenicul Sfântului Grigorie Decapolitul
+DESCRIPTION:Sfântul Cuvios Ioan\, ucenicul Sfântului Grigorie Decapolitul
+ \nCitiri: Ap. Evrei IX\, 11-14\; Galateni III\, 23-29\; Ev. Marcu X\, 32-4
+ 5\; Luca VII\, 36-50\nGlasul 5\, voscresna 2\nRânduială: Dezlegare la ul
+ ei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270419-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Sfântul Cuvios Ioan Paleolavritul
+DESCRIPTION:Sfântul Cuvios Ioan Paleolavritul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270420-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:† Sfântul Teotim\, Episcopul Tomisului
+DESCRIPTION:Sfântul Teotim\, Episcopul Tomisului\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270421-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:† Sfântul Mucenic Ianuarie
+DESCRIPTION:Sfântul Mucenic Ianuarie\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270422-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Sfântul Cuvios Teodor Sicheotul
+DESCRIPTION:Sfântul Cuvios Teodor Sicheotul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270423-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:✝ Sfântul Mare Mucenic Gheorghe\; Sfântul Mucenic Gheorghe
+DESCRIPTION:Sfântul Mucenic Gheorghe\nRânduială: Post\n\nOstaș roman ma
+ rtirizat în anul 303\, numit Purtătorul de Biruință. Este ocrotitorul 
+ ostașilor și al păstorilor.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270424-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:† Sâmbăta lui Lazăr
+DESCRIPTION:Sâmbăta lui Lazăr\nSfinții Ierarhi Mărturisitori Ilie Iore
+ st\, Sava Brâncovici și Iosif din Maramureș\; Sfinții Mucenici Pasicra
+ t și Valentin de la Durostorum\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270425-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:✝ Intrarea Domnului în Ierusalim (Floriile)\; Sfântul Cuvios Va
+ sile de la Poiana Mărului
+DESCRIPTION:Intrarea Domnului în Ierusalim (Floriile)\nSfântul Cuvios Vas
+ ile de la Poiana Mărului\; Sfântul Evanghelist Marcu\nCitiri: Ap. Filipe
+ ni IV\, 4-9\; Ev. Ioan XII\, 1-18\nRânduială: Dezlegare la pește\n\nDum
+ inica dinaintea Paștilor: Hristos intră în Ierusalim\, primit de popor 
+ cu ramuri de finic și cu strigăte de laudă.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270426-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Săptămâna Patimirilor - Lunea Mare (Denie)\; Sfântul Mucenic Va
+ sile\, Episcopul Amasiei
+DESCRIPTION:Săptămâna Patimirilor - Lunea Mare (Denie) \; Sfântul Mucen
+ ic Vasile\, Episcopul Amasiei\; Sfinții Mucenici Chiril\, Chindeu și Tas
+ ie din Axiopolis
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270427-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Săptămâna Patimirilor - Martea Mare (Denie)\; Sfântul Apostol S
+ imeon\, ruda Domnului
+DESCRIPTION:Săptămâna Patimirilor - Martea Mare (Denie) \; Sfântul Apos
+ tol Simeon\, ruda Domnului
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270428-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:† Talcuirea Evangheliei din Miercurea Mare (Denie)\; Sfinții Apo
+ stoli Iason și Sosipatru
+DESCRIPTION:Talcuirea Evangheliei din Miercurea Mare (Denie) \; Sfinții Ap
+ ostoli Iason și Sosipatru
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270429-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Joia Mare\; Joia din Săptămâna Patimirilor (Denia celor 12 Evang
+ helii)
+DESCRIPTION:Joia Mare\nJoia din Săptămâna Patimirilor (Denia celor 12 Ev
+ anghelii) \; Sfinții Nouă Mucenici din Cizic\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270430-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:✝ Vinerea Mare (Vinerea Patimilor)
+DESCRIPTION:Vinerea Mare - moartea și îngroparea Domnului (Zi aliturgică
+ . Denia Prohodului Domnului) \; Sfântul Apostol Iacov\nRânduială: Post 
+ negru\n\nSe pomenesc răstignirea\, moartea și punerea în mormânt a Dom
+ nului. Este zi aliturgică\, adică fără Liturghie.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270501-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Sâmbăta Mare\; Se încheie Postul Mare (Postul Paștelui)\; Cobor
+ ârea la iad a Mântuitorului
+DESCRIPTION:Sâmbăta Mare\nSe încheie Postul Mare (Postul Paștelui)\nCob
+ orârea la iad a Mântuitorului \; Sfântul Proroc Ieremia\nRânduială: P
+ ost negru
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270502-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:✝ Învierea Domnului (Sfintele Paști)\; Aducerea moaștelor Sfâ
+ ntului Atanasie cel Mare
+DESCRIPTION:Învierea Domnului (Sfintele Paști)\nAducerea moaștelor Sfân
+ tului Atanasie cel Mare\; Sfântul Atanasie al III-lea\, Patriarhul Consta
+ ntinopolului\nCitiri: Ap. Fapte I\, 1-8\; Ev. Ioan I\, 1-17\n\nÎnvierea D
+ omnului Iisus Hristos\, cea mai mare sărbătoare a creștinătății. Urm
+ ează Săptămâna Luminată.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270503-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:✝ Sfintele Paști\, ziua a doua
+DESCRIPTION:Sfintele Paști\; Darul Învierii \; Sfântul Irodion de la Lai
+ nici\, Sfinții Mucenici Timotei și Mavra\n\nÎnvierea Domnului Iisus Hri
+ stos\, cea mai mare sărbătoare a creștinătății. Urmează Săptămân
+ a Luminată.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270504-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:✝ Sfintele Paști\, ziua a treia
+DESCRIPTION:Sfintele Paști\; Învierea Domnului - sărbătoarea luminii ș
+ i a bucuriei \; Sfânta Cuvioasa Mavra de pe Ceahlău\; Sfânta Mucenița 
+ Pelaghia\n\nÎnvierea Domnului Iisus Hristos\, cea mai mare sărbătoare a
+  creștinătății. Urmează Săptămâna Luminată.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270505-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:† Sfânta Cuvioasa Matrona de la Hurezi\; Sfânta Irina
+DESCRIPTION:Sfânta Cuvioasa Matrona de la Hurezi\; Sfânta Irina\nRânduia
+ lă: Harti
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270506-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Sfântul și Dreptul Iov
+DESCRIPTION:Sfântul și Dreptul Iov
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270507-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:✝ Izvorul Tămăduirii
+DESCRIPTION:Izvorul Tămăduirii \; Arătarea semnului Sfintei Cruci pe cer
+  la Ierusalim\nRânduială: Harti\n\nVinerea din Săptămâna Luminată\, 
+ dedicată Maicii Domnului ca izvor de vindecare\, după icoana făcătoare
+  de minuni de la Constantinopol.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270508-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:† Sfântul Apostol și Evanghelist Ioan
+DESCRIPTION:Sfântul Apostol și Evanghelist Ioan
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270509-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Apostolul Toma a fost necredincios?\; Sfântul Proroc Isaia
+DESCRIPTION:Apostolul Toma a fost necredincios?\nSfântul Proroc Isaia\; Ad
+ ucerea moaștelor Sfântului Ierarh Nicolae la Bari\nCitiri: Ap. Fapte V\,
+  12-20\; Ev. Ioan XX\, 19-31\nGlasul 1\, voscresna 1
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270510-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:† Sfântul Cuvios Calistrat de la Timișeni și Vasiova\; Sfântu
+ l Simon Zilotul
+DESCRIPTION:Sfântul Cuvios Calistrat de la Timișeni și Vasiova\; Sfântu
+ l Simon Zilotul
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270511-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:† Sfântul Cuvios Dionisie Vatopedinul de la Colciu\; Sfântul Mu
+ cenic Mochie
+DESCRIPTION:Sfântul Cuvios Dionisie Vatopedinul de la Colciu\; Sfântul Mu
+ cenic Mochie\; Sfinții Metodie și Chiril\, luminătorii slavilor
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270512-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:† Sfântul Ioan Valahul
+DESCRIPTION:Sfântul Ioan Valahul\nRânduială: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270513-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Sfânta Mucenița Glicheria
+DESCRIPTION:Sfânta Mucenița Glicheria
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270514-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Sfântul Mucenic Isidor
+DESCRIPTION:Sfântul Mucenic Isidor\nRânduială: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270515-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:† Sfântul Pahomie cel Mare\; Sfântul Ierarh Iacob Putneanul\, m
+ itropolitul Moldovei
+DESCRIPTION:Sfântul Pahomie cel Mare\; Sfântul Ierarh Iacob Putneanul\, m
+ itropolitul Moldovei
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270516-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:† Femeile Mironosite\; Sfântul Cuvios Teodor cel Sfințit
+DESCRIPTION:Femeile Mironosite\nSfântul Cuvios Teodor cel Sfințit\; Sfin
+ ții Cuviosi Sila\, Paisie și Natan de la Sihastria Putnei\nCitiri: Ap. F
+ apte VI\, 1-7\; Ev. Marcu XV\, 43-47\; XVI\, 1-8\nGlasul 2\, voscresna 3
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270517-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Sfântul Apostol Andronic
+DESCRIPTION:Sfântul Apostol Andronic
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270518-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Sfântul Mucenic Teodot
+DESCRIPTION:Sfântul Mucenic Teodot
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270519-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Sfântul Mucenic Patrichie\, episcopul Prusei
+DESCRIPTION:Sfântul Mucenic Patrichie\, episcopul Prusei\nRânduială: Dez
+ legare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270520-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Sfânta Lidia\; Sfântul Mucenic Talaleu
+DESCRIPTION:Sfânta Lidia\; Sfântul Mucenic Talaleu
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270521-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:✝ Sfinții Împărați Constantin și Elena
+DESCRIPTION:Sfinții Împărați Constantin și Elena\nRânduială: Dezlega
+ re la pește\n\nConstantin cel Mare (Edictul de la Milano\, 313) și mama 
+ sa\, Elena\, care a găsit Crucea Domnului la Ierusalim.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270522-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Sfântul Mucenic Vasilisc
+DESCRIPTION:Sfântul Mucenic Vasilisc
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270523-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Sfântul Cuvios Mihail Mărturisitorul\, episcopul Sinadei
+DESCRIPTION:Sfântul Cuvios Mihail Mărturisitorul\, episcopul Sinadei\nCit
+ iri: Ap. Fapte IX\, 32-42\; Ev. Ioan V\, 1-15\nGlasul 3\, voscresna 4
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270524-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:† Sfânta Mărturisitoare Blandina de la Iași\; Sfântul Cuvios 
+ Simeon
+DESCRIPTION:Sfânta Mărturisitoare Blandina de la Iași\; Sfântul Cuvios 
+ Simeon
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270525-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:† A treia aflare a Capului Sfântului Ioan Botezătorul
+DESCRIPTION:A treia aflare a Capului Sfântului Ioan Botezătorul
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270526-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Sfântul Apostol Carp\, unul din cei 70 de apostoli
+DESCRIPTION:Sfântul Apostol Carp\, unul din cei 70 de apostoli\nRânduial
+ ă: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270527-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Sfântul Ioan Rusul
+DESCRIPTION:Sfântul Ioan Rusul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270528-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Sfântul Nichita Mărturisitorul\, Episcopul Calcedonului
+DESCRIPTION:Sfântul Nichita Mărturisitorul\, Episcopul Calcedonului\nRân
+ duială: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270529-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Sfânta Mucenița Teodosia din Tir
+DESCRIPTION:Sfânta Mucenița Teodosia din Tir
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270530-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Sfântul Cuvios Isaachie Mărturisitorul
+DESCRIPTION:Sfântul Cuvios Isaachie Mărturisitorul\nCitiri: Ap. Fapte XI\
+ , 19-30\; Ev. Ioan IV\, 5-42\nGlasul 4\, voscresna 7
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270531-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Sfântul Apostol Ermie
+DESCRIPTION:Sfântul Apostol Ermie
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270601-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Sfântul Iustin Martirul și Filosoful
+DESCRIPTION:Sfântul Iustin Martirul și Filosoful
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270602-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:† Sfântul Ioan cel Nou de la Suceava
+DESCRIPTION:Sfântul Ioan cel Nou de la Suceava\nRânduială: Dezlegare la 
+ pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270603-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Sfinții Mucenici Luchilian\, Ipatie\, Paul\, Dionisie și Claudie
+DESCRIPTION:Sfinții Mucenici Luchilian\, Ipatie\, Paul\, Dionisie și Clau
+ die
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270604-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:† Sfinții Zotic\, Atal\, Camasis și Filip de la Niculițel
+DESCRIPTION:Sfinții Zotic\, Atal\, Camasis și Filip de la Niculițel\nRâ
+ nduială: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270605-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:† Sfânta Cuvioasa Elisabeta de la Păsărea\; Sfântul Mucenic D
+ orotei\, episcopul Tirului
+DESCRIPTION:Sfânta Cuvioasa Elisabeta de la Păsărea\; Sfântul Mucenic D
+ orotei\, episcopul Tirului
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270606-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Vindecarea orbului din naștere\; Sfântul Ilarion cel Nou
+DESCRIPTION:Vindecarea orbului din naștere\nSfântul Ilarion cel Nou\nCiti
+ ri: Ap. Fapte XVI\, 16-34\; Ev. Ioan IX\, 1-38\nGlasul 5\, voscresna 8
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270607-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Sfântul Teodot\, episcopul Ancirei
+DESCRIPTION:Sfântul Teodot\, episcopul Ancirei
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270608-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:† Aducerea moaștelor Sfântului Teodor Stratilat
+DESCRIPTION:Aducerea moaștelor Sfântului Teodor Stratilat
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270609-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Sfântul Chiril al Alexandriei
+DESCRIPTION:Sfântul Chiril al Alexandriei\nRânduială: Dezlegare la peșt
+ e
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270610-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:✝ Înălțarea Domnului (Ziua Eroilor)
+DESCRIPTION:Înălțarea Domnului - Ziua Eroilor \; Sfântul Mucenic Timote
+ i\, episcopul Prusei\n\nÎnălțarea la cer a Domnului\, la 40 de zile dup
+ ă Înviere. În România este și Ziua Eroilor.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270611-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Sfântul Apostol Vartolomeu\; Sfântul Luca al Crimeii
+DESCRIPTION:Sfântul Apostol Vartolomeu\; Sfântul Luca al Crimeii\nRândui
+ ală: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270612-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Sfântul Cuvios Onufrie cel Mare
+DESCRIPTION:Sfântul Cuvios Onufrie cel Mare
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270613-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Sfânta Mucenica Achilina
+DESCRIPTION:Sfânta Mucenica Achilina\nCitiri: Ap. Fapte XX\, 16-1828-36\; 
+ Ev. Ioan XVII\, 1-13\nGlasul 6\, voscresna 10
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270614-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Sfântul Proroc Elisei
+DESCRIPTION:Sfântul Proroc Elisei
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270615-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:† Sfântul Proroc Amos
+DESCRIPTION:Sfântul Proroc Amos
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270616-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:† Sfântul Ier. Martir Neofit Cretanul\; Sfântul Tihon
+DESCRIPTION:Sfântul Ier. Martir Neofit Cretanul\; Sfântul Tihon\nRânduia
+ lă: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270617-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:Sfinții Mucenici Manuil\, Savel și Ismail
+DESCRIPTION:Sfinții Mucenici Manuil\, Savel și Ismail
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270618-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Sfinții Mucenici Leontie\, Ipatie și Teodul
+DESCRIPTION:Sfinții Mucenici Leontie\, Ipatie și Teodul\nRânduială: Dez
+ legare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270619-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Sâmbăta morților - Moșii de vară\; Sfântul Apostol Iuda
+DESCRIPTION:Sâmbăta morților - Moșii de vară\nSfântul Apostol Iuda
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270620-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:✝ Pogorârea Duhului Sfânt (Rusaliile)\; Sfântul Mucenic Metodi
+ e\, Episcopul Patarelor
+DESCRIPTION:Pogorârea Duhului Sfânt (Rusaliile)\nSfântul Mucenic Metodie
+ \, Episcopul Patarelor\nCitiri: Ap. Fapte II\, 1-11\; Ev. Ioan VII\, 37-53
+ \; VIII\, 12\n\nLa 50 de zile de la Paști\, Duhul Sfânt Se pogoară pest
+ e apostoli. Se pomenește și Sfânta Treime. Este considerată ziua înte
+ meierii Bisericii.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270621-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:✝ Lunea Sfântului Duh
+DESCRIPTION:Lunea Sfântului Duh\; Sfântul Mucenic Iulian din Cilicia\n\nL
+ a 50 de zile de la Paști\, Duhul Sfânt Se pogoară peste apostoli. Se po
+ menește și Sfânta Treime. Este considerată ziua întemeierii Bisericii
+ .
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270622-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:† Sfântul Grigorie Dascălul\, Sfântul Mucenic Eusebie
+DESCRIPTION:Sfântul Grigorie Dascălul\, Sfântul Mucenic Eusebie
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270623-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Sfânta Mucenița Agripina
+DESCRIPTION:Sfânta Mucenița Agripina\nRânduială: Harti
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270624-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:✝ Nașterea Sfântului Ioan Botezătorul (Sânzienele)
+DESCRIPTION:Nașterea Sfântului Ioan Botezătorul\n\nNașterea Sfântului 
+ Ioan Botezătorul\, cu șase luni înaintea Nașterii Domnului.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270625-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Sfânta Mucenița Fevronia
+DESCRIPTION:Sfânta Mucenița Fevronia\nRânduială: Harti
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270626-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Sfântul Cuvios David din Tesalonic
+DESCRIPTION:Sfântul Cuvios David din Tesalonic
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270627-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Duminica Tuturor Sfinților\; Sfântul Cuvios Samson\, primitorul d
+ e străini
+DESCRIPTION:Duminica Tuturor Sfinților\nDuminica Tuturor Sfinților\nSfân
+ tul Cuvios Samson\, primitorul de străini\nCitiri: Ap. Evrei XI\, 33-40\;
+  XII\, 1-2\; Ev. Matei X\, 32-3537-38\; XIX\, 27-30\nGlasul 8\, voscresna 
+ 1
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270628-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Postul Sfinților Apostoli Petru și Pavel (o singură zi\, 28.06)
+DESCRIPTION:Postul Sfinților Apostoli Petru și Pavel (o singură zi\, 28.
+ 06)\nAflarea moaștelor Sfinților Mucenici Chir și Ioan\nRânduială: Po
+ st
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270629-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:✝ Sfinții Apostoli Petru și Pavel
+DESCRIPTION:Sfinții Apostoli Petru și Pavel\n\nCei doi apostoli\, „stâ
+ lpii Bisericii”\, martirizați la Roma în vremea împăratului Nero. S
+ ărbătoarea încheie Postul Sfinților Apostoli\, care se termină în aj
+ un (28 iunie).
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270630-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:† Soborul celor 12 Apostoli\; Sfântul Ierarh Ghelasie de la Rame
+ ț
+DESCRIPTION:Soborul celor 12 Apostoli\; Sfântul Ierarh Ghelasie de la Rame
+ ț\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270701-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:† Sfântul Leontie de la Rădăuți\; Sfinții Cosma și Damian\,
+  doctorii fără de arginti
+DESCRIPTION:Sfântul Leontie de la Rădăuți\; Sfinții Cosma și Damian\,
+  doctorii fără de arginti
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270702-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:† Sfântul Voievod Ștefan cel Mare
+DESCRIPTION:Sfântul Voievod Ștefan cel Mare\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270703-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Sfântul Mucenic Iachint
+DESCRIPTION:Sfântul Mucenic Iachint
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270704-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Duminica Sfinților Romani\, a două după Rusalii\; Sfânta Olimpi
+ a de la Fărcașa
+DESCRIPTION:Duminica Sfinților Romani\, a două după Rusalii\nSfânta Oli
+ mpia de la Fărcașa\; Sfântul Andrei Criteanul\nCitiri: Ap. Romani II\, 
+ 10-16\; Ev. Matei IV\, 18-23\nGlasul 1\, voscresna 2
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270705-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:† Sfântul Atanasie de la Aton
+DESCRIPTION:Sfântul Atanasie de la Aton
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270706-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:† Sfântul Cuvios Dometie cel Milostiv de la Rameț\; Sfântul Si
+ soe cel Mare
+DESCRIPTION:Sfântul Cuvios Dometie cel Milostiv de la Rameț\; Sfântul Si
+ soe cel Mare
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270707-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:† Sfânta Mucenița Chiriachi
+DESCRIPTION:Sfânta Mucenița Chiriachi\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270708-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:† Sfinții Epictet și Astion
+DESCRIPTION:Sfinții Epictet și Astion
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270709-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:† Sfântul Pangratie\; Cinstirea Icoanei Maicii Domnului de la M
+ ănăstirea Neamț
+DESCRIPTION:Sfântul Pangratie\; Cinstirea Icoanei Maicii Domnului de la M
+ ănăstirea Neamț\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270710-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Sfinții 45 de Mucenici din Nicopolea Armeniei
+DESCRIPTION:Sfinții 45 de Mucenici din Nicopolea Armeniei
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270711-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Sfânta Eufimia
+DESCRIPTION:Sfânta Eufimia\nCitiri: Ap. Romani V\, 1-10\; Ev. Matei VI\, 2
+ 2-23\nGlasul 2\, voscresna 3
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270712-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:† Cinstirea icoanei Maicii Domnului Prodromita\; Sfânta Veronica
+ \; Sfântul Paisie Aghioritul
+DESCRIPTION:Cinstirea icoanei Maicii Domnului Prodromita\; Sfânta Veronica
+ \; Sfântul Paisie Aghioritul\; Sfinții Mucenici Proclu și Ilarie
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270713-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:† Soborul Sfântului Arhanghel Gavriil
+DESCRIPTION:Soborul Sfântului Arhanghel Gavriil\; Aducerea moaștelor Sfâ
+ ntului Cuvios Dimitrie cel Nou la București
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270714-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Sfântul Nicodim Aghioritul
+DESCRIPTION:Sfântul Nicodim Aghioritul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270715-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Sfinții Chiric și Iulita
+DESCRIPTION:Sfinții Chiric și Iulita
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270716-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Sfântul Atinoghen
+DESCRIPTION:Sfântul Atinoghen\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270717-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Sfânta Marina
+DESCRIPTION:Sfânta Marina
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270718-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:† Vindecarea slugii sutașului - Sfântul Ioan Gură de Aur\; Sf
+ ântul Emilian de la Durostor
+DESCRIPTION:Vindecarea slugii sutașului - Sfântul Ioan Gură de Aur\nSfâ
+ ntul Emilian de la Durostor\; Sfântul Cuvios Pamvo\nCitiri: Ap. Romani VI
+ \, 18-23\; Ev. Matei VIII\, 5-13\; Ioan XVII\, 1-13\nGlasul 3\, voscresna 
+ 4
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270719-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Sfânta Macrina
+DESCRIPTION:Sfânta Macrina
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270720-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:✝ Sfântul Proroc Ilie\; Sfântul Ilie
+DESCRIPTION:Sfântul Ilie\n\nIlie Tesviteanul\, ridicat la cer într-un car
+  de foc.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270721-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:† Sfântul Proroc Iezechiel\; Cuviosii Rafael și Partenie de la 
+ Agapia
+DESCRIPTION:Sfântul Proroc Iezechiel\; Cuviosii Rafael și Partenie de la 
+ Agapia\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270722-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:† Sfântul Preot Mărturisitor Ilie Lăcătușu\; Sfânta Maria M
+ agdalena
+DESCRIPTION:Sfântul Preot Mărturisitor Ilie Lăcătușu\; Sfânta Maria M
+ agdalena
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270723-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Aducerea moaștelor Sfântului Foca
+DESCRIPTION:Aducerea moaștelor Sfântului Foca\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270724-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Sfânta Hristina
+DESCRIPTION:Sfânta Hristina
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270725-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Vindecarea celor doi demonizați din ținutul Gadarei\; Adormirea S
+ fintei Ana
+DESCRIPTION:Vindecarea celor doi demonizați din ținutul Gadarei\nAdormire
+ a Sfintei Ana\nCitiri: Ap. Romani X\, 1-10\; Ev. Matei VIII\, 28-34\; IX\,
+  1\nGlasul 4\, voscresna 5
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270726-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:† Sfântul Ermolae\; Cuviosul Ioanichie cel Nou de la Muscel
+DESCRIPTION:Sfântul Ermolae\; Cuviosul Ioanichie cel Nou de la Muscel
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270727-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:† Sfântul Mucenic Pantelimon
+DESCRIPTION:Sfântul Mucenic Pantelimon
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270728-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Sfinții Prohor\, Nicanor\, Timon și Parmena
+DESCRIPTION:Sfinții Prohor\, Nicanor\, Timon și Parmena\nRânduială: Pos
+ t
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270729-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Sfântul Mucenic Calinic
+DESCRIPTION:Sfântul Mucenic Calinic
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270730-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Sfântul Valentin\; Sfinții Apostoli Sila\, Silvan\, Crescent\, Ep
+ enetos și Andronic
+DESCRIPTION:Sfântul Valentin\; Sfinții Apostoli Sila\, Silvan\, Crescent\
+ , Epenetos și Andronic\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270731-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Sfântul Evdochim
+DESCRIPTION:Sfântul Evdochim
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270801-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Vindecarea slăbănogului din Capernaum\; Începe Postul Adormirii 
+ Maicii Domnului
+DESCRIPTION:Vindecarea slăbănogului din Capernaum\nÎncepe Postul Adormir
+ ii Maicii Domnului\nScoaterea Sfintei Cruci\nCitiri: Ap. Romani XII\, 6-14
+ \; Ev. Matei IX\, 1-8\nGlasul 5\, voscresna 6\nRânduială: Dezlegare la u
+ lei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270802-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Aducerea moaștelor Sfântului Arhidiacon Ștefan
+DESCRIPTION:Aducerea moaștelor Sfântului Arhidiacon Ștefan\nRânduială:
+  Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270803-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:† Sfântul Cuvios Iraclie din Basarabia\; Sfinții Isachie\, Dalm
+ at și Faust
+DESCRIPTION:Sfântul Cuvios Iraclie din Basarabia\; Sfinții Isachie\, Dalm
+ at și Faust\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270804-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Sfinții șapte tineri din Efes
+DESCRIPTION:Sfinții șapte tineri din Efes\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270805-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:† Sfântul Ioan Iacob Hozevitul
+DESCRIPTION:Sfântul Ioan Iacob Hozevitul\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270806-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:✝ Schimbarea la Față a Domnului
+DESCRIPTION:Schimbarea la Față a Domnului (dezlegare la pește)\nRânduia
+ lă: Dezlegare la pește\n\nPe muntele Tabor\, Iisus Se arată în slavă 
+ înaintea apostolilor Petru\, Iacov și Ioan.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270807-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:† Sfânta Teodora de la Sihla
+DESCRIPTION:Sfânta Teodora de la Sihla\nRânduială: Dezlegare la ulei și
+  vin
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270808-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Vindecarea a doi orbi și un mut în Capernaum
+DESCRIPTION:Vindecarea a doi orbi și un mut în Capernaum\nSfântul Preot 
+ Mucenic Alexandru din Basarabia\; Sfântul Emilian Mărturisitorul\, episc
+ opul Cizicului\; Sfântul Ierarh Miron\nCitiri: Ap. Romani XV\, 1-7\; Ev. 
+ Ioan IX\, 27-35\; Ioan XVII\, 1-13\nGlasul 6\, voscresna 7\nRânduială: D
+ ezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270809-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Sfântul Apostol Matia
+DESCRIPTION:Sfântul Apostol Matia\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270810-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Sfântul Lavrentie
+DESCRIPTION:Sfântul Lavrentie\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270811-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:† Sfântul Nifon\, patriarhul Constantinopolului
+DESCRIPTION:Sfântul Nifon\, patriarhul Constantinopolului\nRânduială: Po
+ st
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270812-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Sfinții Mucenici Fotie și Anichit
+DESCRIPTION:Sfinții Mucenici Fotie și Anichit\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270813-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Sfântul Tihon de Zadonsk
+DESCRIPTION:Sfântul Tihon de Zadonsk\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270814-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Se încheie Postul Adormirii Maicii Domnului\; Sfântul Proroc Mihe
+ ia
+DESCRIPTION:Se încheie Postul Adormirii Maicii Domnului\nSfântul Proroc M
+ iheia\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270815-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:✝ Adormirea Maicii Domnului (Sfânta Maria Mare)
+DESCRIPTION:Adormirea Maicii Domnului\nCitiri: Ap. Filipeni II\, 5-11I Cori
+ nteni I\, 10-17\; Ev. Luca X\, 38-42\; XI\, 27-28\; Matei XIV\, 14-22\nGla
+ sul 7\, voscresna 8\n\nSe pomenește trecerea din această viață a Maici
+ i Domnului. Sărbătoarea încheie Postul Adormirii (ultima zi de post est
+ e 14 august).
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270816-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:† Sfinții Martiri Brâncoveni
+DESCRIPTION:Sfinții Martiri Brâncoveni
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270817-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:† Sfântul Mucenic Miron\; Sfântul Gheorghe Pelerinul
+DESCRIPTION:Sfântul Mucenic Miron\; Sfântul Gheorghe Pelerinul
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270818-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Sfântul Ioan de Rila - ocrotitorul Bulgariei
+DESCRIPTION:Sfântul Ioan de Rila - ocrotitorul Bulgariei\nRânduială: Pos
+ t
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270819-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Sfântul Andrei Stratilat
+DESCRIPTION:Sfântul Andrei Stratilat
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270820-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Sfântul Proroc Samuel
+DESCRIPTION:Sfântul Proroc Samuel\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270821-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:† Sfântul Apostol Tadeu\; Sfinții Mucenici Donat\, Romul\, Silv
+ an și Venust
+DESCRIPTION:Sfântul Apostol Tadeu\; Sfinții Mucenici Donat\, Romul\, Silv
+ an și Venust
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270822-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Umblarea pe mare - potolirea furtunii\; Sfântul Mucenic Agatonic
+DESCRIPTION:Umblarea pe mare - potolirea furtunii\nSfântul Mucenic Agatoni
+ c\nCitiri: Ap. I Corinteni III\, 9-17\; Ev. Matei XIV\, 22-34\nGlasul 8\, 
+ voscresna 9
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270823-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Sfântul Mucenic Lup
+DESCRIPTION:Sfântul Mucenic Lup
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270824-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Sfântul Mucenic Eutihie
+DESCRIPTION:Sfântul Mucenic Eutihie
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270825-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Aducerea moaștelor Sfântului Apostol Bartolomeu
+DESCRIPTION:Aducerea moaștelor Sfântului Apostol Bartolomeu\nRânduială:
+  Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270826-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Sfinții Adrian și Natalia
+DESCRIPTION:Sfinții Adrian și Natalia
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270827-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Sfântul Fanurie
+DESCRIPTION:Sfântul Fanurie\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270828-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Sfântul Moise Etiopianul
+DESCRIPTION:Sfântul Moise Etiopianul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270829-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:✝ Tăierea capului Sfântului Ioan Botezătorul\; Vindecarea luna
+ ticului
+DESCRIPTION:Vindecarea lunaticului\nTăierea capului Sfântului Ioan Botez
+ ătorul\nCitiri: Ap. Fapte XIII\, 25-33I Corinteni IV\, 9-16\; Ev. Marcu V
+ I\, 14-30\; Matei XVII\, 14-23\nGlasul 1\, voscresna 10\nRânduială: Post
+  negru\n\nSe pomenește decapitarea Sfântului Ioan Botezătorul\, din por
+ unca lui Irod Antipa.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270830-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:† Sfântul Ierarh Varlaam\; Cuviosul Ioan de la Rașca și Secu\;
+  Sfântul Alexandru
+DESCRIPTION:Sfântul Ierarh Varlaam\; Cuviosul Ioan de la Rașca și Secu\;
+  Sfântul Alexandru
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270831-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:† Punerea în raclă a brâului Maicii Domnului\; Sf. Cuv. Macari
+ e Protopsaltul
+DESCRIPTION:Punerea în raclă a brâului Maicii Domnului\; Sf. Cuv. Macari
+ e Protopsaltul
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270901-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:✝ Începutul anului bisericesc\; Sfântul Dionisie Exiguul\; Înc
+ eputul anului bisericesc
+DESCRIPTION:Sfântul Dionisie Exiguul\; Începutul anului bisericesc\nRând
+ uială: Post\n\nBiserica începe un nou ciclu liturgic. Se pomenește și 
+ Sfântul Dionisie Exiguul.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270902-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Sfântul Mucenic Mamant
+DESCRIPTION:Sfântul Mucenic Mamant
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270903-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Sfântul Mucenic Antim\; Sfinții Cuviosi Neofit și Meletie de la 
+ Mănăstirea Stănișoara
+DESCRIPTION:Sfântul Mucenic Antim\; Sfinții Cuviosi Neofit și Meletie de
+  la Mănăstirea Stănișoara\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270904-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Sfântul Mucenic Vavila\; Sfântul Proroc Moise
+DESCRIPTION:Sfântul Mucenic Vavila\; Sfântul Proroc Moise
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270905-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:† Pilda datornicului nemilostiv - Predica la Duminica a XI-a dup
+ ă Rusalii
+DESCRIPTION:Pilda datornicului nemilostiv - Predica la Duminica a XI-a dup
+ ă Rusalii\nSfântul Proroc Zaharia\nCitiri: Ap. I Corinteni IX\, 2-12\; E
+ v. Matei XVIII\, 23-35\nGlasul 2\, voscresna 11
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270906-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:† Pomenirea minunii Sfântului Arhanghel Mihail în Colose
+DESCRIPTION:Pomenirea minunii Sfântului Arhanghel Mihail în Colose
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270907-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:† Sfântul Mucenic Sozont\; Cuviosii Simeon și Amfilohie de la P
+ angarati
+DESCRIPTION:Sfântul Mucenic Sozont\; Cuviosii Simeon și Amfilohie de la P
+ angarati
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270908-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:✝ Nașterea Maicii Domnului (Sfânta Maria Mică)
+DESCRIPTION:Nașterea Maicii Domnului\nRânduială: Post\n\nNașterea Fecio
+ arei Maria\, din Ioachim și Ana.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270909-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:† Sfinții Ioachim și Ana
+DESCRIPTION:Sfinții Ioachim și Ana
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270910-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Sfintele Mucenițe Minodora\, Mitrodora și Nimfodora
+DESCRIPTION:Sfintele Mucenițe Minodora\, Mitrodora și Nimfodora\nRânduia
+ lă: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270911-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Sfânta Teodora din Alexandria\; Sfântul Eufrosin bucătarul
+DESCRIPTION:Sfânta Teodora din Alexandria\; Sfântul Eufrosin bucătarul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270912-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Sfântul Mucenic Autonom
+DESCRIPTION:Sfântul Mucenic Autonom\nCitiri: Ap. Galateni VI\, 11-18\; Ev.
+  Ioan III\, 13-17\nGlasul 3\, voscresna 1
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270913-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:† Sfântul Ioan de la Prislop\; Târnosirea Bisericii Învierii d
+ in Ierusalim
+DESCRIPTION:Sfântul Ioan de la Prislop\; Târnosirea Bisericii Învierii d
+ in Ierusalim
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270914-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:✝ Înălțarea Sfintei Cruci
+DESCRIPTION:Înălțarea Sfintei Cruci\nRânduială: Post negru\n\nSe pomen
+ ește aflarea Crucii Domnului de către Sfânta Elena și înălțarea ei 
+ înaintea credincioșilor\, la Ierusalim.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270915-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:† Sfântul Ierarh Iosif cel Nou de la Partos
+DESCRIPTION:Sfântul Ierarh Iosif cel Nou de la Partos\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270916-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:† Sfântul Cuvios Mărturisitor Sofian de la Antim\; Sfânta Muce
+ nița Eufimia
+DESCRIPTION:Sfântul Cuvios Mărturisitor Sofian de la Antim\; Sfânta Muce
+ nița Eufimia
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270917-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:† Sfânta Mucenița Sofia și fiicele sale\, Pistis\, Elpis și A
+ gapis
+DESCRIPTION:Sfânta Mucenița Sofia și fiicele sale\, Pistis\, Elpis și A
+ gapis\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270918-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:† Sfântul Preot Mucenic Ilarion Felea\; Sfântul Eumenie\, episc
+ opul Gortinei
+DESCRIPTION:Sfântul Preot Mucenic Ilarion Felea\; Sfântul Eumenie\, episc
+ opul Gortinei
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270919-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Sfinții Mucenici Trofim\, Savatie și Dorimedont
+DESCRIPTION:Sfinții Mucenici Trofim\, Savatie și Dorimedont\nCitiri: Ap. 
+ Galateni II\, 16-20\; Ev. Marcu VIII\, 34-38\; IX\, 1\nGlasul 4\, voscresn
+ a 2
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270920-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:Sfântul Eustatie și soția sa\, Teopista\, cu cei doi fii: Agapie
+  și Teopist
+DESCRIPTION:Sfântul Eustatie și soția sa\, Teopista\, cu cei doi fii: Ag
+ apie și Teopist
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270921-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Sfântul Proroc Iona\; Sfântul Apostol Codrat
+DESCRIPTION:Sfântul Proroc Iona\; Sfântul Apostol Codrat
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270922-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:† Sfântul Teodosie de la Brazi
+DESCRIPTION:Sfântul Teodosie de la Brazi\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270923-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:† Zămislirea Sfântului Ioan Botezătorul
+DESCRIPTION:Zămislirea Sfântului Ioan Botezătorul
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270924-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Sfânta Mucenița Tecla\; Sfântul Siluan Athonitul
+DESCRIPTION:Sfânta Mucenița Tecla\; Sfântul Siluan Athonitul\nRânduial
+ ă: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270925-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Sfânta Cuvioasa Eufrosina\; Sfântul Serghie de Radonej
+DESCRIPTION:Sfânta Cuvioasa Eufrosina\; Sfântul Serghie de Radonej
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270926-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:† Pescuirea minunată\; Sfântul Domnitor Neagoe Basarab\; Sfânt
+ ul Ioan Evanghelistul
+DESCRIPTION:Pescuirea minunată\nSfântul Domnitor Neagoe Basarab\; Sfântu
+ l Ioan Evanghelistul\nCitiri: Ap. II Corinteni IX\, 6-11\; Ev. Luca V\, 1-
+ 11\nGlasul 5\, voscresna 3
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270927-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+SUMMARY:† Sfântul Antim Ivireanul
+DESCRIPTION:Sfântul Antim Ivireanul
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270928-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+SUMMARY:† Sfântul Cuvios Hariton Mărturisitorul
+DESCRIPTION:Sfântul Cuvios Hariton Mărturisitorul
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270929-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:Sfântul Chiriac Sihastrul
+DESCRIPTION:Sfântul Chiriac Sihastrul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270930-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Sfântul Grigorie Luminătorul
+DESCRIPTION:Sfântul Grigorie Luminătorul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271001-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:✝ Acoperământul Maicii Domnului
+DESCRIPTION:Acoperământul Maicii Domnului\nRânduială: Post\n\nSe pomene
+ ște vedenia Sfântului Andrei cel Nebun pentru Hristos\, care a văzut î
+ n biserica din Vlaherne (Constantinopol) pe Maica Domnului ocrotind credin
+ cioșii cu vălul ei.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271002-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:Sfântul Ciprian
+DESCRIPTION:Sfântul Ciprian
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271003-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:Sfântul Dionisie Areopagitul
+DESCRIPTION:Sfântul Dionisie Areopagitul\nCitiri: Ap. II Corinteni XI\, 31
+ -33\; XII\, 1-9\; Ev. Luca VI\, 31-36\nGlasul 6\, voscresna 4
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271004-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:† Sfântul Preot Mărturisitor Dumitru Staniloae\; Sfântul Mucen
+ ic Ierotei
+DESCRIPTION:Sfântul Preot Mărturisitor Dumitru Staniloae\; Sfântul Mucen
+ ic Ierotei
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271005-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Sfânta Haritina\; Sfinții Daniil și Misail de la Mănăstirea Tu
+ rnu
+DESCRIPTION:Sfânta Haritina\; Sfinții Daniil și Misail de la Mănăstire
+ a Turnu
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271006-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+SUMMARY:Sfântul Apostol Toma
+DESCRIPTION:Sfântul Apostol Toma\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271007-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:† Sfinții Mucenici Serghie și Vah
+DESCRIPTION:Sfinții Mucenici Serghie și Vah
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271008-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Sfânta Pelaghia
+DESCRIPTION:Sfânta Pelaghia\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271009-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:Sfântul Apostol Iacob al lui Alfeu
+DESCRIPTION:Sfântul Apostol Iacob al lui Alfeu
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271010-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Duminica Părinților de la Sinodul VII Ecumenic\; Sfinții Mucenic
+ i Evlampie și Evlampia
+DESCRIPTION:Duminica Părinților de la Sinodul VII Ecumenic\nSfinții Muce
+ nici Evlampie și Evlampia\; Sfântul Ambrozie de la Optina\nCitiri: Ap. G
+ alateni I\, 11-19\; Ev. Luca VII\, 11-16\nGlasul 7\, voscresna 5
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271011-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:Sfântul Apostol Filip\, unul din cei șapte diaconi
+DESCRIPTION:Sfântul Apostol Filip\, unul din cei șapte diaconi
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271012-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:Sfinții Mucenici Tarah\, Prov și Andronic
+DESCRIPTION:Sfinții Mucenici Tarah\, Prov și Andronic
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271013-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:† Aducerea moaștelor Sfântului Apostol Andrei la Iași
+DESCRIPTION:Aducerea moaștelor Sfântului Apostol Andrei la Iași\; Sfinț
+ ii Mucenici Carp\, Papil\, Agatodor și Agatonica\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271014-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:✝ Sfânta Cuvioasă Parascheva
+DESCRIPTION:Sfânta Cuvioasa Parascheva\n\nCuvioasa Parascheva (secolul al 
+ XI-lea)\, născută în Epivata\, în Tracia\, este ocrotitoarea Moldovei.
+  Moaștele ei se păstrează la Catedrala Mitropolitană din Iași.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271015-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Sfântul Mucenic Luchian
+DESCRIPTION:Sfântul Mucenic Luchian\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271016-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:Sfântul Mucenic Longhin Sutașul
+DESCRIPTION:Sfântul Mucenic Longhin Sutașul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271017-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:Duminica învierii fiului văduvei din Nain\; Sfântul Proroc Osea
+DESCRIPTION:Duminica învierii fiului văduvei din Nain\nSfântul Proroc Os
+ ea\nCitiri: Ap. Galateni II\, 16-20\; Tit III\, 8-15\; Ev. Luca VIII\, 5-1
+ 5\; Ioan XVII\, 1-13\nGlasul 8\, voscresna 6
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271018-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+SUMMARY:† Sfântul Apostol și Evanghelist Luca
+DESCRIPTION:Sfântul Apostol și Evanghelist Luca
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271019-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+SUMMARY:Sfântul Proroc Ioil
+DESCRIPTION:Sfântul Proroc Ioil
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271020-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Sfântul Gherasim din Kefalonia\; Sfântul Mucenic Artemie
+DESCRIPTION:Sfântul Gherasim din Kefalonia\; Sfântul Mucenic Artemie\nRâ
+ nduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271021-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+SUMMARY:† Sfinții Mărturisitori Ardeleni
+DESCRIPTION:Sfinții Mărturisitori Ardeleni
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271022-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:Sfinții șapte tineri din Efes\; Sfântul Averchie\, Episcopul Ier
+ apolei
+DESCRIPTION:Sfinții șapte tineri din Efes\; Sfântul Averchie\, Episcopul
+  Ierapolei\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271023-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:† Sfântul Preot Mucenic Constantin Sârbu\; Sfântul Iacob\, rud
+ a Domnului
+DESCRIPTION:Sfântul Preot Mucenic Constantin Sârbu\; Sfântul Iacob\, rud
+ a Domnului
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271024-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:Vindecarea demonizatului din ținutul ghergheșenilor\; Sfântul Ma
+ re Mucenic Areta
+DESCRIPTION:Vindecarea demonizatului din ținutul ghergheșenilor\nSfântul
+  Mare Mucenic Areta\nCitiri: Ap. Efeseni II\, 4-10\; Ev. Luca VIII\, 26-39
+ \nGlasul 1\, voscresna 7
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271025-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:Sfinții Mucenici Marcian și Martirie
+DESCRIPTION:Sfinții Mucenici Marcian și Martirie
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271026-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+SUMMARY:✝ Sfântul Mare Mucenic Dimitrie\, Izvorâtorul de Mir
+DESCRIPTION:Sfântul Mucenic Dimitrie\, Izvorâtorul de Mir\n\nMare mucenic
+  din Tesalonic\, ostaș roman martirizat în jurul anului 306. I se spune 
+ Izvorâtorul de Mir pentru mirul care a curs din moaștele sale.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271027-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:✝ Sfântul Cuvios Dimitrie cel Nou (Basarabov)\; Sfântul Dimitri
+ e Basarabov
+DESCRIPTION:Sfântul Dimitrie Basarabov\nRânduială: Post\n\nOcrotitorul B
+ ucureștiului. S-a născut în satul Basarabov\, pe valea râului Lom (în
+  Bulgaria de azi). Moaștele lui se află la Catedrala Patriarhală din Bu
+ curești din 1774.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271028-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:† Sfântul Iachint de Vicina
+DESCRIPTION:Sfântul Iachint de Vicina
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271029-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:Sfânta Mucenița Anastasia Romana
+DESCRIPTION:Sfânta Mucenița Anastasia Romana\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271030-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:Sfinții Mucenici Zenovie episcopul și Zenovia\, sora sa
+DESCRIPTION:Sfinții Mucenici Zenovie episcopul și Zenovia\, sora sa
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271031-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Bogatul nemilostiv și săracul Lazar
+DESCRIPTION:Bogatul nemilostiv și săracul Lazar\nSfinții Apostoli Apelie
+ \, Stahie\, Amplie\, Urban\, Aristobul și Narcis\nCitiri: Ap. Galateni VI
+ \, 11-18\; Ev. Luca XVI\, 19-31\nGlasul 2\, voscresna 8
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271101-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Sfinții doctori fără de arginti Cosma și Damian
+DESCRIPTION:Sfinții doctori fără de arginti Cosma și Damian
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271102-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:Sfântul Gavriil cel nebun pentru Hristos
+DESCRIPTION:Sfântul Gavriil cel nebun pentru Hristos\; Sfinții Mucenici A
+ chindin\, Pigasie\, Aftonie\, Elpidifor și Agapie
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271103-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:Sfinții Mucenici Achepsima\, Iosif și Aitala
+DESCRIPTION:Sfinții Mucenici Achepsima\, Iosif și Aitala\nRânduială: Po
+ st
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271104-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:Sfântul Cuvios Ioanichie cel Mare
+DESCRIPTION:Sfântul Cuvios Ioanichie cel Mare
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271105-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+SUMMARY:Sfinții Mucenici Galaction și Epistimi
+DESCRIPTION:Sfinții Mucenici Galaction și Epistimi\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271106-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271107
+SUMMARY:Sfântul Pavel Mărturisitorul\, patriarhul Constantinopolului
+DESCRIPTION:Sfântul Pavel Mărturisitorul\, patriarhul Constantinopolului
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271107-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:Învierea fiicei lui Iair\; Sfinții 33 de Mucenici din Melitina
+DESCRIPTION:Învierea fiicei lui Iair\nSfinții 33 de Mucenici din Melitina
+ \nCitiri: Ap. Efeseni II\, 14-22\; Ev. Luca VIII\, 41-56\nGlasul 3\, voscr
+ esna 9
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271108-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271109
+SUMMARY:✝ Soborul Sfinților Arhangheli Mihail și Gavriil
+DESCRIPTION:Soborul Sfinților Mihail și Gavriil\n\nSe cinstesc Sfinții V
+ oievozi\, Arhanghelii Mihail și Gavriil\, și toate puterile cerești.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271109-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+SUMMARY:Sfântul Nectarie Taumaturgul\, vindecătorul de cancer
+DESCRIPTION:Sfântul Nectarie Taumaturgul\, vindecătorul de cancer
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271110-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:Sfântul Cuvios Mucenic Visarion de la Lainici
+DESCRIPTION:Sfântul Cuvios Mucenic Visarion de la Lainici\; Sfinții Apost
+ oli Rodion\, Olimp\, Erast\, Sosipatru și Cuart\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271111-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:† Sfântul Mina
+DESCRIPTION:Sfântul Mina
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271112-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:† Sfântul Atanasie Todoran
+DESCRIPTION:Sfântul Atanasie Todoran\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271113-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:† Sfântul Ioan Gură de Aur
+DESCRIPTION:Sfântul Ioan Gură de Aur
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271114-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:Pilda samarineanului milostiv\; Lăsatul secului pentru Postul Cră
+ ciunului
+DESCRIPTION:Pilda samarineanului milostiv\nLăsatul secului pentru Postul C
+ răciunului\nSfântul Apostol Filip\; Sfântul Grigorie Palama\nCitiri: Ap
+ . Efeseni IV\, 1-7\; Ev. Luca X\, 25-37\nGlasul 4\, voscresna 10
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271115-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:† Începe Postul Crăciunului\; Sfântul Paisie de la Neamț
+DESCRIPTION:Începe Postul Crăciunului\nSfântul Paisie de la Neamț\nRân
+ duială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271116-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+SUMMARY:Sfântul Apostol și Evanghelist Matei
+DESCRIPTION:Sfântul Apostol și Evanghelist Matei\nRânduială: Dezlegare 
+ la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271117-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:Sfântul Grigorie Taumaturgul\, Sfântul Cuvios Lazar Zugravul și 
+ Zaharia
+DESCRIPTION:Sfântul Grigorie Taumaturgul\, Sfântul Cuvios Lazar Zugravul 
+ și Zaharia\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271118-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+SUMMARY:Sfântul Mucenic Platon
+DESCRIPTION:Sfântul Mucenic Platon\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271119-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271119
+DTEND;VALUE=DATE:20271120
+SUMMARY:Sfântul Proroc Avdie
+DESCRIPTION:Sfântul Proroc Avdie\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271120-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+SUMMARY:† Sfântul Cuvios Grigorie Decapolitul
+DESCRIPTION:Sfântul Cuvios Grigorie Decapolitul\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271121-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:✝ Intrarea în Biserică a Maicii Domnului (Vovidenia)\; Bogatul 
+ căruia i-a rodit țarina
+DESCRIPTION:Bogatul căruia i-a rodit țarina\nIntrarea în Biserica a Maic
+ ii Domnului\nCitiri: Ap. Evrei IX\, 1-7\; Efeseni V\, 9-19\; Ev. Luca X\, 
+ 38-42\; XI\, 27-28\; Luca XII\, 16-21\nGlasul 5\, voscresna 11\nRânduial
+ ă: Dezlegare la pește\n\nPotrivit Tradiției\, la vârsta de trei ani Fe
+ cioara Maria a fost adusă la Templul din Ierusalim\, unde a crescut pân
+ ă la logodnă.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271122-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+SUMMARY:Sfinții Apostoli Filimon\, Onisim și Arhip
+DESCRIPTION:Sfinții Apostoli Filimon\, Onisim și Arhip\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271123-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271123
+DTEND;VALUE=DATE:20271124
+SUMMARY:† Sfântul Cuvios Antonie de la Iezeru Vâlcea
+DESCRIPTION:Sfântul Cuvios Antonie de la Iezeru Vâlcea\nRânduială: Dezl
+ egare la ulei și vin
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271124-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+SUMMARY:Sfântul Mucenic Clement\, episcopul Romei
+DESCRIPTION:Sfântul Mucenic Clement\, episcopul Romei\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271125-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:† Sfânta Mucenița Ecaterina
+DESCRIPTION:Sfânta Mucenița Ecaterina\nRânduială: Dezlegare la ulei și
+  vin
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271126-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+SUMMARY:Sfântul Stelian
+DESCRIPTION:Sfântul Stelian\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271127-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+SUMMARY:Sfântul Mucenic Iacob Persul
+DESCRIPTION:Sfântul Mucenic Iacob Persul\nRânduială: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271128-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:Dregătorul bogat - păzirea poruncilor\; Sfântul Cuvios Mărturis
+ itor Arsenie de la Prislop
+DESCRIPTION:Dregătorul bogat - păzirea poruncilor\nSfântul Cuvios Mărtu
+ risitor Arsenie de la Prislop\; Sfântul Ștefan cel Nou\; Sfântul Muceni
+ c Irinarh\nCitiri: Ap. Coloseni III\, 12-16\; Ev. Luca XVIII\, 18-27\nGlas
+ ul 6\, voscresna 1\nRânduială: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271129-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271130
+SUMMARY:Sfinții Mucenici Paramon\, Filumen și Valerian
+DESCRIPTION:Sfinții Mucenici Paramon\, Filumen și Valerian\nRânduială: 
+ Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271130-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:✝ Sfântul Apostol Andrei\, ocrotitorul României
+DESCRIPTION:Sfântul Apostol Andrei\; Sfântul Andrei Șaguna\, Mitropolitu
+ l Transilvaniei\nRânduială: Dezlegare la pește\n\nCel dintâi chemat di
+ ntre apostoli. Tradiția îl socotește apostolul românilor\, pentru prop
+ ovăduirea în Scythia Minor (Dobrogea de azi). Se pomenește și Sfântul
+  Andrei Șaguna\, mitropolitul Transilvaniei.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271201-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:Sfântul Proroc Naum\, Cuviosul Filaret Milostivul
+DESCRIPTION:Sfântul Proroc Naum\, Cuviosul Filaret Milostivul\nRânduială
+ : Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271202-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271203
+SUMMARY:† Sfântul Cuvios Paisie de la Sihastria\; Sfântul Cuvios Cleopa
+  de la Sihastria
+DESCRIPTION:Sfântul Cuvios Paisie de la Sihastria\; Sfântul Cuvios Cleopa
+  de la Sihastria\; Sfântul Proroc Avacum\; Sfântul Porfirie Kafsokalivit
+ ul\; Sfânta Mucenița Miropia\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271203-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271204
+SUMMARY:† Sfântul Cuvios Gheorghe de la Cernica
+DESCRIPTION:Sfântul Cuvios Gheorghe de la Cernica\nRânduială: Dezlegare 
+ la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271204-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271205
+SUMMARY:† Sfânta Mucenița Varvara
+DESCRIPTION:Sfânta Mucenița Varvara\nRânduială: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271205-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271205
+DTEND;VALUE=DATE:20271206
+SUMMARY:† Tămăduirea femeii gârbove\; Sfântul Sava cel Sfințit\; Sf
+ ântul Mucenic Anastasie
+DESCRIPTION:Tămăduirea femeii gârbove\nSfântul Sava cel Sfințit\; Sfâ
+ ntul Mucenic Anastasie\; Sfântul Cuvios Nectarie\nCitiri: Ap. Efeseni VI\
+ , 10-17\; Ev. Luca XIII\, 10-17\nGlasul 7\, voscresna 2\nRânduială: Dezl
+ egare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271206-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271206
+DTEND;VALUE=DATE:20271207
+SUMMARY:✝ Sfântul Ierarh Nicolae
+DESCRIPTION:Sfântul Ierarh Nicolae\nRânduială: Dezlegare la pește\n\nAr
+ hiepiscopul Mirelor Lichiei (secolul al IV-lea)\, cunoscut pentru milosten
+ ie și ocrotitor al marinarilor și al copiilor.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271207-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+SUMMARY:† Sfânta Mucenița Filofteia
+DESCRIPTION:Sfânta Mucenița Filofteia\nRânduială: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271208-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:Sfântul Cuvios Patapie
+DESCRIPTION:Sfântul Cuvios Patapie\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271209-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271209
+DTEND;VALUE=DATE:20271210
+SUMMARY:Zămislirea Sfintei Fecioare Maria
+DESCRIPTION:Zămislirea Sfintei Fecioare Maria\nRânduială: Dezlegare la u
+ lei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271210-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:Sfinții Mucenici Mina\, Ermoghen și Eugraf
+DESCRIPTION:Sfinții Mucenici Mina\, Ermoghen și Eugraf\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271211-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:Sfântul Daniil Stâlpnicul\; Sfântul Luca cel Nou Stâlpnicul
+DESCRIPTION:Sfântul Daniil Stâlpnicul\; Sfântul Luca cel Nou Stâlpnicul
+ \nRânduială: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271212-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
+SUMMARY:† Pilda celor poftiți la cina\; Sfântul Spiridon al Trimitundei
+DESCRIPTION:Pilda celor poftiți la cina\nSfântul Spiridon al Trimitundei\
+ nCitiri: Ap. Efeseni V\, 8-19\; Coloseni I\, 12-18\; Coloseni III\, 4-11\;
+  Ev. Luca VI\, 17-23\; Luca XIV\, 16-24\nGlasul 8\, voscresna 3\nRânduial
+ ă: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271213-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+SUMMARY:† Sfântul Ierarh Dosoftei
+DESCRIPTION:Sfântul Ierarh Dosoftei\nRânduială: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271214-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
+SUMMARY:Sfinții Mucenici Tirs\, Calinic\, Filimon și Apolonie
+DESCRIPTION:Sfinții Mucenici Tirs\, Calinic\, Filimon și Apolonie\nRându
+ ială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271215-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:Sfântul Mucenic Elefterie\; Sfintele Mucenițe Antia și Suzana
+DESCRIPTION:Sfântul Mucenic Elefterie\; Sfintele Mucenițe Antia și Suzan
+ a\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271216-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+SUMMARY:Sfântul Proroc Agheu
+DESCRIPTION:Sfântul Proroc Agheu\nRânduială: Dezlegare la ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271217-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+SUMMARY:Sfântul Proroc Daniel
+DESCRIPTION:Sfântul Proroc Daniel\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271218-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271218
+DTEND;VALUE=DATE:20271219
+SUMMARY:† Cuviosul Daniil Sihastru
+DESCRIPTION:Cuviosul Daniil Sihastru\nRânduială: Dezlegare la pește
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271219-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271219
+DTEND;VALUE=DATE:20271220
+SUMMARY:Sfântul Mucenic Bonifatie\; Cuviosul Grichentie\; Sfântul Trifon 
+ și Cuvioasa Aglaia
+DESCRIPTION:Sfântul Mucenic Bonifatie\; Cuviosul Grichentie\; Sfântul Tri
+ fon și Cuvioasa Aglaia\nCitiri: Ap. Evrei XI\, 9-1032-40\; Ev. Matei I\, 
+ 1-25\nGlasul 1\, voscresna 4\nRânduială: Dezlegare la pește
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271220-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271220
+DTEND;VALUE=DATE:20271221
+SUMMARY:† Sfântul Cuvios Serafim cel Răbdător de la Sâmbăta de Sus\;
+  Sfântul Mucenic Ignatie Teoforul
+DESCRIPTION:Sfântul Cuvios Serafim cel Răbdător de la Sâmbăta de Sus\;
+  Sfântul Mucenic Ignatie Teoforul\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271221-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271221
+DTEND;VALUE=DATE:20271222
+SUMMARY:Sfânta Iuliana\; Sfântul Temistocle
+DESCRIPTION:Sfânta Iuliana\; Sfântul Temistocle\nRânduială: Dezlegare l
+ a ulei și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271222-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+SUMMARY:† Sfântul Ierarh Petru Movila
+DESCRIPTION:Sfântul Ierarh Petru Movila\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271223-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271223
+DTEND;VALUE=DATE:20271224
+SUMMARY:Sfinții 10 mucenici din Creta
+DESCRIPTION:Sfinții 10 mucenici din Creta\nRânduială: Dezlegare la ulei 
+ și vin
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271224-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:Se încheie Postul Crăciunului\; Sfânta Mucenița Eugenia\; (Ajun
+ ul Crăciunului)
+DESCRIPTION:Se încheie Postul Crăciunului\nSfânta Mucenița Eugenia\; (A
+ junul Crăciunului)
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271225-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:✝ Nașterea Domnului (Crăciunul)\; Crăciunul - Nașterea Domnul
+ ui
+DESCRIPTION:Crăciunul - Nașterea Domnului\n\nNașterea Domnului Iisus Hri
+ stos în Betleem.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271226-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:✝ Soborul Maicii Domnului\; Fuga în Egipt - Duminica după Nașt
+ erea Domnului
+DESCRIPTION:Fuga în Egipt - Duminica după Nașterea Domnului\nSoborul Mai
+ cii Domnului\; Sfântul Nicodim de la Tismana\; Sfântul Cuvios Mucenic Gh
+ erasim de la Tismana\nCitiri: Ap. Evrei II\, 11-18\; Galateni V\, 22\; VI\
+ , 2\; Galateni I\, 11-19\; Ev. Matei II\, 13-23\; Matei XI\, 27-30\; Matei
+  II\, 13-23\nGlasul 2\, voscresna 5\n\nA doua zi de Crăciun se cinstește
+  Maica Domnului\, care L-a născut pe Hristos. Se pomenesc și Sfântul Ni
+ codim de la Tismana și Sfântul Gherasim.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271227-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+SUMMARY:✝ Sfântul Arhidiacon Ștefan
+DESCRIPTION:Sfântul Arhidiacon Ștefan\n\nPrimul martir creștin\, ucis cu
+  pietre la Ierusalim. A treia zi de Crăciun.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271228-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271228
+DTEND;VALUE=DATE:20271229
+SUMMARY:Sfinții 20.000 de Mucenici arși în Nicomidia
+DESCRIPTION:Sfinții 20.000 de Mucenici arși în Nicomidia
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271229-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271229
+DTEND;VALUE=DATE:20271230
+SUMMARY:Sfinții 14.000 de prunci uciși din porunca lui Irod
+DESCRIPTION:Sfinții 14.000 de prunci uciși din porunca lui Irod\nRânduia
+ lă: Harti
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271230-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+SUMMARY:Sfânta Mucenița Anisia
+DESCRIPTION:Sfânta Mucenița Anisia
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271231-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Sfânta Cuvioasa Melania Romana
+DESCRIPTION:Sfânta Cuvioasa Melania Romana\nRânduială: Harti
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280101-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:✝ Anul Nou\, Sfântul Vasile cel Mare\; Tăierea Împrejur cea du
+ pă trup a Domnului
+DESCRIPTION:Tăierea Împrejur cea după trup a Domnului\; Sfântul Vasile 
+ cel Mare (Anul Nou. Tedeum)\n\nTăierea împrejur cea după trup a Domnulu
+ i și pomenirea Sfântului Ierarh Vasile cel Mare\, arhiepiscop al Cezaree
+ i Capadociei (secolul al IV-lea).
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280102-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+SUMMARY:Sfântul Serafim de Sarov\; Sfântul Silvestru\, episcopul Romei
+DESCRIPTION:Sfântul Serafim de Sarov\; Sfântul Silvestru\, episcopul Rome
+ i\nCitiri: Ap. II Timotei IV\, 5-8\; Ev. Marcu I\, 1-8\nGlasul 3\, voscres
+ na 6
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280103-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280103
+DTEND;VALUE=DATE:20280104
+SUMMARY:Sfântul Proroc Maleahi\; Sfântul Mucenic Gordie
+DESCRIPTION:Sfântul Proroc Maleahi\; Sfântul Mucenic Gordie
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280104-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280104
+DTEND;VALUE=DATE:20280105
+SUMMARY:Soborul Sfinților 70 de Apostoli\; Cuviosul Teoctist
+DESCRIPTION:Soborul Sfinților 70 de Apostoli\; Cuviosul Teoctist
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280105-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280105
+DTEND;VALUE=DATE:20280106
+SUMMARY:Ajunul Bobotezei\; Sfântul Mucenic Teotempt și Sfânta Mucenița 
+ Teona\; Cuvioasa Sinclitichia
+DESCRIPTION:Ajunul Bobotezei\; Sfântul Mucenic Teotempt și Sfânta Muceni
+ ța Teona\; Cuvioasa Sinclitichia\nRânduială: Post negru
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280106-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:✝ Botezul Domnului (Boboteaza)\; Boboteaza - Botezul Domnului
+DESCRIPTION:Boboteaza - Botezul Domnului\n\nBotezul Domnului în Iordan de 
+ către Sfântul Ioan Botezătorul\, când s-a arătat Sfânta Treime.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280107-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280107
+DTEND;VALUE=DATE:20280108
+SUMMARY:✝ Soborul Sfântului Ioan Botezătorul
+DESCRIPTION:Soborul Sfântului Ioan Botezătorul\nRânduială: Dezlegare la
+  pește\n\nSe cinstește Sfântul Ioan Botezătorul\, Înaintemergătorul 
+ Domnului\, care L-a botezat pe Hristos.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280108-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280108
+DTEND;VALUE=DATE:20280109
+SUMMARY:Sfântul Cuvios Gheorghe Hozevitul\; Cuvioasa Domnica
+DESCRIPTION:Sfântul Cuvios Gheorghe Hozevitul\; Cuvioasa Domnica
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280109-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280109
+DTEND;VALUE=DATE:20280110
+SUMMARY:Sfântul Mucenic Polieuct
+DESCRIPTION:Sfântul Mucenic Polieuct\nCitiri: Ap. Efeseni IV\, 7-13\; Ev. 
+ Matei IV\, 12-17\nGlasul 4\, voscresna 7
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280110-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+SUMMARY:† Cuviosul Antipa de la Călăpodești\; Sfântul Grigorie al Nis
+ ei
+DESCRIPTION:Cuviosul Antipa de la Călăpodești\; Sfântul Grigorie al Nis
+ ei
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280111-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280111
+DTEND;VALUE=DATE:20280112
+SUMMARY:† Cuviosul Teodosie cel Mare\, începătorul vieții de obste
+DESCRIPTION:Cuviosul Teodosie cel Mare\, începătorul vieții de obste
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280112-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+SUMMARY:Sfânta Mucenița Tatiana
+DESCRIPTION:Sfânta Mucenița Tatiana\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280113-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280113
+DTEND;VALUE=DATE:20280114
+SUMMARY:† Sfinții Mucenici Ermil și Stratonic
+DESCRIPTION:Sfinții Mucenici Ermil și Stratonic
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280114-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280114
+DTEND;VALUE=DATE:20280115
+SUMMARY:Sfânta Nina\; Sfinții Părinți uciși în Sinai și Rait
+DESCRIPTION:Sfânta Nina\; Sfinții Părinți uciși în Sinai și Rait\; O
+ dovania Praznicului Botezului Domnului\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280115-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280115
+DTEND;VALUE=DATE:20280116
+SUMMARY:Sfântul Cuvios Pavel Tebeul
+DESCRIPTION:Sfântul Cuvios Pavel Tebeul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280116-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280116
+DTEND;VALUE=DATE:20280117
+SUMMARY:Duminica celor zece leproși\; Închinarea cinstitului lanț al Sf
+ ântului Apostol Petru
+DESCRIPTION:Duminica celor zece leproși\nÎnchinarea cinstitului lanț al 
+ Sfântului Apostol Petru\nCitiri: Ap. Coloseni III\, 4-11\; Ev. Luca XVII\
+ , 12-19\nGlasul 5\, voscresna 8
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280117-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+SUMMARY:† Sfântul Antonie cel Mare
+DESCRIPTION:Sfântul Antonie cel Mare
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280118-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:† Sfinții Atanasie și Chiril
+DESCRIPTION:Sfinții Atanasie și Chiril
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280119-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280119
+DTEND;VALUE=DATE:20280120
+SUMMARY:Sfântul Macarie Egipteanul
+DESCRIPTION:Sfântul Macarie Egipteanul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280120-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:† Sfântul Eftimie cel Mare
+DESCRIPTION:Sfântul Eftimie cel Mare
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280121-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280121
+DTEND;VALUE=DATE:20280122
+SUMMARY:Sfântul Maxim Mărturisitorul
+DESCRIPTION:Sfântul Maxim Mărturisitorul\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280122-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280122
+DTEND;VALUE=DATE:20280123
+SUMMARY:Sfântul Apostol Timotei\; Sfântul Anastasie Persul
+DESCRIPTION:Sfântul Apostol Timotei\; Sfântul Anastasie Persul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280123-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280123
+DTEND;VALUE=DATE:20280124
+SUMMARY:Sfântul Clement de Ancira\; Sfântul Paulin de Nolla
+DESCRIPTION:Sfântul Clement de Ancira\; Sfântul Paulin de Nolla\nCitiri: 
+ Ap. I Timotei IV\, 9-15\; Ev. Luca XIX\, 1-10\nGlasul 6\, voscresna 9
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280124-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280124
+DTEND;VALUE=DATE:20280125
+SUMMARY:Sfânta Xenia
+DESCRIPTION:Sfânta Xenia
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280125-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:† Sfântul Grigorie de Nazianz\; Sfântul Bretanion
+DESCRIPTION:Sfântul Grigorie de Nazianz\; Sfântul Bretanion
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280126-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:† Sfântul Xenofont\, soția sa\, Maria\, și fiii lor Arcadie ș
+ i Ioan
+DESCRIPTION:Sfântul Xenofont\, soția sa\, Maria\, și fiii lor Arcadie ș
+ i Ioan\; Sfântul Ierarh Iosif cel Milostiv\nRânduială: Post
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280127-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280127
+DTEND;VALUE=DATE:20280128
+SUMMARY:† Aducerea moaștelor Sfântului Ioan Gură de Aur
+DESCRIPTION:Aducerea moaștelor Sfântului Ioan Gură de Aur
+CATEGORIES:Cruce neagră
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280128-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:Sfântul Efrem Sirul\, Paladie și Iacob
+DESCRIPTION:Sfântul Efrem Sirul\, Paladie și Iacob\nRânduială: Post
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280129-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280129
+DTEND;VALUE=DATE:20280130
+SUMMARY:Aducerea moaștelor Sfântului Ignatie Teoforul
+DESCRIPTION:Aducerea moaștelor Sfântului Ignatie Teoforul
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280130-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280130
+DTEND;VALUE=DATE:20280131
+SUMMARY:✝ Sfinții Trei Ierarhi\; Duminica femeii cananeence
+DESCRIPTION:Duminica femeii cananeence\nSfinții Trei Ierarhi\nCitiri: Ap. 
+ Evrei XIII\, 7-16II Corinteni VI\, 16-18\; VII\, 1\; Ev. Matei V\, 14-19\;
+  Matei XV\, 21-28\nGlasul 7\, voscresna 10\n\nVasile cel Mare\, Grigorie T
+ eologul și Ioan Gură de Aur\, ocrotitorii învățământului și ai șc
+ olilor.
+CATEGORIES:Cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280131-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Sfinții Chir și Ioan
+DESCRIPTION:Sfinții Chir și Ioan
+CATEGORIES:Zi
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

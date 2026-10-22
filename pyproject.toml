@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calendar-ortodox"
+version = "0.1.0"
+description = "Calendar ortodox românesc în format .ics, pentru Google Calendar"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "George Havrisciuc" }]
+keywords = ["calendar", "ortodox", "ics", "google-calendar", "romania"]
+
+[project.optional-dependencies]
+extract = ["pdfplumber"]
+dev = ["pytest", "icalendar"]
+
+[project.scripts]
+calortodox = "calortodox.cli:main"
+
+[tool.setuptools]
+packages = ["calortodox"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

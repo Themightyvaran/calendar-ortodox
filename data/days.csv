@@ -1,0 +1,489 @@
+date,weekday,cross,title_red,name,sunday_name,readings,glas,voscr,note,note_red
+2026-10-01,J,rosie,1,Acoperamantul Maicii Domnului,,,,,,0
+2026-10-02,V,,0,Sfantul Ciprian,,,,,Post,0
+2026-10-03,S,,0,Sfantul Dionisie Areopagitul,,,,,,0
+2026-10-04,D,neagra,0,Sfantul Preot Marturisitor Dumitru Staniloae; Sfantul Mucenic Ierotei,Predica de pe munte - Iubirea vrajmasilor,"Ap. II Corinteni XI, 31-33XII, 1-9Ev. Luca VI, 31-36glas 1, voscr. 7",1,7,,0
+2026-10-05,L,,0,Sfanta Haritina; Sfintii Daniil si Misail de la Manastirea Turnu,,,,,,0
+2026-10-06,M,,0,Sfantul Apostol Toma,,,,,,0
+2026-10-07,M,neagra,0,Sfintii Mucenici Serghie si Vah,,,,,Post,0
+2026-10-08,J,,0,Sfanta Pelaghia,,,,,,0
+2026-10-09,V,,0,Sfantul Apostol Iacob al lui Alfeu,,,,,Post,0
+2026-10-10,S,,0,Sfintii Mucenici Evlampie si Evlampia; Sfantul Ambrozie de la Optina,,,,,,0
+2026-10-11,D,,0,"Sfantul Apostol Filip, unul din cei sapte diaconi",Duminica Parintilor de la Sinodul VII Ecumenic,"Ap. Galateni I, 11-19Ev. Luca VII, 11- 16glas 2, voscr. 8",2,8,,0
+2026-10-12,L,,0,"Sfintii Mucenici Tarah, Prov si Andronic",,,,,,0
+2026-10-13,M,neagra,0,"Aducerea moastelor Sfantului Apostol Andrei la Iasi; Sfintii Mucenici Carp, Papil, Agatodor si Agatonica",,,,,,0
+2026-10-14,M,rosie,1,Sfanta Cuvioasa Parascheva,,,,,Post,1
+2026-10-15,J,,0,Sfantul Mucenic Luchian,,,,,,0
+2026-10-16,V,,0,Sfantul Mucenic Longhin Sutasul,,,,,Post,0
+2026-10-17,S,,0,Sfantul Proroc Osea,,,,,,0
+2026-10-18,D,neagra,0,Sfantul Apostol si Evanghelist Luca,Duminica invierii fiului vaduvei din Nain,"Ap. Galateni II, 16-20Tit III, 8-15Ev. Luca VIII, 5- 15Ioan XVII, 1-13glas 3, voscr. 9",3,9,,0
+2026-10-19,L,,0,Sfantul Proroc Ioil,,,,,,0
+2026-10-20,M,,0,Sfantul Gherasim din Kefalonia; Sfantul Mucenic Artemie,,,,,,0
+2026-10-21,M,neagra,0,Sfintii Marturisitori Ardeleni,,,,,Post,0
+2026-10-22,J,,0,"Sfintii sapte tineri din Efes; Sfantul Averchie, Episcopul Ierapolei",,,,,,0
+2026-10-23,V,neagra,0,"Sfantul Preot Mucenic Constantin Sârbu; Sfantul Iacob, ruda Domnului",,,,,Post,0
+2026-10-24,S,,0,Sfantul Mare Mucenic Areta,,,,,,0
+2026-10-25,D,,0,Sfintii Mucenici Marcian si Martirie,Vindecarea demonizatului din tinutul gherghesenilor,"Ap. Efeseni II, 4-10Ev. Luca VIII, 26-39glas 4, voscr. 10",4,10,,0
+2026-10-26,L,rosie,1,"Sfantul Mucenic Dimitrie, Izvoratorul de Mir",,,,,,0
+2026-10-27,M,rosie,1,Sfantul Dimitrie Basarabov,,,,,,0
+2026-10-28,M,neagra,0,Sfantul Iachint de Vicina,,,,,Post,0
+2026-10-29,J,,0,Sfanta Mucenita Anastasia Romana,,,,,,0
+2026-10-30,V,,0,"Sfintii Mucenici Zenovie episcopul si Zenovia, sora sa",,,,,Post,0
+2026-10-31,S,,0,"Sfintii Apostoli Apelie, Stahie, Amplie, Urban, Aristobul si Narcis",,,,,,0
+2026-11-01,D,,0,Sfintii doctori fara de arginti Cosma si Damian,Bogatul nemilostiv si saracul Lazar,"Ap. Galateni VI, 11-18Ev. Luca XVI, 19-31glas 5, voscr. 11",5,11,,0
+2026-11-02,L,,0,"Sfantul Gavriil cel nebun pentru Hristos; Sfintii Mucenici Achindin, Pigasie, Aftonie, Elpidifor si Agapie",,,,,,0
+2026-11-03,M,,0,"Sfintii Mucenici Achepsima, Iosif si Aitala",,,,,,0
+2026-11-04,M,,0,Sfantul Cuvios Ioanichie cel Mare,,,,,Post,0
+2026-11-05,J,,0,Sfintii Mucenici Galaction si Epistimi,,,,,,0
+2026-11-06,V,,0,"Sfantul Pavel Marturisitorul, patriarhul Constantinopolului",,,,,Post,0
+2026-11-07,S,,0,Sfintii 33 de Mucenici din Melitina,,,,,,0
+2026-11-08,D,rosie,1,Soborul Sfintilor Mihail si Gavriil,Invierea fiicei lui Iair,"Ap. Evrei II, 2-10Efeseni II, 14-22Ev. Luca X, 16-21Luca VIII, 41-56glas 6, voscr. 1",6,1,,0
+2026-11-09,L,,0,"Sfantul Nectarie Taumaturgul, vindecatorul de cancer",,,,,,0
+2026-11-10,M,,0,"Sfantul Cuvios Mucenic Visarion de la Lainici; Sfintii Apostoli Rodion, Olimp, Erast, Sosipatru si Cuart",,,,,,0
+2026-11-11,M,neagra,0,Sfantul Mina,,,,,Post,0
+2026-11-12,J,neagra,0,Sfantul Atanasie Todoran,,,,,,0
+2026-11-13,V,neagra,0,Lasatul secului pentru Postul Nasterii Domnului; Sfantul Ioan Gura de Aur,,,,,Post,0
+2026-11-14,S,,0,Inceputul Postului Nasterii Domnului; Sfantul Apostol Filip; Sfantul Grigorie Palama,,,,,,0
+2026-11-15,D,neagra,0,Sfantul Paisie de la Neamt,Pilda samarineanului milostiv,"Ap. Efeseni IV, 1-7Ev. Luca X, 25-37glas 7, voscr. 2",7,2,Post,0
+2026-11-16,L,,0,Sfantul Apostol si Evanghelist Matei,,,,,Post,0
+2026-11-17,M,,0,"Sfantul Grigorie Taumaturgul, Sfantul Cuvios Lazar Zugravul si Zaharia",,,,,Dezlegare la ulei si vin,0
+2026-11-18,M,,0,Sfantul Mucenic Platon,,,,,Post,0
+2026-11-19,J,,0,Sfantul Proroc Avdie,,,,,Dezlegare la ulei si vin,0
+2026-11-20,V,neagra,0,Sfantul Cuvios Grigorie Decapolitul,,,,,Post,0
+2026-11-21,S,rosie,1,Intrarea in Biserica a Maicii Domnului,,,,,Dezlegare la peste,1
+2026-11-22,D,,0,"Sfintii Apostoli Filimon, Onisim si Arhip",Bogatul caruia i-a rodit tarina,"Ap. Efeseni V, 9-19Ev. Luca XII, 16-21glas 8, voscr. 3",8,3,Dezlegare la peste,1
+2026-11-23,L,neagra,0,Sfantul Cuvios Antonie de la Iezeru Valcea,,,,,Post,0
+2026-11-24,M,,0,"Sfantul Mucenic Clement, episcopul Romei",,,,,Dezlegare la ulei si vin,0
+2026-11-25,M,neagra,0,Sfanta Mucenita Ecaterina,,,,,Post,0
+2026-11-26,J,,0,Sfantul Stelian,,,,,Dezlegare la ulei si vin,0
+2026-11-27,V,,0,Sfantul Mucenic Iacob Persul,,,,,Post,0
+2026-11-28,S,,0,Sfantul Cuvios Marturisitor Arsenie de la Prislop; Sfantul Stefan cel Nou; Sfantul Mucenic Irinarh,,,,,Dezlegare la peste,0
+2026-11-29,D,,0,"Sfintii Mucenici Paramon, Filumen si Valerian",Dregatorul bogat - pazirea poruncilor,"Ap. Coloseni III, 12-16Ev. Luca XVIII, 18-27glas 1, voscr. 4",1,4,Dezlegare la peste,0
+2026-11-30,L,rosie,1,"Sfantul Apostol Andrei; Sfantul Andrei Saguna, Mitropolitul Transilvaniei",,,,,Dezlegare la peste,1
+2026-12-01,M,,0,"Sfantul Proroc Naum, Cuviosul Filaret Milostivul",,,,,Dezlegare la ulei si vin,0
+2026-12-02,M,neagra,0,Sfantul Cuvios Paisie de la Sihastria; Sfantul Cuvios Cleopa de la Sihastria; Sfantul Proroc Avacum; Sfantul Porfirie Kafsokalivitul; Sfanta Mucenita Miropia,,,,,Post,0
+2026-12-03,J,neagra,0,Sfantul Cuvios Gheorghe de la Cernica,,,,,Dezlegare la peste,0
+2026-12-04,V,neagra,0,Sfanta Mucenita Varvara,,,,,Dezlegare la ulei si vin,0
+2026-12-05,S,neagra,0,Sfantul Sava cel Sfintit; Sfantul Mucenic Anastasie; Sfantul Cuvios Nectarie,,,,,Dezlegare la peste,0
+2026-12-06,D,rosie,1,Sfantul Ierarh Nicolae,Tamaduirea femeii garbove,"Ap. Evrei XIII, 17-21Efeseni VI, 10-17Ev. Luca VI, 17-23Luca XIII, 10-17glas 2, voscr. 5",2,5,Dezlegare la peste,0
+2026-12-07,L,neagra,0,Sfanta Mucenita Filofteia,,,,,Dezlegare la peste,0
+2026-12-08,M,,0,Sfantul Cuvios Patapie,,,,,Dezlegare la ulei si vin,0
+2026-12-09,M,,0,Zamislirea Sfintei Fecioare Maria,,,,,Post,0
+2026-12-10,J,,0,"Sfintii Mucenici Mina, Ermoghen si Eugraf",,,,,Dezlegare la ulei si vin,0
+2026-12-11,V,,0,Sfantul Daniil Stalpnicul; Sfantul Luca cel Nou Stalpnicul,,,,,Post,0
+2026-12-12,S,neagra,0,Sfantul Spiridon al Trimitundei,,,,,Dezlegare la peste,0
+2026-12-13,D,neagra,0,Sfantul Ierarh Dosoftei,Pilda celor poftiti la cina,"Ap. Coloseni I, 12-18Coloseni III, 4-11Ev. Luca XIV, 16-24glas 3, voscr. 6",3,6,Dezlegare la peste,0
+2026-12-14,L,,0,"Sfintii Mucenici Tirs, Calinic, Filimon si Apolonie",,,,,Post,0
+2026-12-15,M,,0,Sfantul Mucenic Elefterie; Sfintele Mucenite Antia si Suzana,,,,,Dezlegare la ulei si vin,0
+2026-12-16,M,,0,Sfantul Proroc Agheu,,,,,Post,0
+2026-12-17,J,,0,Sfantul Proroc Daniel,,,,,Dezlegare la ulei si vin,0
+2026-12-18,V,neagra,0,Cuviosul Daniil Sihastru,,,,,Post,0
+2026-12-19,S,,0,Sfantul Mucenic Bonifatie; Cuviosul Grichentie; Sfantul Trifon si Cuvioasa Aglaia,,,,,Dezlegare la peste,0
+2026-12-20,D,neagra,0,Sfantul Cuvios Serafim cel Rabdator de la Sambata de Sus; Sfantul Mucenic Ignatie Teoforul,Predica la Duminica dinaintea Nasterii Domnului,"Ap. Evrei XI, 9-1032-40Ev. Matei I, 1- 25glas 4, voscr. 7",4,7,Post,0
+2026-12-21,L,,0,Sfanta Iuliana; Sfantul Temistocle,,,,,Post,0
+2026-12-22,M,neagra,0,Sfantul Ierarh Petru Movila,,,,,Dezlegare la ulei si vin,0
+2026-12-23,M,,0,Sfintii 10 mucenici din Creta,,,,,Post,0
+2026-12-24,J,,0,Sfanta Mucenita Eugenia; (Ajunul Craciunului),,,,,,0
+2026-12-25,V,rosie,1,Craciunul - Nasterea Domnului,,,,,Harti,1
+2026-12-26,S,rosie,1,Soborul Maicii Domnului; Sfantul Nicodim de la Tismana; Sfantul Cuvios Mucenic Gherasim de la Tismana,,,,,,0
+2026-12-27,D,rosie,1,Sfantul Arhidiacon Stefan,Fuga in Egipt - Duminica dupa Nasterea Domnului,"Ap. Fapte VI, 8-15VII, 1-547-60Galateni I, 11-19Ev. Matei XXI, 33-44Matei II, 13-23glas 5, voscr. 8",5,8,,0
+2026-12-28,L,,0,Sfintii 20.000 de Mucenici arsi in Nicomidia,,,,,,0
+2026-12-29,M,,0,Sfintii 14.000 de prunci ucisi din porunca lui Irod,,,,,,0
+2026-12-30,M,,0,Sfanta Mucenita Anisia,,,,,Harti,0
+2026-12-31,J,,0,Sfanta Cuvioasa Melania Romana,,,,,,0
+2027-01-01,V,rosie,1,Taierea Imprejur cea dupa trup a Domnului; Sfantul Vasile cel Mare (Anul Nou. Tedeum),,,,,Harti,1
+2027-01-02,S,,0,"Sfantul Serafim de Sarov; Sfantul Silvestru, episcopul Romei",,,,,,0
+2027-01-03,D,,0,Sfantul Proroc Maleahi; Sfantul Mucenic Gordie,Predica la Duminica dinaintea Botezului Domnului,"Ap. II Timotei IV, 5-8Ev. Marcu I, 1-8glas 6, voscr. 9",6,9,,0
+2027-01-04,L,,0,Soborul Sfintilor 70 de Apostoli; Cuviosul Teoctist,,,,,,0
+2027-01-05,M,,0,Ajunul Bobotezei; Sfantul Mucenic Teotempt si Sfanta Mucenita Teona; Cuvioasa Sinclitichia (Post),,,,,Post negru,0
+2027-01-06,M,rosie,1,Boboteaza - Botezul Domnului,,,,,Harti,1
+2027-01-07,J,rosie,1,Soborul Sfantului Ioan Botezatorul,,,,,,0
+2027-01-08,V,,0,Sfantul Cuvios Gheorghe Hozevitul; Cuvioasa Domnica,,,,,Post,0
+2027-01-09,S,,0,Sfantul Mucenic Polieuct,,,,,,0
+2027-01-10,D,neagra,0,Cuviosul Antipa de la Calapodesti; Sfantul Grigorie al Nisei,Predica la Duminica dupa Botezul Domnului,"Ap. Efeseni IV, 7-13Ev. Matei IV, 12-17glas 7, voscr. 10",7,10,,0
+2027-01-11,L,neagra,0,"Cuviosul Teodosie cel Mare, incepatorul vietii de obste",,,,,,0
+2027-01-12,M,,0,Sfanta Mucenita Tatiana,,,,,,0
+2027-01-13,M,neagra,0,Sfintii Mucenici Ermil si Stratonic,,,,,Post,0
+2027-01-14,J,,0,Sfanta Nina; Sfintii Parinti ucisi in Sinai si Rait; Odovania Praznicului Botezului Domnului,,,,,,0
+2027-01-15,V,,0,Sfantul Cuvios Pavel Tebeul,,,,,Post,0
+2027-01-16,S,,0,Inchinarea cinstitului lant al Sfantului Apostol Petru,,,,,,0
+2027-01-17,D,neagra,0,Sfantul Antonie cel Mare,Duminica celor zece leprosi,"Ap. Coloseni III, 4-11Ev. Luca XVII, 12-19glas 8, voscr. 11",8,11,,0
+2027-01-18,L,neagra,0,Sfintii Atanasie si Chiril,,,,,,0
+2027-01-19,M,,0,Sfantul Macarie Egipteanul,,,,,,0
+2027-01-20,M,neagra,0,Sfantul Eftimie cel Mare,,,,,Post,0
+2027-01-21,J,,0,Sfantul Maxim Marturisitorul,,,,,,0
+2027-01-22,V,,0,Sfantul Apostol Timotei; Sfantul Anastasie Persul,,,,,Post,0
+2027-01-23,S,,0,Sfantul Clement de Ancira; Sfantul Paulin de Nolla,,,,,,0
+2027-01-24,D,,0,Sfanta Xenia,Duminica lui Zaheu,"Ap. I Timotei I, 15-17Ev. Luca XVIII, 35-43glas 1, voscr. 1",1,1,,0
+2027-01-25,L,neagra,0,Sfantul Grigorie de Nazianz; Sfantul Bretanion,,,,,,0
+2027-01-26,M,neagra,0,"Sfantul Xenofont, sotia sa, Maria, si fiii lor Arcadie si Ioan; Sfantul Ierarh Iosif cel Milostiv",,,,,,0
+2027-01-27,M,neagra,0,Aducerea moastelor Sfantului Ioan Gura de Aur,,,,,Post,0
+2027-01-28,J,,0,"Sfantul Efrem Sirul, Paladie si Iacob",,,,,,0
+2027-01-29,V,,0,Aducerea moastelor Sfantului Ignatie Teoforul,,,,,Post,0
+2027-01-30,S,rosie,1,Sfintii Trei Ierarhi,,,,,,0
+2027-01-31,D,,0,Sfintii Chir si Ioan,Predica la Duminica a 14 a dupa Rusalii,"Ap. I Timotei IV, 9-15Ev. Luca XIX, 1-10glas 2, voscr. 2",2,2,,0
+2027-02-01,L,,0,Sfantul Mucenic Trifon,,,,,,0
+2027-02-02,M,rosie,1,Intampinarea Domnului,,,,,,0
+2027-02-03,M,,0,Sfantul si Dreptul Simeon si Sfanta Prorocita Ana,,,,,Post,0
+2027-02-04,J,,0,Sfantul Isidor Pelusiotul,,,,,,0
+2027-02-05,V,,0,Sfanta Mucenita Agata,,,,,Post,0
+2027-02-06,S,,0,"Sfintii Varsanufie cel Mare; Ioan Profetul, Vucol si Fotie",,,,,,0
+2027-02-07,D,,0,"Sfantul Partenie, episcopul Lampsacului",Duminica a 16-a dupa Rusalii (Pilda talantilor),"Ap. II Corinteni VI, 1-10Ev. Matei XXV, 14-30glas 3, voscr. 3",3,3,,0
+2027-02-08,L,,0,Sfantul Teodor Stratilat; Sfantul Proroc Zaharia,,,,,,0
+2027-02-09,M,,0,Sfantul Mucenic Nichifor,,,,,,0
+2027-02-10,M,neagra,0,Sfantul Haralambie,,,,,Post,0
+2027-02-11,J,,0,Sfantul Mucenic Vlasie; Sfanta Teodora imparateasa,,,,,,0
+2027-02-12,V,,0,"Sfantul Meletie, Arhiepiscopul Antiohiei",,,,,Post,0
+2027-02-13,S,,0,Sfantul Cuvios Martinian; Sfintii Apostoli Acvila si Priscila; Sfantul Ierarh Evloghie,,,,,,0
+2027-02-14,D,,0,"Sambata celor adormiti - Mosii de iarna; Sfintii Cuviosi Auxentiu, Maron si Avraam",Duminica femeii cananeence,"Ap. II Corinteni VI, 16-18VII, 1Ev. Matei XV, 21- 28glas 4, voscr. 4",4,4,,0
+2027-02-15,L,,0,Sfantul Apostol Onisim (Lasatul secului de carne pentru Postul Sfintelor Pasti),,,,,,0
+2027-02-16,M,,0,Sfintii Mucenici Pamfil si Valentin,,,,,,0
+2027-02-17,M,,0,Sfantul Mucenic Teodor Tiron,,,,,Post,0
+2027-02-18,J,,0,"Sfantul Leon, Papa al Romei (Zi aliturgica. Dezlegare la branza, lapte, oua si peste)",,,,,,0
+2027-02-19,V,,0,"Sfintii Apostoli Arhip, Filimon si sotia sa, Apfia",,,,,Post,0
+2027-02-20,S,,0,"Sfantul Leon, episcopul Cataniei (Zi aliturgica. Dezlegare la branza, lapte, oua si peste)",,,,,,0
+2027-02-21,D,,0,Sfantul Eustatie si Sfantul Timotei (Sambata Sfintilor Cuviosi),Duminica Vamesului si a Fariseului,"Ap. II Timotei III, 10-15Ev. Luca XVIII, 10-14glas 5, voscr. 5",5,5,,0
+2027-02-22,L,,0,Aflarea moastelor sfintilor mucenici din Evghenia,,,,,,0
+2027-02-23,M,,0,"Inceputul Postului Sfintelor Pasti. Zi aliturgica. Canonul Mare; Policarp, sfantul nascut in temnita",,,,,,0
+2027-02-24,M,neagra,0,Intaia si a doua aflare a capului Sfantului Proroc Ioan Botezatorul; Sfantul Cuvios Petroniu de la Prodromu (Zi aliturgica. Canonul Mare),,,,,Harti,0
+2027-02-25,J,,0,Canonul Mare; Sfantul Tarasie,,,,,,0
+2027-02-26,V,,0,Canonul Mare; Sfantul Porfirie,,,,,Harti,0
+2027-02-27,S,,0,Sfantul Procopie Decapolitul; Sfantul Talaleu,,,,,,0
+2027-02-28,D,,0,Sfintii Cuviosi Ioan Casian si Gherman ; Sfantul Cuvios Vasile Marturisitorul,Pilda Fiului Risipitor,"Ap. I Corinteni VI, 12-20Ev. Luca XV, 11-32glas 6, voscr. 6 ; Sfantul Cuvios Vasile Marturisitorul",6,6,,0
+2027-03-01,L,,0,Sfanta Mucenita Evdochia,,,,,,0
+2027-03-02,M,,0,"Sfantul Teodot, Sfantul Nicolae Planas",,,,,,0
+2027-03-03,M,,0,"Sfintii Mucenici Eutropiu, Cleonic si Vasilisc",,,,,Post,0
+2027-03-04,J,,0,Sfantul Gherasim de la Iordan,,,,,,0
+2027-03-05,V,,0,Sfantul Mucenic Conon din Isauria,,,,,Post,0
+2027-03-06,S,,0,Sfintii 42 de Mucenici din Amoreea; Aflarea Sfintei Cruci,,,,,,0
+2027-03-07,D,,0,"Sfintii Mucenici Episcopi din Cherson; Sfantul Mucenic Efrem, episcopul Tomisului",Duminica Infricosatoarei Judecati,"Ap. I Corinteni VIII, 8-13IX, 1-2Ev. Matei XXV, 31-46glas 7, voscr. 7",7,7,,0
+2027-03-08,L,neagra,0,"Sfantul Preot Mucenic Liviu-Galaction de la Cluj; Sfantul Teofilact Marturisitorul, episcopul Nicomidiei",,,,,"Dezlegare la oua, lapte, branza",0
+2027-03-09,M,rosie,1,"40 de mucenici, in Sevastia Armeniei",,,,,"Dezlegare la oua, lapte, branza",0
+2027-03-10,M,,0,"Sfintii Mucenici Codrat, Ciprian, Dionisie, Pavel, Anecton si Crescent",,,,,"Dezlegare la oua, lapte, branza",0
+2027-03-11,J,,0,"Sfantul Sofronie, patriarhul Ierusalimului",,,,,"Dezlegare la oua, lapte, branza",0
+2027-03-12,V,,0,Sfantul Teofan Marturisitorul; Sfantul Simeon Noul Teolog,,,,,"Dezlegare la oua, lapte, branza",0
+2027-03-13,S,,0,"Aducerea moastelor Sfantului Nichifor, patriarhul Constantinopolului; Sfanta Ipomoni",,,,,"Dezlegare la oua, lapte, branza",0
+2027-03-14,D,,0,Sfantul Benedict din Nursia,Duminica Lasatului sec de branza,"Ap. Romani XIII, 11-14XIV, 1-4Ev. Matei VI, 14-21glas 8, voscr. 8",8,8,"Dezlegare la oua, lapte, branza",0
+2027-03-15,L,,0,Sfantul Mucenic Agapie si cei sapte mucenici,,,,,,0
+2027-03-16,M,,0,Sfantul Mucenic Sabin Egipteanul,,,,,,0
+2027-03-17,M,,0,Sfantul Alexie,,,,,Post,0
+2027-03-18,J,,0,Sfantul Chiril al Ierusalimului,,,,,Post,0
+2027-03-19,V,,0,Sfintii Mucenici Hrisant si Daria,,,,,Post,0
+2027-03-20,S,,0,Sfintii mucenici ucisi in Manastirea Sfantul Sava cel Sfintit,,,,,Dezlegare la ulei si vin,0
+2027-03-21,D,,0,Sfantul Ierarh Iacob Marturisitorul,Duminica Ortodoxiei - prima Duminica din Postul Mare,"Ap. Evrei XI, 24-2632-40Ev. Ioan I, 43-51glas 1, voscr. 9",1,9,Dezlegare la ulei si vin,0
+2027-03-22,L,,0,"Sfantul Vasile de Ancira, Sfanta Drosida",,,,,Post,0
+2027-03-23,M,,0,Sfantul Mucenic Nicon (Denia Canonului Mare),,,,,Post,0
+2027-03-24,M,,0,Sfantul Cuvios Zaharia,,,,,Post,0
+2027-03-25,J,rosie,1,Buna Vestire - dezlegare la peste,,,,,Dezlegare la peste,1
+2027-03-26,V,,0,Soborul Sfantului Arhanghel Gavriil,,,,,Post,0
+2027-03-27,S,,0,Sfanta Mucenita Matrona din Tesalonic (Denia Acatistului Bunei Vestiri),,,,,Dezlegare la ulei si vin,0
+2027-03-28,D,,0,Sfantul Cuvios Ilarion cel Nou,Duminica Sfantului Grigorie Palama,"Ap. Evrei I, 10-14II, 1-3VII, 26-28VIII, 1-2Ev. Marcu II, 1-12Ioan X, 9-16glas 2, voscr. 10",2,10,Dezlegare la ulei si vin,0
+2027-03-29,L,,0,"Sfantul Mucenic Marcu, episcopul Aretuselor",,,,,Post,0
+2027-03-30,M,,0,Sfantul Cuvios Ioan Scararul,,,,,Post,0
+2027-03-31,M,,0,"Sfantul Mucenic Ipatie, episcopul Gangrei",,,,,Post,0
+2027-04-01,J,,0,Sfanta Cuvioasa Maria Egipteanca,,,,,Post,0
+2027-04-02,V,,0,"Sfantul Cuvios Tit, facatorul de minuni",,,,,Post,0
+2027-04-03,S,,0,Sfantul Nichita Marturisitorul,,,,,Dezlegare la ulei si vin,0
+2027-04-04,D,,0,"Sambata lui Lazar. Pomenirea celor adormiti; Sfantul Iosif, scriitorul de cantari",Duminica Sfintei Cruci,"Ap. Evrei IV, 14-16V, 1-6Ev. Marcu VIII, 34-38IX, 1glas 3, voscr. 11",3,11,Dezlegare la ulei si vin,0
+2027-04-05,L,rosie,1,Intrarea Domnului in Ierusalim (Floriile); Sfintii Mucenici Agatopod si Teodul,,,,,Post,1
+2027-04-06,M,neagra,0,"Sfantul Eutihie, patriarhul Constantinopolului",,,,,Post,1
+2027-04-07,M,,0,Sfantul Mucenic Caliopie,,,,,Post,1
+2027-04-08,J,,0,"Pomenirea Sfintilor Apostoli Irodion, Agav si Ruf",,,,,Post,1
+2027-04-09,V,,0,Sfantul Mucenic Eupsihie,,,,,Post,1
+2027-04-10,S,,0,"Sfintii Mucenici Terentie, African, Maxim si Pompie",,,,,Dezlegare la ulei si vin,0
+2027-04-11,D,rosie,1,"Sfantul Ierarh Calinic de la Cernica, Sfantul Mucenic Antipa; Sfantul Farmutie",Predica la Duminica Sfantului Ioan Scararul,"Ap. Evrei VI, 13-20Efeseni V, 8-19Ev. Marcu IX, 17- 32Matei IV, 25V, 1-12glas 4, voscr. 1",4,1,Dezlegare la ulei si vin,0
+2027-04-12,L,neagra,0,Invierea Domnului nostru Iisus Hristos (Sfintele Pasti); Sfantul Mucenic Sava de la Buzau,,,,,Post,0
+2027-04-13,M,rosie,1,Sfantul Mucenic Artemon,,,,,Post,0
+2027-04-14,M,,0,Sfantul Cuvios Ierarh Pahomie de la Gledin,,,,,Post,0
+2027-04-15,J,,0,"Sfintii Apostoli Aristarh, Pud si Trofim",,,,,Post,0
+2027-04-16,V,rosie,1,"Sfintele Mucenite Agapi, Hionia si Irina",,,,,Post,0
+2027-04-17,S,,0,"Sfantul Simeon, episcopul Persiei",,,,,Dezlegare la ulei si vin,0
+2027-04-18,D,,0,"Sfantul Cuvios loan, ucenicul Sfantului Grigorie Decapolitul",Predica la Duminica Sfintei Maria Egipteanca,"Ap. Evrei IX, 11-14Galateni III, 23-29Ev. Marcu X, 32-45Luca VII, 36- 50glas 5, voscr. 2",5,2,Dezlegare la ulei si vin,0
+2027-04-19,L,,0,Sfantul Cuvios loan Paleolavritul,,,,,Post,0
+2027-04-20,M,rosie,1,"Sfantul Teotim, Episcopul Tomisului",,,,,Post,0
+2027-04-21,M,rosie,1,Sfantul Mucenic Ianuarie,,,,,Post,0
+2027-04-22,J,,0,Sfantul Cuvios Teodor Sicheotul,,,,,Post,0
+2027-04-23,V,rosie,1,Sfantul Mucenic Gheorghe,,,,,Post,0
+2027-04-24,S,neagra,0,"Sfintii Ierarhi Marturisitori Ilie Iorest, Sava Brancovici si Iosif din Maramures; Sfintii Mucenici Pasicrat si Valentin de la Durostorum",,,,,Dezlegare la ulei si vin,0
+2027-04-25,D,neagra,0,Sfantul Cuvios Vasile de la Poiana Marului; Sfantul Evanghelist Marcu,Predica la Duminica Floriilor,"Ap. Filipeni IV, 4-9Ev. Ioan XII, 1-18",,,Dezlegare la peste,0
+2027-04-26,L,,0,"Saptamana Patimirilor - Lunea Mare (Denie) ; Sfantul Mucenic Vasile, Episcopul Amasiei; Sfintii Mucenici Chiril, Chindeu si Tasie din Axiopolis",,,,,,0
+2027-04-27,M,,0,"Saptamana Patimirilor - Martea Mare (Denie) ; Sfantul Apostol Simeon, ruda Domnului",,,,,,0
+2027-04-28,M,neagra,0,Talcuirea Evangheliei din Miercurea Mare (Denie) ; Sfintii Apostoli Iason si Sosipatru,,,,,,0
+2027-04-29,J,,0,Joia din Saptamana Patimirilor (Denia celor 12 Evanghelii) ; Sfintii Noua Mucenici din Cizic,,,,,Post,0
+2027-04-30,V,,0,Vinerea Mare - moartea si ingroparea Domnului (Zi aliturgica. Denia Prohodului Domnului) ; Sfantul Apostol Iacov,,,,,Post negru,0
+2027-05-01,S,,0,Coborarea la iad a Mantuitorului ; Sfantul Proroc Ieremia,,,,,Post negru,0
+2027-05-02,D,rosie,1,"Aducerea moastelor Sfantului Atanasie cel Mare; Sfantul Atanasie al III-lea, Patriarhul Constantinopolului",Predica la Invierea Domnului,"Ap. Fapte I, 1-8Ev. Ioan I, 1-17",,,,0
+2027-05-03,L,neagra,0,"Sfintele Pasti; Darul Invierii ; Sfantul Irodion de la Lainici, Sfintii Mucenici Timotei si Mavra",,,,,,0
+2027-05-04,M,neagra,0,Sfintele Pasti; Invierea Domnului - sarbatoarea luminii si a bucuriei ; Sfanta Cuvioasa Mavra de pe Ceahlau; Sfanta Mucenita Pelaghia,,,,,,0
+2027-05-05,M,neagra,0,Sfanta Cuvioasa Matrona de la Hurezi; Sfanta Irina,,,,,Harti,0
+2027-05-06,J,,0,Sfantul si Dreptul Iov,,,,,,0
+2027-05-07,V,,0,Izvorul Tamaduirii ; Aratarea semnului Sfintei Cruci pe cer la Ierusalim,,,,,Harti,0
+2027-05-08,S,neagra,0,Sfantul Apostol si Evanghelist loan,,,,,,0
+2027-05-09,D,,0,Sfantul Proroc Isaia; Aducerea moastelor Sfantului Ierarh Nicolae la Bari,Apostolul Toma a fost necredincios?,"Ap. Fapte V, 12-20Ev. Ioan XX, 19-31glas 1, voscr. 1",1,1,,0
+2027-05-10,L,neagra,0,Sfantul Cuvios Calistrat de la Timiseni si Vasiova; Sfantul Simon Zilotul,,,,,,0
+2027-05-11,M,neagra,0,"Sfantul Cuvios Dionisie Vatopedinul de la Colciu; Sfantul Mucenic Mochie; Sfintii Metodie si Chiril, luminatorii slavilor",,,,,,0
+2027-05-12,M,neagra,0,Sfantul Ioan Valahul,,,,,Dezlegare la peste,0
+2027-05-13,J,,0,Sfanta Mucenita Glicheria,,,,,,0
+2027-05-14,V,,0,Sfantul Mucenic Isidor,,,,,Dezlegare la peste,0
+2027-05-15,S,neagra,0,"Sfantul Pahomie cel Mare; Sfantul Ierarh Iacob Putneanul, mitropolitul Moldovei",,,,,,0
+2027-05-16,D,neagra,0,"Sfantul Cuvios Teodor cel Sfintit; Sfintii Cuviosi Sila, Paisie si Natan de la Sihastria Putnei",Femeile Mironosite,"Ap. Fapte VI, 1-7Ev. Marcu XV, 43- 47XVI, 1-8glas 2, voscr. 3",2,3,,0
+2027-05-17,L,,0,Sfantul Apostol Andronic,,,,,,0
+2027-05-18,M,,0,Sfantul Mucenic Teodot,,,,,,0
+2027-05-19,M,,0,"Sfantul Mucenic Patrichie, episcopul Prusei",,,,,Dezlegare la peste,0
+2027-05-20,J,,0,Sfanta Lidia; Sfantul Mucenic Talaleu,,,,,,0
+2027-05-21,V,rosie,1,Sfintii Imparati Constantin si Elena,,,,,Dezlegare la peste,1
+2027-05-22,S,,0,Sfantul Mucenic Vasilisc,,,,,,0
+2027-05-23,D,,0,"Sfantul Cuvios Mihail Marturisitorul, episcopul Sinadei",Predica la Duminica Slabanogului,"Ap. Fapte IX, 32-42Ev. Ioan V, 1-15glas 3, voscr. 4",3,4,,0
+2027-05-24,L,neagra,0,Sfanta Marturisitoare Blandina de la Iasi; Sfantul Cuvios Simeon,,,,,,0
+2027-05-25,M,rosie,1,A treia aflare a Capului Sfantului Ioan Botezatorul,,,,,,0
+2027-05-26,M,,0,"Sfantul Apostol Carp, unul din cei 70 de apostoli",,,,,Dezlegare la peste,0
+2027-05-27,J,,0,Sfantul Ioan Rusul,,,,,,0
+2027-05-28,V,,0,"Sfantul Nichita Marturisitorul, Episcopul Calcedonului",,,,,Dezlegare la peste,0
+2027-05-29,S,,0,Sfanta Mucenita Teodosia din Tir,,,,,,0
+2027-05-30,D,,0,Sfantul Cuvios Isaachie Marturisitorul (Sambata celor adormiti - Mosii de vara),Predica la Duminica Samarinencei,"Ap. Fapte XI, 19-30Ev. Ioan IV, 5-42glas 4, voscr. 7",4,7,,0
+2027-05-31,L,rosie,1,Pogorarea Sfantului Duh (Cincizecimea sau Rusaliile); Sfantul Apostol Ermie,,,,,,0
+2027-06-01,M,,0,Sfantul Iustin Martirul si Filosoful,,,,,,0
+2027-06-02,M,neagra,0,Sfantul Ioan cel Nou de la Suceava,,,,,Dezlegare la peste,0
+2027-06-03,J,,0,"Sfintii Mucenici Luchilian, Ipatie, Paul, Dionisie si Claudie",,,,,,0
+2027-06-04,V,rosie,1,"Sfintii Zotic, Atal, Camasis si Filip de la Niculitel",,,,,Dezlegare la peste,1
+2027-06-05,S,neagra,0,"Sfanta Cuvioasa Elisabeta de la Pasarea; Sfantul Mucenic Dorotei, episcopul Tirului",,,,,,0
+2027-06-06,D,,0,Sfantul Ilarion cel Nou,Vindecarea orbului din nastere,"Ap. Fapte XVI, 16-34Ev. Ioan IX, 1-38glas 5, voscr. 8",5,8,,0
+2027-06-07,L,,0,"(Lasatul Secului pentru Postul Sfintilor Apostoli Petru si Pavel); Sfantul Teodot, episcopul Ancirei",,,,,,0
+2027-06-08,M,neagra,0,Inceputul Postului Sfintilor Apostoli Petru si Pavel; Aducerea moastelor Sfantului Teodor Stratilat,,,,,,0
+2027-06-09,M,,0,Sfantul Chiril al Alexandriei,,,,,Dezlegare la peste,0
+2027-06-10,J,,0,"Inaltarea Domnului - Ziua Eroilor ; Sfantul Mucenic Timotei, episcopul Prusei",,,,,,0
+2027-06-11,V,,0,Sfantul Apostol Vartolomeu; Sfantul Luca al Crimeii,,,,,Dezlegare la peste,0
+2027-06-12,S,,0,Sfantul Cuvios Onufrie cel Mare,,,,,,0
+2027-06-13,D,,0,Sfanta Mucenica Achilina,Predica la Duminica Sfintilor Parinti de la Sinodul I Ecumenic,"Ap. Fapte XX, 16-1828-36Ev. Ioan XVII, 1-13glas 6, voscr. 10",6,10,,0
+2027-06-14,L,,0,Sfantul Proroc Elisei,,,,,,0
+2027-06-15,M,neagra,0,Sfantul Proroc Amos,,,,,,0
+2027-06-16,M,neagra,0,Sfantul Ier. Martir Neofit Cretanul; Sfantul Tihon,,,,,Dezlegare la peste,0
+2027-06-17,J,,0,"Sfintii Mucenici Manuil, Savel si Ismail",,,,,,0
+2027-06-18,V,,0,"Sfintii Mucenici Leontie, Ipatie si Teodul",,,,,Dezlegare la peste,0
+2027-06-19,S,,0,Sfantul Apostol Iuda,,,,,,0
+2027-06-20,D,,0,"Sfantul Mucenic Metodie, Episcopul Patarelor",Predica la Duminica Rusaliilor,"Ap. Fapte II, 1-11Ev. Ioan VII, 37-53VIII, 12",,,,0
+2027-06-21,L,rosie,1,Lunea Sfantului Duh; Sfantul Mucenic Iulian din Cilicia,,,,,,0
+2027-06-22,M,neagra,0,"Sfantul Grigorie Dascalul, Sfantul Mucenic Eusebie",,,,,,0
+2027-06-23,M,rosie,1,Sfanta Mucenita Agripina,,,,,Harti,1
+2027-06-24,J,rosie,1,Nasterea Sfantului Ioan Botezatorul,,,,,,0
+2027-06-25,V,,0,Sfanta Mucenita Fevronia,,,,,Harti,0
+2027-06-26,S,,0,Sfantul Cuvios David din Tesalonic,,,,,,0
+2027-06-27,D,,0,"Sfantul Cuvios Samson, primitorul de straini",Duminica Tuturor Sfintilor,"Ap. Evrei XI, 33-40XII, 1-2Ev. Matei X, 32-3537-38XIX, 27-30glas 8, voscr. 1",8,1,,0
+2027-06-28,L,,0,Aflarea moastelor Sfintilor Mucenici Chir si Ioan,,,,,Post,0
+2027-06-29,M,rosie,1,Sfintii Apostoli Petru si Pavel,,,,,,0
+2027-06-30,M,neagra,0,Soborul celor 12 Apostoli; Sfantul Ierarh Ghelasie de la Ramet,,,,,Post,0
+2027-07-01,J,neagra,0,"Sfantul Leontie de la Radauti; Sfintii Cosma si Damian, doctorii fara de arginti",,,,,,0
+2027-07-02,V,neagra,0,Sfantul Voievod Stefan cel Mare,,,,,Post,0
+2027-07-03,S,,0,Sfantul Mucenic Iachint,,,,,,0
+2027-07-04,D,,0,Sfanta Olimpia de la Farcasa; Sfantul Andrei Criteanul,"Duminica Sfintilor Romani, a doua dupa Rusalii","Ap. Romani II, 10-16Ev. Matei IV, 18-23glas 1, voscr. 2",1,2,,0
+2027-07-05,L,neagra,0,Sfantul Atanasie de la Aton,,,,,,0
+2027-07-06,M,neagra,0,Sfantul Cuvios Dometie cel Milostiv de la Ramet; Sfantul Sisoe cel Mare,,,,,,0
+2027-07-07,M,neagra,0,Sfanta Mucenita Chiriachi,,,,,Post,0
+2027-07-08,J,neagra,0,Sfintii Epictet si Astion,,,,,,0
+2027-07-09,V,neagra,0,Sfantul Pangratie; Cinstirea Icoanei Maicii Domnului de la Manastirea Neamt,,,,,Post,0
+2027-07-10,S,,0,Sfintii 45 de Mucenici din Nicopolea Armeniei,,,,,,0
+2027-07-11,D,,0,Sfanta Eufimia,Predica la Duminica a treia dupa Rusalii - Despre grijile vietii,"Ap. Romani V, 1-10Ev. Matei VI, 22-23glas 2, voscr. 3",2,3,,0
+2027-07-12,L,neagra,0,Cinstirea icoanei Maicii Domnului Prodromita; Sfanta Veronica; Sfantul Paisie Aghioritul; Sfintii Mucenici Proclu si Ilarie,,,,,,0
+2027-07-13,M,neagra,0,Soborul Sfantului Arhanghel Gavriil; Aducerea moastelor Sfantului Cuvios Dimitrie cel Nou la Bucuresti,,,,,,0
+2027-07-14,M,,0,Sfantul Nicodim Aghioritul,,,,,Post,0
+2027-07-15,J,,0,Sfintii Chiric si Iulita,,,,,,0
+2027-07-16,V,,0,Sfantul Atinoghen,,,,,Post,0
+2027-07-17,S,,0,Sfanta Marina,,,,,,0
+2027-07-18,D,neagra,0,Sfantul Emilian de la Durostor; Sfantul Cuvios Pamvo,Vindecarea slugii sutasului - Sfantul Ioan Gura de Aur,"Ap. Romani VI, 18-23Ev. Matei VIII, 5-13Ioan XVII, 1-13glas 3, voscr. 4",3,4,,0
+2027-07-19,L,,0,Sfanta Macrina,,,,,,0
+2027-07-20,M,rosie,1,Sfantul Ilie,,,,,,0
+2027-07-21,M,neagra,0,Sfantul Proroc Iezechiel; Cuviosii Rafael si Partenie de la Agapia,,,,,Post,0
+2027-07-22,J,neagra,0,Sfantul Preot Marturisitor Ilie Lacatusu; Sfanta Maria Magdalena,,,,,,0
+2027-07-23,V,,0,Aducerea moastelor Sfantului Foca,,,,,Post,0
+2027-07-24,S,,0,Sfanta Hristina,,,,,,0
+2027-07-25,D,,0,Adormirea Sfintei Ana,Vindecarea celor doi demonizati din tinutul Gadarei,"Ap. Romani X, 1-10Ev. Matei VIII, 28-34IX, 1glas 4, voscr. 5",4,5,,0
+2027-07-26,L,neagra,0,Sfantul Ermolae; Cuviosul Ioanichie cel Nou de la Muscel,,,,,,0
+2027-07-27,M,neagra,0,Sfantul Mucenic Pantelimon,,,,,,0
+2027-07-28,M,,0,"Sfintii Prohor, Nicanor, Timon si Parmena",,,,,Post,0
+2027-07-29,J,,0,Sfantul Mucenic Calinic,,,,,,0
+2027-07-30,V,,0,"(Lasatul secului pentru Postul Adormirii Maicii Domnului); Sfantul Valentin; Sfintii Apostoli Sila, Silvan, Crescent, Epenetos si Andronic",,,,,Post,0
+2027-07-31,S,,0,(Inceputul Postului Adormirii Maicii Domnului); Sfantul Evdochim,,,,,,0
+2027-08-01,D,,0,Scoaterea Sfintei Cruci,Vindecarea slabanogului din Capernaum,"Ap. Romani XII, 6-14Ev. Matei IX, 1-8glas 5, voscr. 6",5,6,Dezlegare la ulei si vin,0
+2027-08-02,L,,0,Aducerea moastelor Sfantului Arhidiacon Stefan,,,,,Post,0
+2027-08-03,M,neagra,0,"Sfantul Cuvios Iraclie din Basarabia; Sfintii Isachie, Dalmat si Faust",,,,,Post,0
+2027-08-04,M,,0,Sfintii sapte tineri din Efes,,,,,Post,0
+2027-08-05,J,neagra,0,Sfantul Ioan Iacob Hozevitul,,,,,Post,0
+2027-08-06,V,rosie,1,Schimbarea la Fata a Domnului (dezlegare la peste),,,,,Dezlegare la peste,1
+2027-08-07,S,neagra,0,Sfanta Teodora de la Sihla,,,,,Dezlegare la ulei si vin,0
+2027-08-08,D,,0,"Sfantul Preot Mucenic Alexandru din Basarabia; Sfantul Emilian Marturisitorul, episcopul Cizicului; Sfantul Ierarh Miron",Vindecarea a doi orbi si un mut in Capernaum,"Ap. Romani XV, 1-7Ev. Ioan IX, 27-35Ioan XVII, 1-13glas 6, voscr. 7",6,7,Dezlegare la ulei si vin,0
+2027-08-09,L,,0,Sfantul Apostol Matia,,,,,Post,0
+2027-08-10,M,,0,Sfantul Lavrentie,,,,,Post,0
+2027-08-11,M,neagra,0,"Sfantul Nifon, patriarhul Constantinopolului",,,,,Post,0
+2027-08-12,J,,0,Sfintii Mucenici Fotie si Anichit,,,,,Post,0
+2027-08-13,V,,0,Sfantul Tihon de Zadonsk,,,,,Post,0
+2027-08-14,S,,0,Sfantul Proroc Miheia,,,,,Dezlegare la ulei si vin,0
+2027-08-15,D,rosie,1,Adormirea Maicii Domnului,Predica la Duminica a VIII-a dupa Rusalii,"Ap. Filipeni II, 5-11I Corinteni I, 10-17Ev. Luca X, 38-42XI, 27-28Matei XIV, 14-22glas 7, voscr. 8",7,8,,0
+2027-08-16,L,neagra,0,Sfintii Martiri Brancoveni,,,,,,0
+2027-08-17,M,neagra,0,Sfantul Mucenic Miron; Sfantul Gheorghe Pelerinul,,,,,,0
+2027-08-18,M,,0,Sfantul Ioan de Rila - ocrotitorul Bulgariei,,,,,Post,0
+2027-08-19,J,,0,Sfantul Andrei Stratilat,,,,,,0
+2027-08-20,V,,0,Sfantul Proroc Samuel,,,,,Post,0
+2027-08-21,S,neagra,0,"Sfantul Apostol Tadeu; Sfintii Mucenici Donat, Romul, Silvan si Venust",,,,,,0
+2027-08-22,D,,0,Sfantul Mucenic Agatonic,Umblarea pe mare - potolirea furtunii,"Ap. I Corinteni III, 9-17Ev. Matei XIV, 22-34glas 8, voscr. 9",8,9,,0
+2027-08-23,L,,0,Sfantul Mucenic Lup,,,,,,0
+2027-08-24,M,,0,Sfantul Mucenic Eutihie,,,,,,0
+2027-08-25,M,,0,Aducerea moastelor Sfantului Apostol Bartolomeu,,,,,Post,0
+2027-08-26,J,,0,Sfintii Adrian si Natalia,,,,,,0
+2027-08-27,V,,0,Sfantul Fanurie,,,,,Post,0
+2027-08-28,S,,0,Sfantul Moise Etiopianul,,,,,,0
+2027-08-29,D,rosie,1,Taierea capului Sfantului Ioan Botezatorul,Vindecarea lunaticului,"Ap. Fapte XIII, 25-33I Corinteni IV, 9-16Ev. Marcu VI, 14-30Matei XVII, 14-23glas 1, voscr. 10",1,10,Post negru,1
+2027-08-30,L,neagra,0,Sfantul Ierarh Varlaam; Cuviosul Ioan de la Rasca si Secu; Sfantul Alexandru,,,,,,0
+2027-08-31,M,neagra,0,Punerea in racla a braului Maicii Domnului; Sf. Cuv. Macarie Protopsaltul,,,,,,0
+2027-09-01,M,rosie,1,Sfantul Dionisie Exiguul; Inceputul anului bisericesc,,,,,Post,1
+2027-09-02,J,,0,Sfantul Mucenic Mamant,,,,,,0
+2027-09-03,V,,0,Sfantul Mucenic Antim; Sfintii Cuviosi Neofit si Meletie de la Manastirea Stanisoara,,,,,Post,0
+2027-09-04,S,,0,Sfantul Mucenic Vavila; Sfantul Proroc Moise,,,,,,0
+2027-09-05,D,neagra,0,Sfantul Proroc Zaharia,Pilda datornicului nemilostiv - Predica la Duminica a XI-a dupa Rusalii,"Ap. I Corinteni IX, 2-12Ev. Matei XVIII, 23-35glas 2, voscr. 11",2,11,,0
+2027-09-06,L,neagra,0,Pomenirea minunii Sfantului Arhanghel Mihail in Colose,,,,,,0
+2027-09-07,M,neagra,0,Sfantul Mucenic Sozont; Cuviosii Simeon si Amfilohie de la Pangarati,,,,,,0
+2027-09-08,M,rosie,1,Nasterea Maicii Domnului,,,,,Post,1
+2027-09-09,J,neagra,0,Sfintii Ioachim si Ana,,,,,,0
+2027-09-10,V,,0,"Sfintele Mucenite Minodora, Mitrodora si Nimfodora",,,,,Post,0
+2027-09-11,S,,0,Sfanta Teodora din Alexandria; Sfantul Eufrosin bucatarul,,,,,,0
+2027-09-12,D,,0,Sfantul Mucenic Autonom,Predica la duminica dinaintea Inaltarii Sfintei Cruci,"Ap. Galateni VI, 11-18Ev. Ioan III, 13-17glas 3, voscr. 1",3,1,,0
+2027-09-13,L,neagra,0,Sfantul Ioan de la Prislop; Tarnosirea Bisericii Invierii din Ierusalim,,,,,,0
+2027-09-14,M,rosie,1,Inaltarea Sfintei Cruci,,,,,Post negru,1
+2027-09-15,M,neagra,0,Sfantul Ierarh Iosif cel Nou de la Partos,,,,,Post,0
+2027-09-16,J,neagra,0,Sfantul Cuvios Marturisitor Sofian de la Antim; Sfanta Mucenita Eufimia,,,,,,0
+2027-09-17,V,neagra,0,"Sfanta Mucenita Sofia si fiicele sale, Pistis, Elpis si Agapis",,,,,Post,0
+2027-09-18,S,neagra,0,"Sfantul Preot Mucenic Ilarion Felea; Sfantul Eumenie, episcopul Gortinei",,,,,,0
+2027-09-19,D,,0,"Sfintii Mucenici Trofim, Savatie si Dorimedont",Predica la Duminica dupa Inaltarea Sfintei Cruci,"Ap. Galateni II, 16-20Ev. Marcu VIII, 34-38IX, 1glas 4, voscr. 2",4,2,,0
+2027-09-20,L,,0,"Sfantul Eustatie si sotia sa, Teopista, cu cei doi fii: Agapie si Teopist",,,,,,0
+2027-09-21,M,,0,Sfantul Proroc Iona; Sfantul Apostol Codrat,,,,,,0
+2027-09-22,M,neagra,0,Sfantul Teodosie de la Brazi,,,,,Post,0
+2027-09-23,J,neagra,0,Zamislirea Sfantului Ioan Botezatorul,,,,,,0
+2027-09-24,V,,0,Sfanta Mucenita Tecla; Sfantul Siluan Athonitul,,,,,Post,0
+2027-09-25,S,,0,Sfanta Cuvioasa Eufrosina; Sfantul Serghie de Radonej,,,,,,0
+2027-09-26,D,neagra,0,Sfantul Domnitor Neagoe Basarab; Sfantul Ioan Evanghelistul,Pescuirea minunata,"Ap. II Corinteni IX, 6-11Ev. Luca V, 1-11glas 5, voscr. 3",5,3,,0
+2027-09-27,L,neagra,0,Sfantul Antim Ivireanul,,,,,,0
+2027-09-28,M,neagra,0,Sfantul Cuvios Hariton Marturisitorul,,,,,,0
+2027-09-29,M,,0,Sfantul Chiriac Sihastrul,,,,,Post,0
+2027-09-30,J,,0,Sfantul Grigorie Luminatorul,,,,,,0
+2027-10-01,V,rosie,1,Acoperamantul Maicii Domnului,,,,,Post,1
+2027-10-02,S,,0,Sfantul Ciprian,,,,,,0
+2027-10-03,D,,0,Sfantul Dionisie Areopagitul,Predica de pe munte - Iubirea vrajmasilor,"Ap. II Corinteni XI, 31-33XII, 1-9Ev. Luca VI, 31-36glas 6, voscr. 4",6,4,,0
+2027-10-04,L,neagra,0,Sfantul Preot Marturisitor Dumitru Staniloae; Sfantul Mucenic Ierotei,,,,,,0
+2027-10-05,M,,0,Sfanta Haritina; Sfintii Daniil si Misail de la Manastirea Turnu,,,,,,0
+2027-10-06,M,,0,Sfantul Apostol Toma,,,,,Post,0
+2027-10-07,J,neagra,0,Sfintii Mucenici Serghie si Vah,,,,,,0
+2027-10-08,V,,0,Sfanta Pelaghia,,,,,Post,0
+2027-10-09,S,,0,Sfantul Apostol Iacob al lui Alfeu,,,,,,0
+2027-10-10,D,,0,Sfintii Mucenici Evlampie si Evlampia; Sfantul Ambrozie de la Optina,Duminica Parintilor de la Sinodul VII Ecumenic,"Ap. Galateni I, 11-19Ev. Luca VII, 11-16glas 7, voscr. 5",7,5,,0
+2027-10-11,L,,0,"Sfantul Apostol Filip, unul din cei sapte diaconi",,,,,,0
+2027-10-12,M,,0,"Sfintii Mucenici Tarah, Prov si Andronic",,,,,,0
+2027-10-13,M,neagra,0,"Aducerea moastelor Sfantului Apostol Andrei la Iasi; Sfintii Mucenici Carp, Papil, Agatodor si Agatonica",,,,,Post,0
+2027-10-14,J,rosie,1,Sfanta Cuvioasa Parascheva,,,,,,0
+2027-10-15,V,,0,Sfantul Mucenic Luchian,,,,,Post,0
+2027-10-16,S,,0,Sfantul Mucenic Longhin Sutasul,,,,,,0
+2027-10-17,D,,0,Sfantul Proroc Osea,Duminica invierii fiului vaduvei din Nain,"Ap. Galateni II, 16-20Tit III, 8-15Ev. Luca VIII, 5-15Ioan XVII, 1-13glas 8, voscr. 6",8,6,,0
+2027-10-18,L,neagra,0,Sfantul Apostol si Evanghelist Luca,,,,,,0
+2027-10-19,M,,0,Sfantul Proroc Ioil,,,,,,0
+2027-10-20,M,,0,Sfantul Gherasim din Kefalonia; Sfantul Mucenic Artemie,,,,,Post,0
+2027-10-21,J,neagra,0,Sfintii Marturisitori Ardeleni,,,,,,0
+2027-10-22,V,,0,"Sfintii sapte tineri din Efes; Sfantul Averchie, Episcopul Ierapolei",,,,,Post,0
+2027-10-23,S,neagra,0,"Sfantul Preot Mucenic Constantin Sârbu; Sfantul Iacob, ruda Domnului",,,,,,0
+2027-10-24,D,,0,Sfantul Mare Mucenic Areta,Vindecarea demonizatului din tinutul gherghesenilor,"Ap. Efeseni II, 4-10Ev. Luca VIII, 26-39glas 1, voscr. 7",1,7,,0
+2027-10-25,L,,0,Sfintii Mucenici Marcian si Martirie,,,,,,0
+2027-10-26,M,rosie,1,"Sfantul Mucenic Dimitrie, Izvoratorul de Mir",,,,,,0
+2027-10-27,M,rosie,1,Sfantul Dimitrie Basarabov,,,,,Post,1
+2027-10-28,J,neagra,0,Sfantul Iachint de Vicina,,,,,,0
+2027-10-29,V,,0,Sfanta Mucenita Anastasia Romana,,,,,Post,0
+2027-10-30,S,,0,"Sfintii Mucenici Zenovie episcopul si Zenovia, sora sa",,,,,,0
+2027-10-31,D,,0,"Sfintii Apostoli Apelie, Stahie, Amplie, Urban, Aristobul si Narcis",Bogatul nemilostiv si saracul Lazar,"Ap. Galateni VI, 11-18Ev. Luca XVI, 19-31glas 2, voscr. 8",2,8,,0
+2027-11-01,L,,0,Sfintii doctori fara de arginti Cosma si Damian,,,,,,0
+2027-11-02,M,,0,"Sfantul Gavriil cel nebun pentru Hristos; Sfintii Mucenici Achindin, Pigasie, Aftonie, Elpidifor si Agapie",,,,,,0
+2027-11-03,M,,0,"Sfintii Mucenici Achepsima, Iosif si Aitala",,,,,Post,0
+2027-11-04,J,,0,Sfantul Cuvios Ioanichie cel Mare,,,,,,0
+2027-11-05,V,,0,Sfintii Mucenici Galaction si Epistimi,,,,,Post,0
+2027-11-06,S,,0,"Sfantul Pavel Marturisitorul, patriarhul Constantinopolului",,,,,,0
+2027-11-07,D,,0,Sfintii 33 de Mucenici din Melitina,Invierea fiicei lui Iair,"Ap. Efeseni II, 14-22Ev. Luca VIII, 41-56glas 3, voscr. 9",3,9,,0
+2027-11-08,L,rosie,1,Soborul Sfintilor Mihail si Gavriil,,,,,,0
+2027-11-09,M,,0,"Sfantul Nectarie Taumaturgul, vindecatorul de cancer",,,,,,0
+2027-11-10,M,,0,"Sfantul Cuvios Mucenic Visarion de la Lainici; Sfintii Apostoli Rodion, Olimp, Erast, Sosipatru si Cuart",,,,,Post,0
+2027-11-11,J,neagra,0,Sfantul Mina,,,,,,0
+2027-11-12,V,neagra,0,Sfantul Atanasie Todoran,,,,,Post,0
+2027-11-13,S,neagra,0,Lasatul secului pentru Postul Nasterii Domnului; Sfantul Ioan Gura de Aur,,,,,,0
+2027-11-14,D,,0,Inceputul Postului Nasterii Domnului; Sfantul Apostol Filip; Sfantul Grigorie Palama,Pilda samarineanului milostiv,"Ap. Efeseni IV, 1-7Ev. Luca X, 25-37glas 4, voscr. 10",4,10,,0
+2027-11-15,L,neagra,0,Sfantul Paisie de la Neamt,,,,,Post,0
+2027-11-16,M,,0,Sfantul Apostol si Evanghelist Matei,,,,,Dezlegare la ulei si vin,0
+2027-11-17,M,,0,"Sfantul Grigorie Taumaturgul, Sfantul Cuvios Lazar Zugravul si Zaharia",,,,,Post,0
+2027-11-18,J,,0,Sfantul Mucenic Platon,,,,,Dezlegare la ulei si vin,0
+2027-11-19,V,,0,Sfantul Proroc Avdie,,,,,Post,0
+2027-11-20,S,neagra,0,Sfantul Cuvios Grigorie Decapolitul,,,,,Post,0
+2027-11-21,D,rosie,1,Intrarea in Biserica a Maicii Domnului,Bogatul caruia i-a rodit tarina,"Ap. Evrei IX, 1-7Efeseni V, 9-19Ev. Luca X, 38-42XI, 27-28Luca XII, 16-21glas 5, voscr. 11",5,11,Dezlegare la peste,1
+2027-11-22,L,,0,"Sfintii Apostoli Filimon, Onisim si Arhip",,,,,Post,0
+2027-11-23,M,neagra,0,Sfantul Cuvios Antonie de la Iezeru Valcea,,,,,Dezlegare la ulei si vin,0
+2027-11-24,M,,0,"Sfantul Mucenic Clement, episcopul Romei",,,,,Post,0
+2027-11-25,J,neagra,0,Sfanta Mucenita Ecaterina,,,,,Dezlegare la ulei si vin,0
+2027-11-26,V,,0,Sfantul Stelian,,,,,Post,0
+2027-11-27,S,,0,Sfantul Mucenic Iacob Persul,,,,,Dezlegare la peste,0
+2027-11-28,D,,0,Sfantul Cuvios Marturisitor Arsenie de la Prislop; Sfantul Stefan cel Nou; Sfantul Mucenic Irinarh,Dregatorul bogat - pazirea poruncilor,"Ap. Coloseni III, 12-16Ev. Luca XVIII, 18-27glas 6, voscr. 1",6,1,Dezlegare la peste,0
+2027-11-29,L,,0,"Sfintii Mucenici Paramon, Filumen si Valerian",,,,,Post,0
+2027-11-30,M,rosie,1,"Sfantul Apostol Andrei; Sfantul Andrei Saguna, Mitropolitul Transilvaniei",,,,,Dezlegare la peste,1
+2027-12-01,M,,0,"Sfantul Proroc Naum, Cuviosul Filaret Milostivul",,,,,Post,0
+2027-12-02,J,neagra,0,Sfantul Cuvios Paisie de la Sihastria; Sfantul Cuvios Cleopa de la Sihastria; Sfantul Proroc Avacum; Sfantul Porfirie Kafsokalivitul; Sfanta Mucenita Miropia,,,,,Dezlegare la ulei si vin,0
+2027-12-03,V,neagra,0,Sfantul Cuvios Gheorghe de la Cernica,,,,,Dezlegare la peste,0
+2027-12-04,S,neagra,0,Sfanta Mucenita Varvara,,,,,Dezlegare la peste,0
+2027-12-05,D,neagra,0,Sfantul Sava cel Sfintit; Sfantul Mucenic Anastasie; Sfantul Cuvios Nectarie,Tamaduirea femeii garbove,"Ap. Efeseni VI, 10-17Ev. Luca XIII, 10-17glas 7, voscr. 2",7,2,Dezlegare la peste,0
+2027-12-06,L,rosie,1,Sfantul Ierarh Nicolae,,,,,Dezlegare la peste,1
+2027-12-07,M,neagra,0,Sfanta Mucenita Filofteia,,,,,Dezlegare la peste,1
+2027-12-08,M,,0,Sfantul Cuvios Patapie,,,,,Post,0
+2027-12-09,J,,0,Zamislirea Sfintei Fecioare Maria,,,,,Dezlegare la ulei si vin,0
+2027-12-10,V,,0,"Sfintii Mucenici Mina, Ermoghen si Eugraf",,,,,Post,0
+2027-12-11,S,,0,Sfantul Daniil Stalpnicul; Sfantul Luca cel Nou Stalpnicul,,,,,Dezlegare la peste,0
+2027-12-12,D,neagra,0,Sfantul Spiridon al Trimitundei,Pilda celor poftiti la cina,"Ap. Efeseni V, 8-19Coloseni I, 12-18Coloseni III, 4-11Ev. Luca VI, 17-23Luca XIV, 16-24glas 8, voscr. 3",8,3,Dezlegare la peste,0
+2027-12-13,L,neagra,0,Sfantul Ierarh Dosoftei,,,,,Dezlegare la peste,0
+2027-12-14,M,,0,"Sfintii Mucenici Tirs, Calinic, Filimon si Apolonie",,,,,Dezlegare la ulei si vin,0
+2027-12-15,M,,0,Sfantul Mucenic Elefterie; Sfintele Mucenite Antia si Suzana,,,,,Post,0
+2027-12-16,J,,0,Sfantul Proroc Agheu,,,,,Dezlegare la ulei si vin,0
+2027-12-17,V,,0,Sfantul Proroc Daniel,,,,,Post,0
+2027-12-18,S,neagra,0,Cuviosul Daniil Sihastru,,,,,Dezlegare la peste,0
+2027-12-19,D,,0,Sfantul Mucenic Bonifatie; Cuviosul Grichentie; Sfantul Trifon si Cuvioasa Aglaia,Predica la Duminica dinaintea Nasterii Domnului,"Ap. Evrei XI, 9-1032-40Ev. Matei I, 1-25glas 1, voscr. 4",1,4,Dezlegare la peste,0
+2027-12-20,L,neagra,0,Sfantul Cuvios Serafim cel Rabdator de la Sambata de Sus; Sfantul Mucenic Ignatie Teoforul,,,,,Post,0
+2027-12-21,M,,0,Sfanta Iuliana; Sfantul Temistocle,,,,,Dezlegare la ulei si vin,0
+2027-12-22,M,neagra,0,Sfantul Ierarh Petru Movila,,,,,Post,0
+2027-12-23,J,,0,Sfintii 10 mucenici din Creta,,,,,Dezlegare la ulei si vin,0
+2027-12-24,V,,0,Sfanta Mucenita Eugenia; (Ajunul Craciunului),,,,,,0
+2027-12-25,S,rosie,1,Craciunul - Nasterea Domnului,,,,,,0
+2027-12-26,D,rosie,1,Soborul Maicii Domnului; Sfantul Nicodim de la Tismana; Sfantul Cuvios Mucenic Gherasim de la Tismana,Fuga in Egipt - Duminica dupa Nasterea Domnului,"Ap. Evrei II, 11- 18Galateni V, 22VI, 2Galateni I, 11-19Ev. Matei II, 13-23Matei XI, 27-30Matei II, 13-23glas 2, voscr. 5",2,5,,0
+2027-12-27,L,rosie,1,Sfantul Arhidiacon Stefan,,,,,,0
+2027-12-28,M,,0,Sfintii 20.000 de Mucenici arsi in Nicomidia,,,,,,0
+2027-12-29,M,,0,Sfintii 14.000 de prunci ucisi din porunca lui Irod,,,,,Harti,0
+2027-12-30,J,,0,Sfanta Mucenita Anisia,,,,,,0
+2027-12-31,V,,0,Sfanta Cuvioasa Melania Romana,,,,,Harti,0
+2028-01-01,S,rosie,1,Taierea Imprejur cea dupa trup a Domnului; Sfantul Vasile cel Mare (Anul Nou. Tedeum),,,,,,0
+2028-01-02,D,,0,"Sfantul Serafim de Sarov; Sfantul Silvestru, episcopul Romei",Predica la Duminica dinaintea Botezului Domnului,"Ap. II Timotei IV, 5-8Ev. Marcu I, 1-8glas 3, voscr. 6",3,6,,0
+2028-01-03,L,,0,Sfantul Proroc Maleahi; Sfantul Mucenic Gordie,,,,,,0
+2028-01-04,M,,0,Soborul Sfintilor 70 de Apostoli; Cuviosul Teoctist,,,,,,0
+2028-01-05,M,,0,Ajunul Bobotezei; Sfantul Mucenic Teotempt si Sfanta Mucenita Teona; Cuvioasa Sinclitichia (Post),,,,,Post negru,0
+2028-01-06,J,rosie,1,Boboteaza - Botezul Domnului,,,,,,0
+2028-01-07,V,rosie,1,Soborul Sfantului Ioan Botezatorul,,,,,Dezlegare la peste,1
+2028-01-08,S,,0,Sfantul Cuvios Gheorghe Hozevitul; Cuvioasa Domnica,,,,,,0
+2028-01-09,D,,0,Sfantul Mucenic Polieuct,Predica la Duminica dupa Botezul Domnului,"Ap. Efeseni IV, 7-13Ev. Matei IV, 12-17glas 4, voscr. 7",4,7,,0
+2028-01-10,L,neagra,0,Cuviosul Antipa de la Calapodesti; Sfantul Grigorie al Nisei,,,,,,0
+2028-01-11,M,neagra,0,"Cuviosul Teodosie cel Mare, incepatorul vietii de obste",,,,,,0
+2028-01-12,M,,0,Sfanta Mucenita Tatiana,,,,,Post,0
+2028-01-13,J,neagra,0,Sfintii Mucenici Ermil si Stratonic,,,,,,0
+2028-01-14,V,,0,Sfanta Nina; Sfintii Parinti ucisi in Sinai si Rait; Odovania Praznicului Botezului Domnului,,,,,Post,0
+2028-01-15,S,,0,Sfantul Cuvios Pavel Tebeul,,,,,,0
+2028-01-16,D,,0,Inchinarea cinstitului lant al Sfantului Apostol Petru,Duminica celor zece leprosi,"Ap. Coloseni III, 4-11Ev. Luca XVII, 12-19glas 5, voscr. 8",5,8,,0
+2028-01-17,L,neagra,0,Sfantul Antonie cel Mare,,,,,,0
+2028-01-18,M,neagra,0,Sfintii Atanasie si Chiril,,,,,,0
+2028-01-19,M,,0,Sfantul Macarie Egipteanul,,,,,Post,0
+2028-01-20,J,neagra,0,Sfantul Eftimie cel Mare,,,,,,0
+2028-01-21,V,,0,Sfantul Maxim Marturisitorul,,,,,Post,0
+2028-01-22,S,,0,Sfantul Apostol Timotei; Sfantul Anastasie Persul,,,,,,0
+2028-01-23,D,,0,Sfantul Clement de Ancira; Sfantul Paulin de Nolla,Predica la Duminica a 14 a dupa Rusalii,"Ap. I Timotei IV, 9-15Ev. Luca XIX, 1-10glas 6, voscr. 9",6,9,,0
+2028-01-24,L,,0,Sfanta Xenia,,,,,,0
+2028-01-25,M,neagra,0,Sfantul Grigorie de Nazianz; Sfantul Bretanion,,,,,,0
+2028-01-26,M,neagra,0,"Sfantul Xenofont, sotia sa, Maria, si fiii lor Arcadie si Ioan; Sfantul Ierarh Iosif cel Milostiv",,,,,Post,0
+2028-01-27,J,neagra,0,Aducerea moastelor Sfantului Ioan Gura de Aur,,,,,,0
+2028-01-28,V,,0,"Sfantul Efrem Sirul, Paladie si Iacob",,,,,Post,0
+2028-01-29,S,,0,Aducerea moastelor Sfantului Ignatie Teoforul,,,,,,0
+2028-01-30,D,rosie,1,Sfintii Trei Ierarhi,Duminica femeii cananeence,"Ap. Evrei XIII, 7-16II Corinteni VI, 16-18VII, 1Ev. Matei V, 14-19Matei XV, 21-28glas 7, voscr. 10",7,10,,0
+2028-01-31,L,,0,Sfintii Chir si Ioan,,,,,,0

@@ -1,0 +1,718 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendar-ortodox//RO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar ortodox: cruci roșii și posturi
+X-WR-TIMEZONE:Europe/Bucharest
+X-WR-CALDESC:Calendar ortodox (stil nou\, Biserica Ortodoxă Română). Sur
+ sa datelor: crestinortodox.ro.
+BEGIN:VEVENT
+UID:20261001-acoperamantul-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:✝ Acoperământul Maicii Domnului
+DESCRIPTION:Se pomenește vedenia Sfântului Andrei cel Nebun pentru Hristo
+ s\, care a văzut în biserica din Vlaherne (Constantinopol) pe Maica Domn
+ ului ocrotind credincioșii cu vălul ei.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-parascheva-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:✝ Sfânta Cuvioasă Parascheva
+DESCRIPTION:Cuvioasa Parascheva (secolul al XI-lea)\, născută în Epivata
+ \, în Tracia\, este ocrotitoarea Moldovei. Moaștele ei se păstrează la
+  Catedrala Mitropolitană din Iași.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-dimitrie-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:✝ Sfântul Mare Mucenic Dimitrie\, Izvorâtorul de Mir
+DESCRIPTION:Mare mucenic din Tesalonic\, ostaș roman martirizat în jurul 
+ anului 306. I se spune Izvorâtorul de Mir pentru mirul care a curs din mo
+ aștele sale.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-basarabov-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:✝ Sfântul Cuvios Dimitrie cel Nou (Basarabov)
+DESCRIPTION:Ocrotitorul Bucureștiului. S-a născut în satul Basarabov\, p
+ e valea râului Lom (în Bulgaria de azi). Moaștele lui se află la Cated
+ rala Patriarhală din București din 1774.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261108-arhangheli-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:✝ Soborul Sfinților Arhangheli Mihail și Gavriil
+DESCRIPTION:Se cinstesc Sfinții Voievozi\, Arhanghelii Mihail și Gavriil\
+ , și toate puterile cerești.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261115-post-craciun-start@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Începe Postul Crăciunului
+DESCRIPTION:Durează până pe 24.12.2026 (40 zile).\nÎn post se evită ca
+ rnea\, laptele și ouăle. Dezlegările la pește\, ulei și vin sunt trec
+ ute în varianta detaliată a calendarului.
+CATEGORIES:Post
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261121-vovidenia-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:✝ Intrarea în Biserică a Maicii Domnului (Vovidenia)
+DESCRIPTION:Potrivit Tradiției\, la vârsta de trei ani Fecioara Maria a f
+ ost adusă la Templul din Ierusalim\, unde a crescut până la logodnă.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130-andrei-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:✝ Sfântul Apostol Andrei\, ocrotitorul României
+DESCRIPTION:Cel dintâi chemat dintre apostoli. Tradiția îl socotește ap
+ ostolul românilor\, pentru propovăduirea în Scythia Minor (Dobrogea de 
+ azi). Se pomenește și Sfântul Andrei Șaguna\, mitropolitul Transilvani
+ ei.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261206-nicolae-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:✝ Sfântul Ierarh Nicolae
+DESCRIPTION:Arhiepiscopul Mirelor Lichiei (secolul al IV-lea)\, cunoscut pe
+ ntru milostenie și ocrotitor al marinarilor și al copiilor.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261224-post-craciun-sfarsit@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Se încheie Postul Crăciunului
+DESCRIPTION:Ultima zi de post. În post se evită carnea\, laptele și ouă
+ le. Dezlegările la pește\, ulei și vin sunt trecute în varianta detali
+ ată a calendarului.
+CATEGORIES:Post
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261225-craciun-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:✝ Nașterea Domnului (Crăciunul)
+DESCRIPTION:Nașterea Domnului Iisus Hristos în Betleem.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261226-soborul_maicii-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:✝ Soborul Maicii Domnului
+DESCRIPTION:A doua zi de Crăciun se cinstește Maica Domnului\, care L-a n
+ ăscut pe Hristos. Se pomenesc și Sfântul Nicodim de la Tismana și Sfâ
+ ntul Gherasim.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261227-stefan-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:✝ Sfântul Arhidiacon Ștefan
+DESCRIPTION:Primul martir creștin\, ucis cu pietre la Ierusalim. A treia z
+ i de Crăciun.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270101-anul_nou-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:✝ Anul Nou\, Sfântul Vasile cel Mare
+DESCRIPTION:Tăierea împrejur cea după trup a Domnului și pomenirea Sfâ
+ ntului Ierarh Vasile cel Mare\, arhiepiscop al Cezareei Capadociei (secolu
+ l al IV-lea).
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270106-boboteaza-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:✝ Botezul Domnului (Boboteaza)
+DESCRIPTION:Botezul Domnului în Iordan de către Sfântul Ioan Botezătoru
+ l\, când s-a arătat Sfânta Treime.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270107-ioan_botezator-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:✝ Soborul Sfântului Ioan Botezătorul
+DESCRIPTION:Se cinstește Sfântul Ioan Botezătorul\, Înaintemergătorul 
+ Domnului\, care L-a botezat pe Hristos.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270130-trei_ierarhi-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:✝ Sfinții Trei Ierarhi
+DESCRIPTION:Vasile cel Mare\, Grigorie Teologul și Ioan Gură de Aur\, ocr
+ otitorii învățământului și ai școlilor.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270202-intampinarea-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:✝ Întâmpinarea Domnului (Stretenia)
+DESCRIPTION:La 40 de zile de la naștere\, Pruncul Iisus este adus la Templ
+ u\, unde îl primește dreptul Simeon.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270309-mucenici-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:✝ Sfinții 40 de Mucenici din Sevastia
+DESCRIPTION:Patruzeci de ostași creștini martirizați în anul 320\, în 
+ Sevastia Armeniei\, prin înghețare într-un lac.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270315-post-paste-start@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Începe Postul Mare (Postul Paștelui)
+DESCRIPTION:Durează până pe 01.05.2027 (48 zile).\nÎn post se evită ca
+ rnea\, laptele și ouăle. Dezlegările la pește\, ulei și vin sunt trec
+ ute în varianta detaliată a calendarului.
+CATEGORIES:Post
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270325-buna_vestire-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:✝ Buna Vestire
+DESCRIPTION:Arhanghelul Gavriil îi vestește Fecioarei Maria că va naște
+  pe Fiul lui Dumnezeu.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270423-gheorghe-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:✝ Sfântul Mare Mucenic Gheorghe
+DESCRIPTION:Ostaș roman martirizat în anul 303\, numit Purtătorul de Bir
+ uință. Este ocrotitorul ostașilor și al păstorilor.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270425-floriile-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:✝ Intrarea Domnului în Ierusalim (Floriile)
+DESCRIPTION:Duminica dinaintea Paștilor: Hristos intră în Ierusalim\, pr
+ imit de popor cu ramuri de finic și cu strigăte de laudă.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270430-vinerea_mare-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:✝ Vinerea Mare (Vinerea Patimilor)
+DESCRIPTION:Se pomenesc răstignirea\, moartea și punerea în mormânt a D
+ omnului. Este zi aliturgică\, adică fără Liturghie.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270501-post-paste-sfarsit@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Se încheie Postul Mare (Postul Paștelui)
+DESCRIPTION:Ultima zi de post. În post se evită carnea\, laptele și ouă
+ le. Dezlegările la pește\, ulei și vin sunt trecute în varianta detali
+ ată a calendarului.
+CATEGORIES:Post
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270502-paste-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:✝ Învierea Domnului (Sfintele Paști)
+DESCRIPTION:Învierea Domnului Iisus Hristos\, cea mai mare sărbătoare a 
+ creștinătății. Urmează Săptămâna Luminată.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270503-paste-1@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:✝ Sfintele Paști\, ziua a doua
+DESCRIPTION:Învierea Domnului Iisus Hristos\, cea mai mare sărbătoare a 
+ creștinătății. Urmează Săptămâna Luminată.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270504-paste-2@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:✝ Sfintele Paști\, ziua a treia
+DESCRIPTION:Învierea Domnului Iisus Hristos\, cea mai mare sărbătoare a 
+ creștinătății. Urmează Săptămâna Luminată.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270507-izvorul-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:✝ Izvorul Tămăduirii
+DESCRIPTION:Vinerea din Săptămâna Luminată\, dedicată Maicii Domnului 
+ ca izvor de vindecare\, după icoana făcătoare de minuni de la Constanti
+ nopol.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270521-constantin_elena-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:✝ Sfinții Împărați Constantin și Elena
+DESCRIPTION:Constantin cel Mare (Edictul de la Milano\, 313) și mama sa\, 
+ Elena\, care a găsit Crucea Domnului la Ierusalim.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270610-inaltarea-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:✝ Înălțarea Domnului (Ziua Eroilor)
+DESCRIPTION:Înălțarea la cer a Domnului\, la 40 de zile după Înviere. 
+ În România este și Ziua Eroilor.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270620-rusalii-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:✝ Pogorârea Duhului Sfânt (Rusaliile)
+DESCRIPTION:La 50 de zile de la Paști\, Duhul Sfânt Se pogoară peste apo
+ stoli. Se pomenește și Sfânta Treime. Este considerată ziua întemeier
+ ii Bisericii.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270621-rusalii-1@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:✝ Lunea Sfântului Duh
+DESCRIPTION:La 50 de zile de la Paști\, Duhul Sfânt Se pogoară peste apo
+ stoli. Se pomenește și Sfânta Treime. Este considerată ziua întemeier
+ ii Bisericii.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270624-nasterea_ioan-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:✝ Nașterea Sfântului Ioan Botezătorul (Sânzienele)
+DESCRIPTION:Nașterea Sfântului Ioan Botezătorul\, cu șase luni înainte
+ a Nașterii Domnului.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270628-post-apostoli-zi@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Postul Sfinților Apostoli Petru și Pavel (o singură zi\, 28.06)
+DESCRIPTION:În post se evită carnea\, laptele și ouăle. Dezlegările la
+  pește\, ulei și vin sunt trecute în varianta detaliată a calendarului
+ .
+CATEGORIES:Post
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270629-petru_pavel-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:✝ Sfinții Apostoli Petru și Pavel
+DESCRIPTION:Cei doi apostoli\, „stâlpii Bisericii”\, martirizați la R
+ oma în vremea împăratului Nero. Sărbătoarea încheie Postul Sfințilo
+ r Apostoli\, care se termină în ajun (28 iunie).
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270720-ilie-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:✝ Sfântul Proroc Ilie
+DESCRIPTION:Ilie Tesviteanul\, ridicat la cer într-un car de foc.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270801-post-adormire-start@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Începe Postul Adormirii Maicii Domnului
+DESCRIPTION:Durează până pe 14.08.2027 (14 zile).\nÎn post se evită ca
+ rnea\, laptele și ouăle. Dezlegările la pește\, ulei și vin sunt trec
+ ute în varianta detaliată a calendarului.
+CATEGORIES:Post
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270806-schimbarea-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:✝ Schimbarea la Față a Domnului
+DESCRIPTION:Pe muntele Tabor\, Iisus Se arată în slavă înaintea apostol
+ ilor Petru\, Iacov și Ioan.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270814-post-adormire-sfarsit@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Se încheie Postul Adormirii Maicii Domnului
+DESCRIPTION:Ultima zi de post. În post se evită carnea\, laptele și ouă
+ le. Dezlegările la pește\, ulei și vin sunt trecute în varianta detali
+ ată a calendarului.
+CATEGORIES:Post
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270815-adormirea-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:✝ Adormirea Maicii Domnului (Sfânta Maria Mare)
+DESCRIPTION:Se pomenește trecerea din această viață a Maicii Domnului. 
+ Sărbătoarea încheie Postul Adormirii (ultima zi de post este 14 august)
+ .
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270829-taierea-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:✝ Tăierea capului Sfântului Ioan Botezătorul
+DESCRIPTION:Se pomenește decapitarea Sfântului Ioan Botezătorul\, din po
+ runca lui Irod Antipa.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270901-anul_bisericesc-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:✝ Începutul anului bisericesc
+DESCRIPTION:Biserica începe un nou ciclu liturgic. Se pomenește și Sfân
+ tul Dionisie Exiguul.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270908-nasterea_maicii-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:✝ Nașterea Maicii Domnului (Sfânta Maria Mică)
+DESCRIPTION:Nașterea Fecioarei Maria\, din Ioachim și Ana.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270914-inaltarea_crucii-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:✝ Înălțarea Sfintei Cruci
+DESCRIPTION:Se pomenește aflarea Crucii Domnului de către Sfânta Elena 
+ și înălțarea ei înaintea credincioșilor\, la Ierusalim.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271001-acoperamantul-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:✝ Acoperământul Maicii Domnului
+DESCRIPTION:Se pomenește vedenia Sfântului Andrei cel Nebun pentru Hristo
+ s\, care a văzut în biserica din Vlaherne (Constantinopol) pe Maica Domn
+ ului ocrotind credincioșii cu vălul ei.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271014-parascheva-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:✝ Sfânta Cuvioasă Parascheva
+DESCRIPTION:Cuvioasa Parascheva (secolul al XI-lea)\, născută în Epivata
+ \, în Tracia\, este ocrotitoarea Moldovei. Moaștele ei se păstrează la
+  Catedrala Mitropolitană din Iași.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271026-dimitrie-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+SUMMARY:✝ Sfântul Mare Mucenic Dimitrie\, Izvorâtorul de Mir
+DESCRIPTION:Mare mucenic din Tesalonic\, ostaș roman martirizat în jurul 
+ anului 306. I se spune Izvorâtorul de Mir pentru mirul care a curs din mo
+ aștele sale.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271027-basarabov-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:✝ Sfântul Cuvios Dimitrie cel Nou (Basarabov)
+DESCRIPTION:Ocrotitorul Bucureștiului. S-a născut în satul Basarabov\, p
+ e valea râului Lom (în Bulgaria de azi). Moaștele lui se află la Cated
+ rala Patriarhală din București din 1774.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271108-arhangheli-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271109
+SUMMARY:✝ Soborul Sfinților Arhangheli Mihail și Gavriil
+DESCRIPTION:Se cinstesc Sfinții Voievozi\, Arhanghelii Mihail și Gavriil\
+ , și toate puterile cerești.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271115-post-craciun-start@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:Începe Postul Crăciunului
+DESCRIPTION:Durează până pe 24.12.2027 (40 zile).\nÎn post se evită ca
+ rnea\, laptele și ouăle. Dezlegările la pește\, ulei și vin sunt trec
+ ute în varianta detaliată a calendarului.
+CATEGORIES:Post
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271121-vovidenia-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:✝ Intrarea în Biserică a Maicii Domnului (Vovidenia)
+DESCRIPTION:Potrivit Tradiției\, la vârsta de trei ani Fecioara Maria a f
+ ost adusă la Templul din Ierusalim\, unde a crescut până la logodnă.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271130-andrei-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:✝ Sfântul Apostol Andrei\, ocrotitorul României
+DESCRIPTION:Cel dintâi chemat dintre apostoli. Tradiția îl socotește ap
+ ostolul românilor\, pentru propovăduirea în Scythia Minor (Dobrogea de 
+ azi). Se pomenește și Sfântul Andrei Șaguna\, mitropolitul Transilvani
+ ei.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271206-nicolae-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271206
+DTEND;VALUE=DATE:20271207
+SUMMARY:✝ Sfântul Ierarh Nicolae
+DESCRIPTION:Arhiepiscopul Mirelor Lichiei (secolul al IV-lea)\, cunoscut pe
+ ntru milostenie și ocrotitor al marinarilor și al copiilor.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271224-post-craciun-sfarsit@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:Se încheie Postul Crăciunului
+DESCRIPTION:Ultima zi de post. În post se evită carnea\, laptele și ouă
+ le. Dezlegările la pește\, ulei și vin sunt trecute în varianta detali
+ ată a calendarului.
+CATEGORIES:Post
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271225-craciun-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:✝ Nașterea Domnului (Crăciunul)
+DESCRIPTION:Nașterea Domnului Iisus Hristos în Betleem.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271226-soborul_maicii-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:✝ Soborul Maicii Domnului
+DESCRIPTION:A doua zi de Crăciun se cinstește Maica Domnului\, care L-a n
+ ăscut pe Hristos. Se pomenesc și Sfântul Nicodim de la Tismana și Sfâ
+ ntul Gherasim.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20271227-stefan-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+SUMMARY:✝ Sfântul Arhidiacon Ștefan
+DESCRIPTION:Primul martir creștin\, ucis cu pietre la Ierusalim. A treia z
+ i de Crăciun.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280101-anul_nou-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:✝ Anul Nou\, Sfântul Vasile cel Mare
+DESCRIPTION:Tăierea împrejur cea după trup a Domnului și pomenirea Sfâ
+ ntului Ierarh Vasile cel Mare\, arhiepiscop al Cezareei Capadociei (secolu
+ l al IV-lea).
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280106-boboteaza-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:✝ Botezul Domnului (Boboteaza)
+DESCRIPTION:Botezul Domnului în Iordan de către Sfântul Ioan Botezătoru
+ l\, când s-a arătat Sfânta Treime.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280107-ioan_botezator-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280107
+DTEND;VALUE=DATE:20280108
+SUMMARY:✝ Soborul Sfântului Ioan Botezătorul
+DESCRIPTION:Se cinstește Sfântul Ioan Botezătorul\, Înaintemergătorul 
+ Domnului\, care L-a botezat pe Hristos.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20280130-trei_ierarhi-0@calendar-ortodox
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20280130
+DTEND;VALUE=DATE:20280131
+SUMMARY:✝ Sfinții Trei Ierarhi
+DESCRIPTION:Vasile cel Mare\, Grigorie Teologul și Ioan Gură de Aur\, ocr
+ otitorii învățământului și ai școlilor.
+CATEGORIES:Sărbătoare cu cruce roșie
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,189 @@
+{
+  "_comment": "Corectii aplicate peste data/days.csv (extras din crestinortodox.ro). Sursa pune uneori pe date fixe etichete de sarbatori mobile care apartin altor ani (de exemplu Pastele din 2026 apare pe 12 aprilie 2027). Aici sunt eliminate si documentate. Sarbatorile mobile corecte sunt calculate in cod (calortodox/pascha.py).",
+  "name_fixes": [
+    {
+      "date": "2027-01-05",
+      "name": "Ajunul Bobotezei; Sfantul Mucenic Teotempt si Sfanta Mucenita Teona; Cuvioasa Sinclitichia",
+      "reason": "Eticheta '(Post)' dublura nota de post negru"
+    },
+    {
+      "date": "2028-01-05",
+      "name": "Ajunul Bobotezei; Sfantul Mucenic Teotempt si Sfanta Mucenita Teona; Cuvioasa Sinclitichia",
+      "reason": "Eticheta '(Post)' dublura nota de post negru"
+    },
+    {
+      "date": "2027-02-14",
+      "name": "Sfintii Cuviosi Auxentiu, Maron si Avraam",
+      "reason": "Etichetele 'Sambata celor adormiti - Mosii de iarna' nu apartin acestei date; Mosii de iarna 2027 cad pe 6 martie"
+    },
+    {
+      "date": "2027-02-15",
+      "name": "Sfantul Apostol Onisim",
+      "reason": "Lasatul secului de carne 2027 este pe 7 martie, nu pe 15 februarie"
+    },
+    {
+      "date": "2027-02-18",
+      "name": "Sfantul Leon, Papa al Romei",
+      "reason": "Eticheta 'zi aliturgica / dezlegare' apartine altui an"
+    },
+    {
+      "date": "2027-02-20",
+      "name": "Sfantul Leon, episcopul Cataniei",
+      "reason": "Eticheta 'zi aliturgica / dezlegare' apartine altui an"
+    },
+    {
+      "date": "2027-02-21",
+      "name": "Sfantul Eustatie si Sfantul Timotei",
+      "reason": "Sambata Sfintilor Cuviosi 2027 este pe 20 martie"
+    },
+    {
+      "date": "2027-02-23",
+      "name": "Policarp, sfantul nascut in temnita",
+      "reason": "Postul Pastelor 2027 incepe pe 15 martie"
+    },
+    {
+      "date": "2027-02-24",
+      "name": "Intaia si a doua aflare a capului Sfantului Proroc Ioan Botezatorul; Sfantul Cuvios Petroniu de la Prodromu",
+      "reason": "Eticheta 'Canonul Mare' apartine altui an"
+    },
+    {
+      "date": "2027-02-25",
+      "name": "Sfantul Tarasie",
+      "reason": "Eticheta 'Canonul Mare' apartine altui an"
+    },
+    {
+      "date": "2027-02-26",
+      "name": "Sfantul Porfirie",
+      "reason": "Eticheta 'Canonul Mare' apartine altui an"
+    },
+    {
+      "date": "2027-03-23",
+      "name": "Sfantul Mucenic Nicon",
+      "reason": "Eticheta 'Denia Canonului Mare' apartine altui an"
+    },
+    {
+      "date": "2027-03-27",
+      "name": "Sfanta Mucenita Matrona din Tesalonic",
+      "reason": "Eticheta 'Denia Acatistului' apartine altui an"
+    },
+    {
+      "date": "2027-04-04",
+      "name": "Sfantul Iosif, scriitorul de cantari",
+      "reason": "Sambata lui Lazar 2027 este pe 24 aprilie"
+    },
+    {
+      "date": "2027-04-05",
+      "name": "Sfintii Mucenici Agatopod si Teodul",
+      "cross": "",
+      "reason": "Sursa pune 'Floriile' (data din 2026); Floriile 2027 sunt pe 25 aprilie"
+    },
+    {
+      "date": "2027-04-12",
+      "name": "Sfantul Mucenic Sava de la Buzau",
+      "reason": "Sursa pune 'Sfintele Pasti' (data din 2026); Pastele 2027 sunt pe 2 mai"
+    },
+    {
+      "date": "2027-05-30",
+      "name": "Sfantul Cuvios Isaachie Marturisitorul",
+      "reason": "Mosii de vara 2027 cad pe 19 iunie"
+    },
+    {
+      "date": "2027-05-31",
+      "name": "Sfantul Apostol Ermie",
+      "cross": "",
+      "reason": "Sursa pune 'Pogorarea Sfantului Duh' (data din 2026); Rusaliile 2027 sunt pe 20 iunie"
+    },
+    {
+      "date": "2027-06-07",
+      "name": "Sfantul Teodot, episcopul Ancirei",
+      "reason": "Postul Sfintilor Apostoli 2027 incepe pe 28 iunie"
+    },
+    {
+      "date": "2027-06-08",
+      "name": "Aducerea moastelor Sfantului Teodor Stratilat",
+      "reason": "Postul Sfintilor Apostoli 2027 incepe pe 28 iunie"
+    },
+    {
+      "date": "2027-07-30",
+      "name": "Sfantul Valentin; Sfintii Apostoli Sila, Silvan, Crescent, Epenetos si Andronic",
+      "reason": "Postul Adormirii incepe pe 1 august; lasatul secului este calculat in cod"
+    },
+    {
+      "date": "2027-07-31",
+      "name": "Sfantul Evdochim",
+      "reason": "Postul Adormirii incepe pe 1 august; lasatul secului este calculat in cod"
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Sfantul Ioan Gura de Aur",
+      "reason": "Lasatul secului pentru Postul Craciunului este pe 14 noiembrie (calculat in cod)"
+    },
+    {
+      "date": "2026-11-14",
+      "name": "Sfantul Apostol Filip; Sfantul Grigorie Palama",
+      "reason": "Postul Craciunului incepe pe 15 noiembrie, nu pe 14 (calculat in cod)"
+    },
+    {
+      "date": "2027-11-13",
+      "name": "Sfantul Ioan Gura de Aur",
+      "reason": "Lasatul secului pentru Postul Craciunului este pe 14 noiembrie (calculat in cod)"
+    },
+    {
+      "date": "2027-11-14",
+      "name": "Sfantul Apostol Filip; Sfantul Grigorie Palama",
+      "reason": "Postul Craciunului incepe pe 15 noiembrie, nu pe 14 (calculat in cod)"
+    }
+  ],
+  "cross_fixes": [
+    {
+      "date": "2027-04-11",
+      "cross": "neagra",
+      "reason": "Sursa marcheaza cu rosu, dar calendarul bisericesc (Antena 3, Observator, Digi24, calendar 2026) il are cu cruce neagra sau fara cruce"
+    },
+    {
+      "date": "2027-04-13",
+      "cross": "neagra",
+      "reason": "Sursa marcheaza cu rosu, dar calendarul bisericesc (Antena 3, Observator, Digi24, calendar 2026) il are cu cruce neagra sau fara cruce"
+    },
+    {
+      "date": "2027-04-16",
+      "cross": "neagra",
+      "reason": "Sursa marcheaza cu rosu, dar calendarul bisericesc (Antena 3, Observator, Digi24, calendar 2026) il are cu cruce neagra sau fara cruce"
+    },
+    {
+      "date": "2027-04-20",
+      "cross": "neagra",
+      "reason": "Sursa marcheaza cu rosu, dar calendarul bisericesc (Antena 3, Observator, Digi24, calendar 2026) il are cu cruce neagra sau fara cruce"
+    },
+    {
+      "date": "2027-04-21",
+      "cross": "neagra",
+      "reason": "Sursa marcheaza cu rosu, dar calendarul bisericesc (Antena 3, Observator, Digi24, calendar 2026) il are cu cruce neagra sau fara cruce"
+    },
+    {
+      "date": "2027-05-02",
+      "cross": "",
+      "reason": "Paste 2027: crucea rosie este pusa de cod, nu de eticheta sursei"
+    },
+    {
+      "date": "2027-05-25",
+      "cross": "neagra",
+      "reason": "Sursa marcheaza cu rosu, dar calendarul bisericesc (Antena 3, Observator, Digi24, calendar 2026) il are cu cruce neagra sau fara cruce"
+    },
+    {
+      "date": "2027-06-04",
+      "cross": "neagra",
+      "reason": "Neconfirmat ca sarbatoare rosie in surse independente; tratat ca cruce neagra"
+    },
+    {
+      "date": "2027-06-21",
+      "cross": "",
+      "reason": "Lunea Sfantului Duh este calculata in cod"
+    },
+    {
+      "date": "2027-06-23",
+      "cross": "",
+      "reason": "Sursa marcheaza cu rosu, dar calendarul bisericesc (Antena 3, Observator, Digi24, calendar 2026) il are cu cruce neagra sau fara cruce"
+    }
+  ]
+}

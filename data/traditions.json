@@ -1,0 +1,649 @@
+{
+  "_comment": "Informatii pentru varianta 3 (sarbatori cu cruce rosie). 'fixed' = data fixa (LL-ZZ); 'pascha' = decalaj in zile fata de Pastele ortodox. 'legal' = zi libera legala in Romania (verifica anual lista oficiala). Textele sunt scrise pentru acest proiect; corecturile sunt binevenite.",
+  "feasts": [
+    {
+      "id": "acoperamantul",
+      "match": {
+        "fixed": "10-01"
+      },
+      "title": "Acoperământul Maicii Domnului",
+      "meaning": "Se pomenește vedenia Sfântului Andrei cel Nebun pentru Hristos, care a văzut în biserica din Vlaherne (Constantinopol) pe Maica Domnului ocrotind credincioșii cu vălul ei.",
+      "customs": [
+        "Zi de rugăciune și de cinstire a Maicii Domnului; în multe biserici se citește Acatistul ei.",
+        "Este hramul a numeroase biserici și mănăstiri."
+      ],
+      "names": []
+    },
+    {
+      "id": "parascheva",
+      "match": {
+        "fixed": "10-14"
+      },
+      "title": "Sfânta Cuvioasă Parascheva",
+      "meaning": "Cuvioasa Parascheva (secolul al XI-lea), născută în Epivata, în Tracia, este ocrotitoarea Moldovei. Moaștele ei se păstrează la Catedrala Mitropolitană din Iași.",
+      "customs": [
+        "Hramul de la Iași adună an de an zeci de mii de pelerini, care așteaptă ore în șir la rând ca să se închine la raclă.",
+        "Pelerinajul începe cu câteva zile înainte, iar slujbele sunt transmise în direct."
+      ],
+      "names": [
+        "Parascheva",
+        "Paraschiva",
+        "Paraschiv",
+        "Veta",
+        "Vetuța"
+      ]
+    },
+    {
+      "id": "dimitrie",
+      "match": {
+        "fixed": "10-26"
+      },
+      "title": "Sfântul Mare Mucenic Dimitrie, Izvorâtorul de Mir",
+      "meaning": "Mare mucenic din Tesalonic, ostaș roman martirizat în jurul anului 306. I se spune Izvorâtorul de Mir pentru mirul care a curs din moaștele sale.",
+      "customs": [
+        "Sâmedru în calendarul popular: se încheie anul păstoresc (început la Sângeorz, 23 aprilie) și începe iarna. Se făceau socoteli și învoieli cu argații și cu păstorii.",
+        "Sâmbăta dinaintea sărbătorii sunt Moșii de toamnă, zi de pomenire a celor adormiți."
+      ],
+      "names": [
+        "Dumitru",
+        "Dimitrie",
+        "Dumitrel",
+        "Mitică",
+        "Dumitrița",
+        "Dimitra"
+      ]
+    },
+    {
+      "id": "basarabov",
+      "match": {
+        "fixed": "10-27"
+      },
+      "title": "Sfântul Cuvios Dimitrie cel Nou (Basarabov)",
+      "meaning": "Ocrotitorul Bucureștiului. S-a născut în satul Basarabov, pe valea râului Lom (în Bulgaria de azi). Moaștele lui se află la Catedrala Patriarhală din București din 1774.",
+      "customs": [
+        "Pelerinaj la Catedrala Patriarhală din București, unde se închină moaștele sfântului.",
+        "În București este zi de hram, cu slujbe și procesiune."
+      ],
+      "names": [
+        "Dumitru",
+        "Dimitrie"
+      ]
+    },
+    {
+      "id": "arhangheli",
+      "match": {
+        "fixed": "11-08"
+      },
+      "title": "Soborul Sfinților Arhangheli Mihail și Gavriil",
+      "meaning": "Se cinstesc Sfinții Voievozi, Arhanghelii Mihail și Gavriil, și toate puterile cerești.",
+      "customs": [
+        "Este hramul a numeroase biserici.",
+        "În tradiția populară, Sfinții Voievozi sunt apărători ai oamenilor și însoțitori ai sufletelor."
+      ],
+      "names": [
+        "Mihail",
+        "Mihai",
+        "Mihaela",
+        "Mihăiță",
+        "Gavril",
+        "Gabriel",
+        "Gabriela"
+      ]
+    },
+    {
+      "id": "vovidenia",
+      "match": {
+        "fixed": "11-21"
+      },
+      "title": "Intrarea în Biserică a Maicii Domnului (Vovidenia)",
+      "meaning": "Potrivit Tradiției, la vârsta de trei ani Fecioara Maria a fost adusă la Templul din Ierusalim, unde a crescut până la logodnă.",
+      "customs": [
+        "Praznic al Maicii Domnului, cu slujbă la biserică.",
+        "În Postul Crăciunului, de Vovidenia se face dezlegare la pește."
+      ],
+      "names": []
+    },
+    {
+      "id": "andrei",
+      "match": {
+        "fixed": "11-30"
+      },
+      "title": "Sfântul Apostol Andrei, ocrotitorul României",
+      "meaning": "Cel dintâi chemat dintre apostoli. Tradiția îl socotește apostolul românilor, pentru propovăduirea în Scythia Minor (Dobrogea de azi). Se pomenește și Sfântul Andrei Șaguna, mitropolitul Transilvaniei.",
+      "customs": [
+        "Noaptea Sfântului Andrei (29 spre 30 noiembrie) este în tradiția populară noaptea strigoilor: se ung cu usturoi ușile, ferestrele și grajdurile, ca protecție.",
+        "Se pune grâu la încolțit într-o farfurie (grâul lui Sfântul Andrei). Cum crește el, așa se crede că va fi rodul anului viitor; grâul se folosește apoi la masa de Crăciun sau de Anul Nou.",
+        "Fetele își pun busuioc sub pernă ca să-și viseze ursitul."
+      ],
+      "names": [
+        "Andrei",
+        "Andreea",
+        "Andrea"
+      ],
+      "legal": true
+    },
+    {
+      "id": "nicolae",
+      "match": {
+        "fixed": "12-06"
+      },
+      "title": "Sfântul Ierarh Nicolae",
+      "meaning": "Arhiepiscopul Mirelor Lichiei (secolul al IV-lea), cunoscut pentru milostenie și ocrotitor al marinarilor și al copiilor.",
+      "customs": [
+        "În seara de 5 spre 6 decembrie copiii lasă ghetele curate la ușă sau la fereastră. Dimineața găsesc daruri mici (dulciuri, fructe) sau, pentru neascultători, o nuia.",
+        "În Postul Crăciunului este dezlegare la pește, așa că pe masă se pune de obicei pește, mai ales crap.",
+        "Este hramul a numeroase biserici și al unor unități ale Marinei."
+      ],
+      "names": [
+        "Nicolae",
+        "Nicoleta",
+        "Nicu",
+        "Nicușor",
+        "Nicoară"
+      ]
+    },
+    {
+      "id": "craciun",
+      "match": {
+        "fixed": "12-25"
+      },
+      "title": "Nașterea Domnului (Crăciunul)",
+      "meaning": "Nașterea Domnului Iisus Hristos în Betleem.",
+      "customs": [
+        "Colindatul: cete de colindători merg din casă în casă din Ajun (24 decembrie) și în zilele sărbătorii.",
+        "Masa de Crăciun, după încheierea postului: sarmale, cozonac, piftie (răcituri), cârnați și alte preparate din carne de porc.",
+        "Se împodobește bradul și se merge la Liturghia din dimineața sărbătorii."
+      ],
+      "greeting": "Hristos Se naște! - Adevărat Se naște!",
+      "names": [],
+      "legal": true
+    },
+    {
+      "id": "soborul_maicii",
+      "match": {
+        "fixed": "12-26"
+      },
+      "title": "Soborul Maicii Domnului",
+      "meaning": "A doua zi de Crăciun se cinstește Maica Domnului, care L-a născut pe Hristos. Se pomenesc și Sfântul Nicodim de la Tismana și Sfântul Gherasim.",
+      "customs": [
+        "Continuă colindatul și vizitele în familie.",
+        "Este zi liberă legală în România."
+      ],
+      "names": [
+        "Nicodim",
+        "Gherasim"
+      ],
+      "legal": true
+    },
+    {
+      "id": "stefan",
+      "match": {
+        "fixed": "12-27"
+      },
+      "title": "Sfântul Arhidiacon Ștefan",
+      "meaning": "Primul martir creștin, ucis cu pietre la Ierusalim. A treia zi de Crăciun.",
+      "customs": [
+        "Este hramul a numeroase biserici."
+      ],
+      "names": [
+        "Ștefan",
+        "Ștefana",
+        "Ștefania",
+        "Ștefănel"
+      ]
+    },
+    {
+      "id": "anul_nou",
+      "match": {
+        "fixed": "01-01"
+      },
+      "title": "Anul Nou, Sfântul Vasile cel Mare",
+      "meaning": "Tăierea împrejur cea după trup a Domnului și pomenirea Sfântului Ierarh Vasile cel Mare, arhiepiscop al Cezareei Capadociei (secolul al IV-lea).",
+      "customs": [
+        "Plugușorul: urări pentru recolta anului nou, cu clopoței și bici, în noaptea de 31 decembrie și în dimineața de 1 ianuarie.",
+        "Sorcova: copiii merg pe la case cu o crenguță împodobită și urează sănătate și belșug.",
+        "Jocuri cu măști (capra, ursul), mai ales în Moldova și Muntenia.",
+        "Se face Te Deum de Anul Nou, cu rugăciune pentru anul care începe."
+      ],
+      "greeting": "La mulți ani!",
+      "names": [
+        "Vasile",
+        "Vasilica",
+        "Vasilică"
+      ],
+      "legal": true
+    },
+    {
+      "id": "boboteaza",
+      "match": {
+        "fixed": "01-06"
+      },
+      "title": "Botezul Domnului (Boboteaza)",
+      "meaning": "Botezul Domnului în Iordan de către Sfântul Ioan Botezătorul, când s-a arătat Sfânta Treime.",
+      "customs": [
+        "Se sfințește Aghiasma Mare, apa folosită tot anul pentru binecuvântare. Se ia acasă și se bea dimineața, pe nemâncate, cu rugăciune.",
+        "Preoții merg la casele credincioșilor (Iordănitul) și le stropesc cu aghiasmă și busuioc.",
+        "În multe localități se aruncă Crucea în apă (râu, lac, mare), iar tinerii se întrec să o scoată.",
+        "Ajunul Bobotezei (5 ianuarie) este zi de post aspru (post negru)."
+      ],
+      "names": [
+        "Iordan",
+        "Iordana"
+      ],
+      "legal": true
+    },
+    {
+      "id": "ioan_botezator",
+      "match": {
+        "fixed": "01-07"
+      },
+      "title": "Soborul Sfântului Ioan Botezătorul",
+      "meaning": "Se cinstește Sfântul Ioan Botezătorul, Înaintemergătorul Domnului, care L-a botezat pe Hristos.",
+      "customs": [
+        "Una dintre zilele cu cei mai mulți sărbătoriți din an.",
+        "Este zi liberă legală în România (verifică lista oficială a anului)."
+      ],
+      "names": [
+        "Ioan",
+        "Ion",
+        "Ionel",
+        "Ionuț",
+        "Ioana",
+        "Ionela",
+        "Ionică",
+        "Ioniță"
+      ],
+      "legal": true
+    },
+    {
+      "id": "trei_ierarhi",
+      "match": {
+        "fixed": "01-30"
+      },
+      "title": "Sfinții Trei Ierarhi",
+      "meaning": "Vasile cel Mare, Grigorie Teologul și Ioan Gură de Aur, ocrotitorii învățământului și ai școlilor.",
+      "customs": [
+        "Zi a învățământului: slujbe în școli, licee și facultăți de teologie.",
+        "Mulți elevi și studenți merg la biserică pentru binecuvântare.",
+        "Biserica Sfinții Trei Ierarhi din Iași are hramul în această zi."
+      ],
+      "names": [
+        "Vasile",
+        "Grigore",
+        "Grigorie",
+        "Ioan"
+      ]
+    },
+    {
+      "id": "intampinarea",
+      "match": {
+        "fixed": "02-02"
+      },
+      "title": "Întâmpinarea Domnului (Stretenia)",
+      "meaning": "La 40 de zile de la naștere, Pruncul Iisus este adus la Templu, unde îl primește dreptul Simeon.",
+      "customs": [
+        "În calendarul popular este Ziua Ursului: se spune că ursul iese din bârlog și, dacă își vede umbra, iarna mai ține șase săptămâni."
+      ],
+      "names": [
+        "Simion",
+        "Simeon"
+      ]
+    },
+    {
+      "id": "mucenici",
+      "match": {
+        "fixed": "03-09"
+      },
+      "title": "Sfinții 40 de Mucenici din Sevastia",
+      "meaning": "Patruzeci de ostași creștini martirizați în anul 320, în Sevastia Armeniei, prin înghețare într-un lac.",
+      "customs": [
+        "Se fac mucenici: aluat în formă de opt fiert în apă cu zahăr, scorțișoară și nucă (în Muntenia și Dobrogea), sau coapte și unse cu miere și nucă (în Moldova).",
+        "În calendarul popular, ziua marchează trecerea spre primăvară."
+      ],
+      "names": []
+    },
+    {
+      "id": "buna_vestire",
+      "match": {
+        "fixed": "03-25"
+      },
+      "title": "Buna Vestire",
+      "meaning": "Arhanghelul Gavriil îi vestește Fecioarei Maria că va naște pe Fiul lui Dumnezeu.",
+      "customs": [
+        "Chiar în Postul Mare, de Buna Vestire se face dezlegare la pește.",
+        "În tradiția populară este socotită începutul primăverii: se spune că sosesc cocostârcii și rândunelele."
+      ],
+      "names": []
+    },
+    {
+      "id": "gheorghe",
+      "match": {
+        "fixed": "04-23"
+      },
+      "title": "Sfântul Mare Mucenic Gheorghe",
+      "meaning": "Ostaș roman martirizat în anul 303, numit Purtătorul de Biruință. Este ocrotitorul ostașilor și al păstorilor.",
+      "customs": [
+        "Sângeorz în calendarul popular: începe vara păstorească, iar oile și vitele sunt scoase la pășune.",
+        "Se pun ramuri verzi la porți, ferestre și grajduri, pentru belșug și ocrotire.",
+        "Este hramul a numeroase biserici."
+      ],
+      "names": [
+        "Gheorghe",
+        "George",
+        "Georgel",
+        "Gică",
+        "Gigel",
+        "Ghiță",
+        "Gheorghița",
+        "Georgeta",
+        "Georgiana",
+        "Geo"
+      ]
+    },
+    {
+      "id": "paste",
+      "match": {
+        "pascha": [
+          0,
+          1,
+          2
+        ]
+      },
+      "title": "Sfintele Paști (Învierea Domnului)",
+      "titles": [
+        "Învierea Domnului (Sfintele Paști)",
+        "Sfintele Paști, ziua a doua",
+        "Sfintele Paști, ziua a treia"
+      ],
+      "meaning": "Învierea Domnului Iisus Hristos, cea mai mare sărbătoare a creștinătății. Urmează Săptămâna Luminată.",
+      "customs": [
+        "Slujba Învierii se face în noaptea dinaintea Paștilor: credincioșii primesc Lumina din lumânarea preotului și se spune „Hristos a înviat!” - „Adevărat a înviat!”.",
+        "Se vopsesc ouă roșii (de obicei în Joia Mare) și se ciocnesc: cel care rămâne cu oul întreg „câștigă”.",
+        "Masa de Paști: pasca, cozonacul, drobul și friptura de miel, ouăle roșii și bucate care rup postul.",
+        "Salutul pascal se folosește timp de 40 de zile, până la Înălțare.",
+        "Săptămâna Luminată: nu se țin nunți."
+      ],
+      "greeting": "Hristos a înviat! - Adevărat a înviat!",
+      "names": [],
+      "legal": [
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "floriile",
+      "match": {
+        "pascha": [
+          -7
+        ]
+      },
+      "title": "Intrarea Domnului în Ierusalim (Floriile)",
+      "meaning": "Duminica dinaintea Paștilor: Hristos intră în Ierusalim, primit de popor cu ramuri de finic și cu strigăte de laudă.",
+      "customs": [
+        "La biserică se sfințesc ramuri de salcie, care se duc acasă și se pun la icoane, la porți și la ferestre.",
+        "Este zi de dezlegare la pește în Postul Mare.",
+        "Zi onomastică pentru cei cu nume de flori sau de pomi."
+      ],
+      "names": [
+        "Florin",
+        "Florina",
+        "Florian",
+        "Florica",
+        "Viorel",
+        "Viorica",
+        "Margareta",
+        "Camelia",
+        "Narcis",
+        "Narcisa",
+        "Crina",
+        "Lăcrămioara"
+      ]
+    },
+    {
+      "id": "vinerea_mare",
+      "match": {
+        "pascha": [
+          -2
+        ]
+      },
+      "title": "Vinerea Mare (Vinerea Patimilor)",
+      "meaning": "Se pomenesc răstignirea, moartea și punerea în mormânt a Domnului. Este zi aliturgică, adică fără Liturghie.",
+      "customs": [
+        "Zi de post aspru (post negru).",
+        "Seara se face Prohodul Domnului, cu procesiune în jurul bisericii, iar credincioșii se închină la Epitaf."
+      ],
+      "names": [],
+      "legal": true
+    },
+    {
+      "id": "izvorul",
+      "match": {
+        "pascha": [
+          5
+        ]
+      },
+      "title": "Izvorul Tămăduirii",
+      "meaning": "Vinerea din Săptămâna Luminată, dedicată Maicii Domnului ca izvor de vindecare, după icoana făcătoare de minuni de la Constantinopol.",
+      "customs": [
+        "Se sfințește apa (aghiasmă mică) în multe biserici, iar credincioșii o iau acasă.",
+        "Zi de pelerinaj la mănăstiri cu hramul Izvorul Tămăduirii."
+      ],
+      "names": []
+    },
+    {
+      "id": "inaltarea",
+      "match": {
+        "pascha": [
+          39
+        ]
+      },
+      "title": "Înălțarea Domnului (Ziua Eroilor)",
+      "meaning": "Înălțarea la cer a Domnului, la 40 de zile după Înviere. În România este și Ziua Eroilor.",
+      "customs": [
+        "Ispasul, numele popular al sărbătorii. De acum salutul pascal se schimbă în „Hristos S-a înălțat!” - „Adevărat S-a înălțat!”.",
+        "Se depun coroane la monumentele eroilor și se fac slujbe de pomenire pentru ostașii căzuți."
+      ],
+      "greeting": "Hristos S-a înălțat! - Adevărat S-a înălțat!",
+      "names": []
+    },
+    {
+      "id": "rusalii",
+      "match": {
+        "pascha": [
+          49,
+          50
+        ]
+      },
+      "title": "Pogorârea Duhului Sfânt (Rusaliile)",
+      "titles": [
+        "Pogorârea Duhului Sfânt (Rusaliile)",
+        "Lunea Sfântului Duh"
+      ],
+      "meaning": "La 50 de zile de la Paști, Duhul Sfânt Se pogoară peste apostoli. Se pomenește și Sfânta Treime. Este considerată ziua întemeierii Bisericii.",
+      "customs": [
+        "Bisericile și casele se împodobesc cu ramuri verzi (tei, nuc, paltin).",
+        "Seara se face Vecernia cu rugăciunile îngenuncherii.",
+        "Lunea se cinstește Duhul Sfânt (Lunea Sfântului Duh)."
+      ],
+      "names": [],
+      "legal": [
+        true,
+        true
+      ]
+    },
+    {
+      "id": "constantin_elena",
+      "match": {
+        "fixed": "05-21"
+      },
+      "title": "Sfinții Împărați Constantin și Elena",
+      "meaning": "Constantin cel Mare (Edictul de la Milano, 313) și mama sa, Elena, care a găsit Crucea Domnului la Ierusalim.",
+      "customs": [
+        "Una dintre zilele cu mulți sărbătoriți.",
+        "Este hramul a numeroase biserici."
+      ],
+      "names": [
+        "Constantin",
+        "Constanța",
+        "Costel",
+        "Costin",
+        "Costică",
+        "Elena",
+        "Ileana",
+        "Lenuța"
+      ]
+    },
+    {
+      "id": "nasterea_ioan",
+      "match": {
+        "fixed": "06-24"
+      },
+      "title": "Nașterea Sfântului Ioan Botezătorul (Sânzienele)",
+      "meaning": "Nașterea Sfântului Ioan Botezătorul, cu șase luni înaintea Nașterii Domnului.",
+      "customs": [
+        "Sânzienele (Drăgaica): se împletesc cununi din flori de sânziene (Galium verum), care se atârnă la porți, uși, ferestre și hambare, pentru ocrotire și belșug."
+      ],
+      "names": [
+        "Ioan",
+        "Ion",
+        "Ionel",
+        "Ioana",
+        "Ionuț",
+        "Sânziana"
+      ]
+    },
+    {
+      "id": "petru_pavel",
+      "match": {
+        "fixed": "06-29"
+      },
+      "title": "Sfinții Apostoli Petru și Pavel",
+      "meaning": "Cei doi apostoli, „stâlpii Bisericii”, martirizați la Roma în vremea împăratului Nero. Sărbătoarea încheie Postul Sfinților Apostoli, care se termină în ajun (28 iunie).",
+      "customs": [
+        "Sânpetru în calendarul popular: se spune că de la Sânpetru nu mai cântă cucul.",
+        "Este hramul a numeroase biserici."
+      ],
+      "names": [
+        "Petru",
+        "Petre",
+        "Petrică",
+        "Pavel",
+        "Paul",
+        "Paula"
+      ]
+    },
+    {
+      "id": "ilie",
+      "match": {
+        "fixed": "07-20"
+      },
+      "title": "Sfântul Proroc Ilie",
+      "meaning": "Ilie Tesviteanul, ridicat la cer într-un car de foc.",
+      "customs": [
+        "Sântilie în calendarul popular: stăpânul tunetelor, al fulgerelor și al ploii. Se spune că de la Sântilie vremea se schimbă și încep zilele cu furtuni.",
+        "Este hramul a numeroase biserici, mai ales pe dealuri și munți."
+      ],
+      "names": [
+        "Ilie",
+        "Iliuță",
+        "Ilinca"
+      ]
+    },
+    {
+      "id": "schimbarea",
+      "match": {
+        "fixed": "08-06"
+      },
+      "title": "Schimbarea la Față a Domnului",
+      "meaning": "Pe muntele Tabor, Iisus Se arată în slavă înaintea apostolilor Petru, Iacov și Ioan.",
+      "customs": [
+        "În Postul Adormirii, de Schimbarea la Față se face dezlegare la pește.",
+        "Se binecuvântează primele roade, mai ales strugurii (pârga viei)."
+      ],
+      "names": []
+    },
+    {
+      "id": "adormirea",
+      "match": {
+        "fixed": "08-15"
+      },
+      "title": "Adormirea Maicii Domnului (Sfânta Maria Mare)",
+      "meaning": "Se pomenește trecerea din această viață a Maicii Domnului. Sărbătoarea încheie Postul Adormirii (ultima zi de post este 14 august).",
+      "customs": [
+        "Una dintre cele mai mari sărbători ale anului, cu mulți sărbătoriți (Maria, Marian, Mariana, Marin, Marius).",
+        "Pelerinaje la mănăstiri cu hramul Adormirii, de exemplu Nicula, Putna și Tismana.",
+        "Se sfințesc buchete de flori și ierburi de leac."
+      ],
+      "names": [
+        "Maria",
+        "Marian",
+        "Mariana",
+        "Marin",
+        "Marius",
+        "Marinela"
+      ],
+      "legal": true
+    },
+    {
+      "id": "taierea",
+      "match": {
+        "fixed": "08-29"
+      },
+      "title": "Tăierea capului Sfântului Ioan Botezătorul",
+      "meaning": "Se pomenește decapitarea Sfântului Ioan Botezătorul, din porunca lui Irod Antipa.",
+      "customs": [
+        "Zi de post aspru (post negru).",
+        "În tradiția populară se evită alimentele rotunde, de exemplu varza sau pepenele."
+      ],
+      "names": [
+        "Ioan",
+        "Ion",
+        "Ionel",
+        "Ioana"
+      ]
+    },
+    {
+      "id": "anul_bisericesc",
+      "match": {
+        "fixed": "09-01"
+      },
+      "title": "Începutul anului bisericesc",
+      "meaning": "Biserica începe un nou ciclu liturgic. Se pomenește și Sfântul Dionisie Exiguul.",
+      "customs": [
+        "Pentru elevi, 1 septembrie este și începutul anului școlar; în multe biserici se fac rugăciuni pentru elevi și profesori."
+      ],
+      "names": []
+    },
+    {
+      "id": "nasterea_maicii",
+      "match": {
+        "fixed": "09-08"
+      },
+      "title": "Nașterea Maicii Domnului (Sfânta Maria Mică)",
+      "meaning": "Nașterea Fecioarei Maria, din Ioachim și Ana.",
+      "customs": [
+        "Zi cu mulți sărbătoriți (Maria, Mariana).",
+        "În calendarul popular, Sfânta Maria Mică marchează începutul toamnei."
+      ],
+      "names": [
+        "Maria",
+        "Mariana",
+        "Marian"
+      ]
+    },
+    {
+      "id": "inaltarea_crucii",
+      "match": {
+        "fixed": "09-14"
+      },
+      "title": "Înălțarea Sfintei Cruci",
+      "meaning": "Se pomenește aflarea Crucii Domnului de către Sfânta Elena și înălțarea ei înaintea credincioșilor, la Ierusalim.",
+      "customs": [
+        "Zi de post aspru (post negru).",
+        "La biserică se aduce busuioc, care se pune în jurul Crucii și se împarte credincioșilor; busuiocul binecuvântat se păstrează acasă."
+      ],
+      "names": []
+    }
+  ]
+}
